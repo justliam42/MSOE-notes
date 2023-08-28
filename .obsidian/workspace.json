@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "6829d793cad7ac77",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf"
-              }
-            }
-          },
-          {
             "id": "41da6bb4773ecd25",
             "type": "leaf",
             "state": {
@@ -42,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
