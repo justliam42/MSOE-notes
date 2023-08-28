@@ -18,7 +18,7 @@ see picture*
 - analog electrical signal
 - one way to do numbers is by using voltages representing different numbers (analog)
     - problem with this approach is precision and speed
-    - this is analog![[Introduction to Programming with Java_2e.pdf]]
+    - this is analog
     - have to generate between 0-9 volts cleanly without noise and identify the volts (in base ten)
         - or do this with amps which slows down behavior
 - so we use 0 or 1 (digital abstraction)
