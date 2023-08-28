@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "6829d793cad7ac77",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf"
-              }
-            }
-          },
-          {
             "id": "41da6bb4773ecd25",
             "type": "leaf",
             "state": {
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,11 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41da6bb4773ecd25",
+  "active": "9f456c269c0f959e",
   "lastOpenFiles": [
     "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf",
-    "Books/!Info.md",
     "conflict-files-obsidian-git.md",
+    "Books/!Info.md",
     "Books/Introduction to Programming with Java_2e.pdf",
     "Books",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
