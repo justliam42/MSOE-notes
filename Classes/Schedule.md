@@ -4,7 +4,7 @@
  - 13:00 [[CSC 1110]] - *DH240*
 ### Tue:
  - 08:00 - [[CPE 1500]] **lab** - *S343*
- - 12:00 - *Programming seminar* - *Dierks Auditorium*
+ - 12:00 - Programming seminar - *Dierks Auditorium*
  - 13:00 [[CSC 1110]] - *DH240*
  - 16:00 [[MTH 2130]] - *L304*
 ### Wed:
