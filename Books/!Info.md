@@ -2,7 +2,6 @@
 https://drive.google.com/file/d/1JSfbLnN67icY7HAf3-gpQOO3dsCVy_Tx/view?usp=sharing
 
 <div class="oembed external-link" style="width:100%"><a href="https://drive.google.com/file/d/1JSfbLnN67icY7HAf3-gpQOO3dsCVy_Tx/view?usp=sharing"></a></div>
-```
-<div class="oembed external-link" style="width:100%"><a href="https://drive.google.com/file/d/1JSfbLnN67icY7HAf3-gpQOO3dsCVy_Tx/view?usp=sharing"></a></div>
-```
+
+
 
