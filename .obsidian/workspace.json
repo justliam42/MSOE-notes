@@ -11,13 +11,36 @@
             "id": "9f456c269c0f959e",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/!Info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6829d793cad7ac77",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Books/Introduction to Programming with Java_2e.pdf"
+                "file": "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf"
+              }
+            }
+          },
+          {
+            "id": "41da6bb4773ecd25",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Introduction to Programming with Java_2e.pdf",
+                "file": "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Introduction to Programming with Java_2e.pdf",
+                "file": "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Introduction to Programming with Java_2e.pdf"
+                "file": "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf"
               }
             }
           },
@@ -155,8 +178,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d0a63a33f3a9c4a",
+  "active": "41da6bb4773ecd25",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf",
     "Books/!Info.md",
     "Books/Introduction to Programming with Java_2e.pdf",
     "Books",
