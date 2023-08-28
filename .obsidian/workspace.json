@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Books/!Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Books/!Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Books/!Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Books/!Info.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "16a357c2e60b105d",
   "lastOpenFiles": [
-    "Books/!Info.md",
     "conflict-files-obsidian-git.md",
+    "Books/!Info.md",
     "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf",
     "Books/Introduction to Programming with Java_2e.pdf",
     "Books",
