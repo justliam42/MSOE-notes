@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -159,16 +159,16 @@
   },
   "active": "e481962e25417f36",
   "lastOpenFiles": [
-    "Classes/CPE 1500/CPE 1500.md",
-    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
-    "Classes/COM 1001/COM 1001.md",
+    "Classes/Schedule.md",
     "TODO (homework).md",
+    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+    "Classes/CPE 1500/CPE 1500.md",
+    "Classes/COM 1001/COM 1001.md",
     "Books/!Info.md",
     "conflict-files-obsidian-git.md",
     "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf",
     "Books/Introduction to Programming with Java_2e.pdf",
     "Books",
-    "Classes/Schedule.md",
     "Classes/CSC 1110/CSC 1110.md",
     "Classes/CSC 1110",
     "Classes/COM 1001",
