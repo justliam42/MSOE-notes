@@ -56,3 +56,10 @@ Battery voltage has historically been 5 volts, could also be 3.3v
 	  - increases battery lifetime
 	  - 
    - instead of recording the voltage, it was decided that it will be 0 or 1
+
+#### Binary things
+Our counting system (base 10)
+1000s 100s 10s 1s ...
+
+romans be like
+I II III IV V
