@@ -68,3 +68,4 @@ romans be like
 I II III IV V
 
 
+in binary the precision or range is much less for the same number of columns but the advantage of speed and noise tolerance far outweighs that disadvantage
