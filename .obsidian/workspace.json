@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/COM 1001/COM 1001.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/COM 1001/COM 1001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/COM 1001/COM 1001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Classes/COM 1001/COM 1001.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "e481962e25417f36",
   "lastOpenFiles": [
+    "TODO (homework).md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/COM 1001/COM 1001.md",
@@ -168,7 +169,6 @@
     "Books/Introduction to Programming with Java_2e.pdf",
     "Books",
     "Classes/Schedule.md",
-    "TODO (homework).md",
     "Classes/CSC 1110/CSC 1110.md",
     "Classes/CSC 1110",
     "Classes/COM 1001",
