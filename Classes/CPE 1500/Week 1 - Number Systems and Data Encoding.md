@@ -1,3 +1,4 @@
+-- 8/28/23 --
 computer engineering is the moving of energy around to compute
 
 Voltage - named after Volta
@@ -37,3 +38,4 @@ binary computers became standard a 1960s
 (day one)
 ![[cpe graphs day 1.jpg]]
 
+-- 8/29/23 --
