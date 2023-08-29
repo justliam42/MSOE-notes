@@ -1,2 +1,3 @@
 - [ ] CPE 1500 Homework HW2 (paper for now) 
-- [ ] 
+	- [ ] buy engineering computation paper (get the 100 sheet version)
+	- [ ] 
