@@ -43,4 +43,6 @@ some ways of stuff makes a sine graph
 
 when electrical potential energy changes, the flow changes directions (vibrating)\
 170 volts out of the wall
+in real-valued (analog) signals, it boosts or interferes with the wave
 
+ionized chemicals kept seperate in a battery creates a positiv
