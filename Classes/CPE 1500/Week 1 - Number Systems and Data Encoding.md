@@ -97,3 +97,5 @@ unsigned precision table
 64 bit [0, 18+quintillion]
 first commercial processor 1971 intel 4001 or something. 4 bit processor
 a year later they used 8 bit processor
+
+in ISO 80000, the 8-bit value has the unit byte.
