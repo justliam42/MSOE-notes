@@ -52,3 +52,7 @@ ionized chemicals kept separate in a battery creates a positive and negative sid
 	- 0V - Battery voltage (Vbat)
 
 Battery voltage has historically been 5 volts, could also be 3.3v
+ - miniaturization has made battery voltage requirements less (doesn't have to carry the energy as far) 
+	  - increases battery lifetime
+	  - 
+   - instead of recording the voltage, it was decided that it will be 0 or 1
