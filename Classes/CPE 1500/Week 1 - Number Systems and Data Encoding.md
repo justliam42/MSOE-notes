@@ -103,4 +103,5 @@ in ISO 80000, the 8-bit value has the unit byte. This is the only standardized u
 
 DIV-BY-BASE
 - ex: div-by-2
-	- write long-division upside-down
+	- write long-division upside-down idk
+	- keep dividing by two and remainders become the backwards moment
