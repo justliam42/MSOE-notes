@@ -21,9 +21,9 @@
             "id": "2936f925ed82b412",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "HW1.pdf"
+                "file": "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HW1.pdf",
+                "file": "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HW1.pdf",
+                "file": "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HW1.pdf"
+                "file": "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md"
               }
             }
           },
@@ -168,10 +168,10 @@
   },
   "active": "2936f925ed82b412",
   "lastOpenFiles": [
+    "HW1.pdf",
     "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md",
     "Excalidraw/Drawing 2023-08-29 13.37.46.excalidraw.md",
     "TODO (homework).md",
-    "HW1.pdf",
     "Excalidraw",
     "Classes/CSC 1110/notes.md",
     "Classes/CSC 1110/CSC 1110.md",
