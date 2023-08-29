@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md"
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md"
               }
             }
           },
@@ -159,10 +159,10 @@
   },
   "active": "e481962e25417f36",
   "lastOpenFiles": [
-    "TODO (homework).md",
-    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/COM 1001/COM 1001.md",
+    "TODO (homework).md",
+    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Books/!Info.md",
     "conflict-files-obsidian-git.md",
     "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf",
