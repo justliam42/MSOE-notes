@@ -39,3 +39,8 @@ binary computers became standard a 1960s
 ![[cpe graphs day 1.jpg]]
 
 -- 8/29/23 --
+some ways of stuff makes a sine graph
+
+when electrical potential energy changes, the flow changes directions (vibrating)\
+170 volts out of the wall
+
