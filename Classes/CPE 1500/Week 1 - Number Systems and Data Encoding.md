@@ -75,3 +75,6 @@ much of binary stuff was made by george bool (boolean)
 
 binary digit = bit
 - is either 0 or 1
+
+- unsigned n-bit number line
+	- 
