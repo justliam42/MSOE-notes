@@ -72,3 +72,6 @@ in binary the precision or range is much less for the same number of columns but
 
 A positional system uses a discrete base set of symbols. 10 symbols is base 10, 2 symbols is base 2
 much of binary stuff was made by george bool (boolean)
+
+binary digit = bit
+- is either 0 or 1
