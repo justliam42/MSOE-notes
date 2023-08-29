@@ -49,3 +49,6 @@ ionized chemicals kept separate in a battery creates a positive and negative sid
 	- this is countable
 	- countable = digital (fingers)
 	- digital abstraction
+	- 0V - Battery voltage (Vbat)
+
+Battery voltage has historically been 5 volts, could also be 3.3v
