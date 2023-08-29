@@ -80,3 +80,15 @@ binary digit = bit
 
 precision of binary becomes [0,(2^n)-1]
 unsigned precision table
+4 bit [0,15]
+4 bit [0,31]
+4 bit [0,63]
+4 bit [0,127]
+4 bit [0,255]
+4 bit [0,511]
+4 bit [0,]
+4 bit [0,15]
+4 bit [0,15]
+4 bit [0,15]
+4 bit [0,15]
+4 bit [0,15]
