@@ -105,3 +105,6 @@ DIV-BY-BASE
 - ex: div-by-2
 	- write long-division upside-down idk
 	- keep dividing by two and remainders become the backwards moment
+
+128 + 32 +16 + 8 +4 +2 +0
+10111110
