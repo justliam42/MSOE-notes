@@ -99,4 +99,4 @@ first commercial processor 1971 intel 4001 or something. 4 bit processor
 a year later they used 8 bit processor
 
 in ISO 80000, the 8-bit value has the unit byte. This is the only standardized unit of bits
-01001010
+01001100 -> 76 01011001
