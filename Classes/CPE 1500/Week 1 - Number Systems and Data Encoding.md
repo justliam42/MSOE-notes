@@ -108,3 +108,6 @@ DIV-BY-BASE
 
 128 + 32 +16 + 8 +4 +2 +0
 10111110
+
+
+nibble (not standard) 4-bit (potentially nybble)
