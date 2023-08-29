@@ -80,11 +80,11 @@ binary digit = bit
 
 precision of binary becomes [0,(2^n)-1]
 unsigned precision table
-4 bit [0,15]
+4 bit [0,15] (nibble)
 5 bit [0,31]
 6 bit [0,63]
 7 bit [0,127]
-8 bit [0,255]
+8 bit [0,255] (byte)
 9 bit [0,511]
 10 bit [0,1027]
 11 bit [0,2047]
