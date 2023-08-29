@@ -77,4 +77,6 @@ binary digit = bit
 - is either 0 or 1
 
 - unsigned n-bit number line
-	- 
+
+precision of binary becomes [0,(2^n)-1]
+unsigned precision table
