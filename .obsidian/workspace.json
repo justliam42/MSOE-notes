@@ -21,9 +21,11 @@
             "id": "2936f925ed82b412",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md"
+                "file": "Books/!Info.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md",
+                "file": "Books/!Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md",
+                "file": "Books/!Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md"
+                "file": "Books/!Info.md"
               }
             }
           },
@@ -166,12 +168,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d0a63a33f3a9c4a",
+  "active": "2936f925ed82b412",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md",
     "~$HW1.pdf",
     "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.png",
     "Excalidraw/Drawing 2023-08-29 13.38.52.png.png",
-    "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md",
     "Pasted Image 20230829143001_533.png",
     "Pasted Image 20230829143001_500.png",
     "HW1.pdf",
@@ -197,7 +199,6 @@
     "pictures/cpe graphs day 1.jpg",
     "pictures",
     "Classes/CPE 1500",
-    "Classes.md",
-    "Classes"
+    "Classes.md"
   ]
 }
