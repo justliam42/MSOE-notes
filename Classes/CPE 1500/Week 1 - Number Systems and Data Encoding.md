@@ -94,5 +94,6 @@ unsigned precision table
 15 bit [0,32767]
 16 bit [0,65535]
 32 bit [0, 4+billion]
+64 bit [0, 18+quintillion]
 first commercial processor 1971 intel 4001 or something. 4 bit processor
 a year later they used 8 bit processor
