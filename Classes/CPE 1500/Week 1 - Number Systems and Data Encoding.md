@@ -34,5 +34,10 @@ we built analog computers for years
 
 binary computers became standard a 1960s
 
-
+(day one)
 ![[cpe graphs day 1.jpg]]
+
+
+
+
+
