@@ -100,3 +100,7 @@ a year later they used 8 bit processor
 
 in ISO 80000, the 8-bit value has the unit byte. This is the only standardized unit of bits
 01001100 -> 76 01011001
+
+DIV-BY-BASE
+- ex: div-by-2
+	- write long-division upside-down
