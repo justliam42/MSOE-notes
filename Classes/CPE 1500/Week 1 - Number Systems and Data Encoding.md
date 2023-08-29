@@ -45,4 +45,4 @@ when electrical potential energy changes, the flow changes directions (vibrating
 170 volts out of the wall
 in real-valued (analog) signals, it boosts or interferes with the wave
 
-ionized chemicals kept seperate in a battery creates a positiv
+ionized chemicals kept separate in a battery creates a positive and negative side. As long as the sides aren't connected, there is no kinetic energy. Only potential energy. The voltage 
