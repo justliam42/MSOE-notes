@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CSC 1110/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CSC 1110/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CSC 1110/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Classes/CSC 1110/notes.md"
               }
             }
           },
@@ -157,19 +157,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e481962e25417f36",
+  "active": "9d0a63a33f3a9c4a",
   "lastOpenFiles": [
-    "Books/!Info.md",
+    "Classes/CSC 1110/CSC 1110.md",
+    "Classes/CSC 1110/notes.md",
+    "Classes/Schedule.md",
     "TODO (homework).md",
+    "Books/!Info.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
-    "Classes/Schedule.md",
     "Classes/COM 1001/COM 1001.md",
     "conflict-files-obsidian-git.md",
     "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf",
     "Books/Introduction to Programming with Java_2e.pdf",
     "Books",
-    "Classes/CSC 1110/CSC 1110.md",
     "Classes/CSC 1110",
     "Classes/COM 1001",
     "Untitled.canvas",
