@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1fc8749a0f565051",
+        "id": "33d24ef965a1fb8a",
         "type": "tabs",
         "children": [
           {
-            "id": "e481962e25417f36",
+            "id": "1dc3cf5c11be1dfc",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -16,8 +16,19 @@
                 "file": "HW1.pdf"
               }
             }
+          },
+          {
+            "id": "2936f925ed82b412",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HW1.pdf",
+                "file": "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HW1.pdf",
+                "file": "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HW1.pdf"
+                "file": "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md"
               }
             }
           },
@@ -155,10 +166,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e481962e25417f36",
+  "active": "2936f925ed82b412",
   "lastOpenFiles": [
-    "TODO (homework).md",
     "HW1.pdf",
+    "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-29 13.37.46.excalidraw.md",
+    "Excalidraw",
+    "TODO (homework).md",
     "Classes/CSC 1110/notes.md",
     "Classes/CSC 1110/CSC 1110.md",
     "Classes/Schedule.md",
