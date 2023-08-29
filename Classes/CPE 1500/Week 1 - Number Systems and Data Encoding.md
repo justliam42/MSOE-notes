@@ -80,21 +80,22 @@ binary digit = bit
 
 precision of binary becomes [0,(2^n)-1]
 unsigned precision table
-4 bit [0,15] (nibble)
-5 bit [0,31]
-6 bit [0,63]
-7 bit [0,127]
-8 bit [0,255] (byte)
-9 bit [0,511]
-10 bit [0,1027]
-11 bit [0,2047]
-12 bit [0,4095]
-13 bit [0,8191]
-14 bit [0,16383]
-15 bit [0,32767]
-16 bit [0,65535]
-32 bit [0, 4+billion]
-64 bit [0, 18+quintillion]
+| 4 bit  | [0,15]              | (nibble) |
+| ------ | ------------------- | -------- |
+| 5 bit  | [0,31]              |          |
+| 6 bit  | [0,63]              |          |
+| 7 bit  | [0,127]             |          |
+| 8 bit  | [0,255]             | (byte)   |
+| 9 bit  | [0,511]             |          |
+| 10 bit | [0,1027]            |          |
+| 11 bit | [0,2047]            |          |
+| 12 bit | [0,4095]            |          |
+| 13 bit | [0,8191]            |          |
+| 14 bit | [0,16383]           |          |
+| 15 bit | [0,32767]           |          |
+| 16 bit | [0,65535]           |          |
+| 32 bit | [0, 4+billion]      |          |
+| 64 bit | [0, 18+quintillion] |          |
 first commercial processor 1971 intel 4001 or something. 4 bit processor
 a year later they used 8 bit processor
 
