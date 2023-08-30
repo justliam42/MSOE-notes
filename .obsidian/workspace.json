@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Classes/MTH 2130/MTH 2130.md"
               }
             }
           },
@@ -159,6 +159,10 @@
   },
   "active": "1dc3cf5c11be1dfc",
   "lastOpenFiles": [
+    "Classes/COM 1001/COM 1001.md",
+    "Classes/MTH 2130/MTH 2130.md",
+    "TODO (homework).md",
+    "Classes/MTH 2130",
     "HW1.pdf",
     "Pasted Image 20230829143001_500.png",
     "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md",
@@ -168,14 +172,12 @@
     "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.png",
     "Pasted Image 20230829143001_533.png",
     "Excalidraw/Drawing 2023-08-29 13.37.46.excalidraw.md",
-    "TODO (homework).md",
     "Excalidraw",
     "Classes/CSC 1110/notes.md",
     "Classes/CSC 1110/CSC 1110.md",
     "Classes/Schedule.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
-    "Classes/COM 1001/COM 1001.md",
     "conflict-files-obsidian-git.md",
     "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf",
     "Books/Introduction to Programming with Java_2e.pdf",
@@ -187,7 +189,6 @@
     "Classes/CPE 1500/Weeks 9 and 10 - Synchronous finite state machines.md",
     "pictures/cpe graphs day 1.jpg",
     "pictures",
-    "Classes/CPE 1500",
     "Classes.md"
   ]
 }
