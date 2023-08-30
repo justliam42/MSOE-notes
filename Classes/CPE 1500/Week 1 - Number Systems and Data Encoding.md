@@ -118,4 +118,5 @@ nibble (not standard) 4-bit (potentially nybble)
 -- 8/30/2023 --
 minimum number of bits to represent decimal number X is 
 	n = ceil(log<sub>2</sub>x)
-	aka 2<sup>?</sup> = x
+	aka 2<sup>?</sup> = x![[20230830_082840.jpg]]
+	
