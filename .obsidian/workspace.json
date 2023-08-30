@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+                "file": "Classes/CPE 1500/Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+                "file": "Classes/CPE 1500/Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+                "file": "Classes/CPE 1500/Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md"
+                "file": "Classes/CPE 1500/Definitions.md"
               }
             }
           },
@@ -172,9 +172,9 @@
   },
   "active": "03647a4a9c2f3de4",
   "lastOpenFiles": [
+    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Definitions.md",
     "Classes/CPE 1500/CPE 1500.md",
-    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/Schedule.md",
     "TODO (homework).md",
     "Classes/MTH 2130/MTH 2130.md",

@@ -7,3 +7,5 @@
 	- the "ones" column
 - most-significant bit
 	- the z^(n-1) column of an n-bit wide number
+- precision
+	- the number of values possible in n-bits
