@@ -116,3 +116,4 @@ nibble (not standard) 4-bit (potentially nybble)
 
 
 -- 8/30/2023 --
+minimum number of bits to represent dcimal nimber X is 
