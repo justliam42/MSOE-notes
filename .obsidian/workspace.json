@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/!Info.md"
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md"
               }
             }
           },
@@ -170,22 +170,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41da6bb4773ecd25",
+  "active": "9d0a63a33f3a9c4a",
   "lastOpenFiles": [
-    "pictures/20230830_082840.jpg",
     "Classes/MTH 2130/MTH 2130.md",
+    "Classes/CPE 1500/CPE 1500.md",
+    "Classes/COM 1001/COM 1001.md",
+    "Books/!Info.md",
+    "pictures/20230830_082840.jpg",
     "Classes/MTH 2130",
     "Classes/CSC 1110/notes.md",
     "Classes/CPE 1500/Definitions.md",
     "Classes/COM 1001/Road Trip with a friend.md",
     "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf",
-    "Books/!Info.md",
     "conflict-files-obsidian-git.md",
     "Books/Introduction to Programming with Java_2e.pdf",
     "Books",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
-    "Classes/CPE 1500/CPE 1500.md",
-    "Classes/COM 1001/COM 1001.md",
     "Classes/Schedule.md",
     "TODO (homework).md",
     "Classes/CSC 1110/CSC 1110.md",
