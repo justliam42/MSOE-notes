@@ -121,4 +121,5 @@ minimum number of bits to represent decimal number X is
 	aka 2<sup>?</sup> = x
 	![[20230830_082840.jpg|500]]
 
-Writing in binary is annoying, therefore we write in octal, which is now deprecated, so we write in hexadecim
+Writing in binary is annoying, therefore we write in octal, which is now deprecated, so we write in hexadecimal
+
