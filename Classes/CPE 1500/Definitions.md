@@ -1,4 +1,9 @@
 - byte
 	- an 8-bit wide number
 	- the only standardized unit of data (ISO 80000)
-	- 
+- nibble
+	- commonly used name for a 4-bit number
+- least-significant bit
+	- the "ones" column
+- most-significant bit
+	- the z^(n-1) column of an n-bit wide number
