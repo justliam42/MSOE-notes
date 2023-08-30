@@ -109,7 +109,7 @@ DIV-BY-BASE
 	- keep dividing by two and remainders become the backwards moment
 
 128 + 32 +16 + 8 +4 +2 +0
-10111110
+10111110<sub>2</sub>
 
 
 nibble (not standard) 4-bit (potentially nybble)
