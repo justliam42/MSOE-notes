@@ -123,3 +123,4 @@ minimum number of bits to represent decimal number X is
 
 Writing in binary is annoying, therefore we write in octal, which is now deprecated, so we write in hexadecimal
 
+In programming, hex is written is 0x FFFF...
