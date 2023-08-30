@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Classes/MTH 2130/MTH 2130.md"
               }
             }
           },
@@ -170,10 +170,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d0a63a33f3a9c4a",
+  "active": "03647a4a9c2f3de4",
   "lastOpenFiles": [
-    "Books/!Info.md",
     "TODO (homework).md",
+    "Books/!Info.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "pictures/20230830_082840.jpg",
     "Classes/CPE 1500/Definitions.md",
