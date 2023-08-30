@@ -38,7 +38,7 @@ binary computers became standard a 1960s
 (day one)
 ![[cpe graphs day 1.jpg]]
 
--- 8/29/23 --
+#### -- 8/29/23 --
 some ways of stuff makes a sine graph
 
 when electrical potential energy changes, the flow changes directions (vibrating)\
@@ -116,4 +116,3 @@ nibble (not standard) 4-bit (potentially nybble)
 
 
 #### -- 8/30/2023 --
-

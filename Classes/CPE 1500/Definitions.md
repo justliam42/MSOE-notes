@@ -1,0 +1,4 @@
+- byte
+	- an 8-bit wide number
+	- the only standardized unit of data (ISO 80000)
+	- 

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+                "file": "Classes/CPE 1500/CPE 1500.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03647a4a9c2f3de4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CPE 1500/Definitions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+                "file": "Classes/CPE 1500/Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+                "file": "Classes/CPE 1500/Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md"
+                "file": "Classes/CPE 1500/Definitions.md"
               }
             }
           },
@@ -157,9 +170,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1dc3cf5c11be1dfc",
+  "active": "9d0a63a33f3a9c4a",
   "lastOpenFiles": [
     "Classes/CPE 1500/CPE 1500.md",
+    "Classes/CPE 1500/Definitions.md",
+    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/Schedule.md",
     "TODO (homework).md",
     "Classes/MTH 2130/MTH 2130.md",
@@ -177,7 +192,6 @@
     "Excalidraw",
     "Classes/CSC 1110/notes.md",
     "Classes/CSC 1110/CSC 1110.md",
-    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "conflict-files-obsidian-git.md",
     "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf",
     "Books/Introduction to Programming with Java_2e.pdf",
