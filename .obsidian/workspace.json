@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/MTH 2130/MTH 2130.md",
+                "file": "Classes/COM 1001/COM 1001.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/MTH 2130/MTH 2130.md",
+                "file": "Classes/COM 1001/COM 1001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/MTH 2130/MTH 2130.md",
+                "file": "Classes/COM 1001/COM 1001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/MTH 2130/MTH 2130.md"
+                "file": "Classes/COM 1001/COM 1001.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "03647a4a9c2f3de4",
   "lastOpenFiles": [
+    "Classes/MTH 2130/MTH 2130.md",
     "TODO (homework).md",
     "Books/!Info.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
@@ -179,7 +180,6 @@
     "Classes/CPE 1500/Definitions.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/Schedule.md",
-    "Classes/MTH 2130/MTH 2130.md",
     "Classes/COM 1001/COM 1001.md",
     "Classes/MTH 2130",
     "HW1.pdf",
