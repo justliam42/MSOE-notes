@@ -1,2 +1,1 @@
-Brooklyn, NY
-Statue of liberty
+Statue of Liberty
