@@ -113,3 +113,7 @@ DIV-BY-BASE
 
 
 nibble (not standard) 4-bit (potentially nybble)
+
+
+#### -- 8/30/2023 --
+
