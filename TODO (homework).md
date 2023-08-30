@@ -1,2 +1,2 @@
-- [ ] CPE 1500 Homework HW2 (paper for now) 
-	- [ ] 
+- [ ] Road trip with a Friend
+	- [ ] Figure out what location to do and such and such
