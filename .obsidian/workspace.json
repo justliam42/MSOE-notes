@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Schedule.md",
+                "file": "Classes/COM 1001/Road Trip with a friend.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Schedule.md",
+                "file": "Classes/COM 1001/Road Trip with a friend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Schedule.md",
+                "file": "Classes/COM 1001/Road Trip with a friend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Schedule.md"
+                "file": "Classes/COM 1001/Road Trip with a friend.md"
               }
             }
           },
@@ -184,9 +184,9 @@
   },
   "active": "e9bf38500331536f",
   "lastOpenFiles": [
+    "Classes/Schedule.md",
     "Classes/CSC 1110/CSC 1110.md",
     "Classes/CSC 1110/notes.md",
-    "Classes/Schedule.md",
     "TODO (homework).md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/CPE 1500/CPE 1500.md",
