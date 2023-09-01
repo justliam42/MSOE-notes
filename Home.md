@@ -1,6 +1,5 @@
 
-```dataviewjs
-let page = dv.page("Classes/Schedule")
-dv.el("p", page.file.lists)
+```dataview
+FROM Schedule
 ```
 
