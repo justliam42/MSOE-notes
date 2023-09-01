@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7254ceb699cc6a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "03647a4a9c2f3de4",
             "type": "leaf",
             "state": {
@@ -30,64 +42,16 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e9bf38500331536f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/COM 1001/Road Trip with a friend.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1d0db4d434b50e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Schedule.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "84158050493cd0bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/CSC 1110/CSC 1110.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "948285e35976fb46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Schedule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
-        "id": "ba3b301329886f1d",
+        "id": "885854658b6517fe",
         "type": "tabs",
         "children": [
           {
-            "id": "7254ceb699cc6a63",
+            "id": "fbea26f5156a3c64",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -236,7 +200,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7254ceb699cc6a63",
+  "active": "fbea26f5156a3c64",
   "lastOpenFiles": [
     "Classes/Schedule.md",
     "Home.md",
