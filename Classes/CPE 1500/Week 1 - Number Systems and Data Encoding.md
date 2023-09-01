@@ -158,3 +158,5 @@ most significant bit is -(that bit), then other bits are normal
 
 4-bit unsigned: 0 -> 2^(n-1)
 4-bit signed:  -2^(n-1) <- 0 -> 2^(n-1) - 1
+
+converting to negative -> invert all bits + 1
