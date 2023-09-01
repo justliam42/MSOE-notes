@@ -129,4 +129,6 @@ each nibble can be represented as one hex character
 
 -- 9/1/23 --
 
-1011
+##### Addition
+- 1st grade rules appy:
+	- 0+0 =
