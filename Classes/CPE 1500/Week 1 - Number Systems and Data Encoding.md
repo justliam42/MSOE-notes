@@ -126,4 +126,4 @@ Writing in binary is annoying, therefore we write in octal, which is now depreca
 In programming, hex is written is 0x FFFF...
 each nibble can be represented as one hex character
 
-1 2 4 8 16 32 64 128 256 512 1024 2048 4096 8192 16384 32768 65536
+9/1/23 --
