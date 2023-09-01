@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "84158050493cd0bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "948285e35976fb46",
             "type": "leaf",
             "state": {
@@ -69,6 +81,24 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "ba3b301329886f1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7254ceb699cc6a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Schedule.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Schedule.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Schedule.md"
+                "file": "Home.md"
               }
             }
           },
@@ -206,10 +236,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "948285e35976fb46",
+  "active": "84158050493cd0bf",
   "lastOpenFiles": [
-    "Home.md",
     "Classes/Schedule.md",
+    "Home.md",
+    "Home.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Definitions.md",
