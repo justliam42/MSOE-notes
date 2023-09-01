@@ -1,6 +1,6 @@
 
 ```dataview
 LIST
-FROM [[Schedule]]
+FROM "Classes/Schedule"
 ```
 
