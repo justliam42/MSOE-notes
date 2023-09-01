@@ -1,5 +1,4 @@
 
-```dataview
-LIST
-FROM [[Schedule]]
+```dataviewjs
+let page = dv.page()
 ```

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Schedule.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Schedule.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Schedule.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Schedule.md"
+                "file": "Home.md"
               }
             }
           },
@@ -208,6 +208,7 @@
   },
   "active": "948285e35976fb46",
   "lastOpenFiles": [
+    "Classes/Schedule.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Definitions.md",
@@ -216,7 +217,6 @@
     "Books/!Info.md",
     "Classes/COM 1001/Road Trip with a friend.md",
     "Home.md",
-    "Classes/Schedule.md",
     "Classes/CSC 1110/notes.md",
     "TODO (homework).md",
     "pictures/20230901_084253.jpg",
