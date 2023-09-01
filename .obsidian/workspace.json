@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1d0db4d434b50e2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e9bf38500331536f",
+  "active": "e1d0db4d434b50e2",
   "lastOpenFiles": [
     "Classes/Schedule.md",
     "Classes/CSC 1110/CSC 1110.md",
