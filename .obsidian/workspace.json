@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "7254ceb699cc6a63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "03647a4a9c2f3de4",
             "type": "leaf",
             "state": {
@@ -43,22 +31,21 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "885854658b6517fe",
+        "id": "ba8e0aab8729a186",
         "type": "tabs",
         "children": [
           {
-            "id": "fbea26f5156a3c64",
+            "id": "7254ceb699cc6a63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Schedule.md",
+                "file": "Home.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
