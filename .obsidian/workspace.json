@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -181,7 +181,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6703dd04fa88492b",
+  "active": "703e347a57c2b80d",
   "lastOpenFiles": [
     "Home.md",
     "Classes/Schedule.md",
