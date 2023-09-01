@@ -1,7 +1,7 @@
 ```dataviewjs
 let page = dv.page("Schedule")
 
-let text = page.file
+let text = page
 
 dv.el("p", text)
 ```

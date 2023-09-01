@@ -1,7 +1,7 @@
-- ### [Mon::
+- ### [Mon:: {
 	- 08:00 - [[CPE 1500]] - *L307*
 	- 11:00 - [[COM 1001]] - *CC51* *no class on monday*
-	- 13:00 [[CSC 1110]] - *DH240*]
+	- 13:00 [[CSC 1110]] - *DH240* }
 - ### Tue:
 	- 08:00 - [[CPE 1500]] **lab** - *S343*
 	- 12:00 - Programming seminar - *Dierks Auditorium*
