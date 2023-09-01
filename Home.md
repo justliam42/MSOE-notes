@@ -1,6 +1,6 @@
 
 ```dataview
-LIST
+CALENDAR
 FROM "Classes/Schedule"
 ```
 
