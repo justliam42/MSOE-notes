@@ -147,3 +147,6 @@ suitable to show:
 ![[20230901_082556.jpg|400]]
 carry out is a **status flag** that tells us not enough space is there
 
+#### signed numbers
+
+a human might write +1, -1 etc. which takes extra symool
