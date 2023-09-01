@@ -1,4 +1,5 @@
 
 ```dataview
-
+LIST
+FROM [[Schedule]]
 ```

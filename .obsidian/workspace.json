@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/COM 1001/Road Trip with a friend.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/COM 1001/Road Trip with a friend.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/COM 1001/Road Trip with a friend.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/COM 1001/Road Trip with a friend.md"
+                "file": "Home.md"
               }
             }
           },
@@ -208,6 +208,7 @@
   },
   "active": "948285e35976fb46",
   "lastOpenFiles": [
+    "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/CPE 1500/Definitions.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CSC 1110/notes.md",
@@ -221,7 +222,6 @@
     "pictures/20230901_082556.jpg",
     "Classes/CSC 1110/CSC 1110.md",
     "Classes/COM 1001/COM 1001.md",
-    "Classes/COM 1001/Road Trip with a friend.md",
     "pictures/20230830_082840.jpg",
     "Classes/MTH 2130",
     "HW1.pdf",
