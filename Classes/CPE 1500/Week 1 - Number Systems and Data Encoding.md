@@ -143,3 +143,4 @@ each nibble can be represented as one hex character
 | 1 + 1     | 1   | 0   |
 | 1 + 1 + 1 | 1   | 1   |
 
+suitable to show:
