@@ -146,3 +146,4 @@ each nibble can be represented as one hex character
 suitable to show:
 ![[20230901_082556.jpg|400]]
 carry out is a **status flag** that tells us not enough space is there
+
