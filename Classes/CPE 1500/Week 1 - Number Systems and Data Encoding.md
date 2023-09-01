@@ -136,6 +136,8 @@ each nibble can be represented as one hex character
 	- Carry when result is greater than or equal to 10 (base)
 	- Binary carries when result is greater than one
 
-equation | c | s |
-	0 + 0  | 0 | 1 |
-	0 + 1
+|equation | c | s |
+	0 + 0  | 0 | 0 |
+	0 + 1 | 0 | 1 |
+	1 + 1 | 1 | 0 |
+1 + 1 + 1 | 1 | 1 |
