@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6703dd04fa88492b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ba8e0aab8729a186",
@@ -187,7 +200,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7254ceb699cc6a63",
+  "active": "6703dd04fa88492b",
   "lastOpenFiles": [
     "Classes/Schedule.md",
     "Home.md",
