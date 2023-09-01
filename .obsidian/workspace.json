@@ -47,10 +47,8 @@
             "id": "e1d0db4d434b50e2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -120,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/COM 1001/Road Trip with a friend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/COM 1001/Road Trip with a friend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Classes/COM 1001/Road Trip with a friend.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,15 +188,15 @@
   },
   "active": "e1d0db4d434b50e2",
   "lastOpenFiles": [
+    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+    "Classes/CPE 1500/CPE 1500.md",
+    "Classes/COM 1001/COM 1001.md",
     "Classes/Schedule.md",
     "Classes/CSC 1110/CSC 1110.md",
     "Classes/CSC 1110/notes.md",
     "TODO (homework).md",
     "Classes/MTH 2130/MTH 2130.md",
-    "Classes/CPE 1500/CPE 1500.md",
     "Classes/COM 1001/Road Trip with a friend.md",
-    "Classes/COM 1001/COM 1001.md",
-    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Books/!Info.md",
     "pictures/20230830_082840.jpg",
     "Classes/CPE 1500/Definitions.md",
