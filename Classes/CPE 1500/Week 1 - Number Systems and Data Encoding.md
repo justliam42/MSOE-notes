@@ -149,4 +149,4 @@ carry out is a **status flag** that tells us not enough space is there
 
 #### signed numbers
 
-a human might write +1, -1 etc. which takes extra symbols so one might imagine tha
+a human might write +1, -1 etc. which takes extra symbols so one might imagine that we would add a sign bit to determine sign
