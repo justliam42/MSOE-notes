@@ -2,4 +2,4 @@
 
 [intro to java or something](https://drive.google.com/file/d/1t9dbxfJBPiItgs4YRaMmi4hRQS_JfiqB/view?usp=sharing)
 [digital logic and com architecture arm edition](https://drive.google.com/file/d/16LANIlkqYY-MqfVBNcPB9WkPErtlJkvL/view?usp=sharing)
-[Calculus book...](https://drive.google.com/file/d/1D9KgmeCuZb-_JT_ft5gJU9VER7YgEhdD/view?usp=sharing)
+[Calculus book...](https://drive.google.com/file/d/1D9KgmeCuZb-_JT_ft5gJU9VER7YgEhdD/view?usp=sharing) + 25 pages
