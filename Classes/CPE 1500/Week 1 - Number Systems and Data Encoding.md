@@ -144,3 +144,4 @@ each nibble can be represented as one hex character
 | 1 + 1 + 1 | 1   | 1   |
 
 suitable to show:
+![[20230901_082556.jpg|400]]
