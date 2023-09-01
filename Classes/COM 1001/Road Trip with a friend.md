@@ -1,1 +1,1 @@
-Statue of Liberty
+Statue of Liberty from [author::Edgar Allen Poe]
