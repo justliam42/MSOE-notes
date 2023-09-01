@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "33d24ef965a1fb8a",
+        "id": "d2ade9e4a101987c",
         "type": "tabs",
         "children": [
           {
-            "id": "1dc3cf5c11be1dfc",
+            "id": "9f456c269c0f959e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/CPE 1500.md",
+                "file": "Books/!Info.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7254ceb699cc6a63",
+            "id": "41da6bb4773ecd25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03647a4a9c2f3de4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,24 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "885854658b6517fe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fbea26f5156a3c64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Schedule.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md"
               }
             }
           },
@@ -181,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -200,37 +170,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7254ceb699cc6a63",
+  "active": "9d0a63a33f3a9c4a",
   "lastOpenFiles": [
-    "Classes/Schedule.md",
+    "pictures/20230901_084253.jpg",
+    "pictures/20230901_082556.jpg",
     "Home.md",
-    "Classes/CSC 1110/CSC 1110.md",
     "Classes/MTH 2130/MTH 2130.md",
-    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
-    "Classes/CPE 1500/Definitions.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/COM 1001/COM 1001.md",
     "Books/!Info.md",
-    "Classes/COM 1001/Road Trip with a friend.md",
-    "Classes/CSC 1110/notes.md",
-    "TODO (homework).md",
-    "pictures/20230901_084253.jpg",
-    "pictures/20230901_082556.jpg",
     "pictures/20230830_082840.jpg",
     "Classes/MTH 2130",
-    "HW1.pdf",
-    "Pasted Image 20230829143001_500.png",
-    "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-29 13.38.52.png.png",
-    "~$HW1.pdf",
-    "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.png",
-    "Pasted Image 20230829143001_533.png",
-    "Excalidraw/Drawing 2023-08-29 13.37.46.excalidraw.md",
-    "Excalidraw",
-    "conflict-files-obsidian-git.md",
+    "Classes/CSC 1110/notes.md",
+    "Classes/CPE 1500/Definitions.md",
+    "Classes/COM 1001/Road Trip with a friend.md",
     "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf",
+    "conflict-files-obsidian-git.md",
     "Books/Introduction to Programming with Java_2e.pdf",
     "Books",
+    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+    "Classes/Schedule.md",
+    "TODO (homework).md",
+    "Classes/CSC 1110/CSC 1110.md",
     "Classes/CSC 1110",
     "Classes/COM 1001",
     "Untitled.canvas",
@@ -238,6 +199,8 @@
     "Classes/CPE 1500/Weeks 9 and 10 - Synchronous finite state machines.md",
     "pictures/cpe graphs day 1.jpg",
     "pictures",
-    "Classes.md"
+    "Classes/CPE 1500",
+    "Classes.md",
+    "Classes"
   ]
 }
