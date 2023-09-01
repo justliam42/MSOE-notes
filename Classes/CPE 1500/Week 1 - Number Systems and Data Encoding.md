@@ -124,7 +124,9 @@ minimum number of bits to represent decimal number X is
 Writing in binary is annoying, therefore we write in octal, which is now deprecated, so we write in hexadecimal
 
 In programming, hex is written is 0x FFFF...
-- means the 0 is
+- means the 0 is written in x (hex)
 each nibble can be represented as one hex character
 
 -- 9/1/23 --
+
+1011
