@@ -1,4 +1,4 @@
 ```dataviewjs
 let page = dv.page("Schedule")
-dv.el("p",)
+dv.el("p", page.file.lists)
 ```
