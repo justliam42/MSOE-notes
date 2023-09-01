@@ -153,4 +153,4 @@ a human might write +1, -1 etc. which takes extra symbols so one might imagine t
 
 this has 2 zeros and this is a major flaw. it adds much more complexity. It would hace yto monitor for -0 and correct it. *regular implies simple, small, and fast*
 
-##### thus we have the uh uh uh two's compliment![[20230901_084253.jpg]]
+##### thus we have the uh uh uh two's compliment![[20230901_084253.jpg| 500]]
