@@ -47,8 +47,12 @@
             "id": "e1d0db4d434b50e2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md"
+              }
             }
           },
           {
