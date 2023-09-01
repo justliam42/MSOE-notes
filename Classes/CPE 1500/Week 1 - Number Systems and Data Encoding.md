@@ -131,4 +131,7 @@ each nibble can be represented as one hex character
 
 ##### Addition
 - 1st grade rules appy:
-	- 0+0 =
+	- 0+0 = 0
+	- 0+1 = 1 ...
+	- Carry when result is greater than or equal to 10 (base)
+	- Binary carr
