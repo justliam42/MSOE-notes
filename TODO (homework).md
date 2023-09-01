@@ -2,4 +2,4 @@
 	- [ ] Figure out what location to do and such and such
 - [ ] Math
 	- [x] 688,
-	- [ ] page 698, # 1, 2, 3, 4. 6, 8, 9, 24(c), 25, 27
+	- [ ] page 698, # 2, 3, 4. 6, 8, 9, 24(c), 25, 27
