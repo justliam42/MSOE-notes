@@ -49,9 +49,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Schedule.md",
+                "file": "Home.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Classes/CSC 1110/CSC 1110.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "ba3b301329886f1d",
@@ -236,10 +236,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84158050493cd0bf",
+  "active": "e1d0db4d434b50e2",
   "lastOpenFiles": [
     "Classes/Schedule.md",
-    "Home.md",
+    "Classes/CSC 1110/CSC 1110.md",
     "Home.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
@@ -252,7 +252,6 @@
     "TODO (homework).md",
     "pictures/20230901_084253.jpg",
     "pictures/20230901_082556.jpg",
-    "Classes/CSC 1110/CSC 1110.md",
     "pictures/20230830_082840.jpg",
     "Classes/MTH 2130",
     "HW1.pdf",
