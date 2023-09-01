@@ -156,5 +156,5 @@ this has 2 zeros and this is a major flaw. it adds much more complexity. It woul
 ##### thus we have the uh uh uh two's compliment![[20230901_084253.jpg| 500]]
 most significant bit is -(that bit), then other bits are normal
 
-4-bit unsigned: 0 -> (2^n) -1
-4-bit signed:  -2^
+4-bit unsigned: 0 -> 2^(n-1)
+4-bit signed:  -2^(n-1) <- 0 -> 2^(n-1) - 1
