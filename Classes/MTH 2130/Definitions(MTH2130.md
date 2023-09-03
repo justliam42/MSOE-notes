@@ -1,2 +1,5 @@
 - Vector: point with position and magnitude/length
-	- written as <x,y,z>
+	- written as <x, y, z>
+- Initial Point: where the vector originated
+- Terminal Point: where the vector ends
+- Zero Vector: vector with 
