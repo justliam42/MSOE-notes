@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/!Info.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +184,9 @@
   },
   "active": "6703dd04fa88492b",
   "lastOpenFiles": [
-    "TODO (homework).md",
+    "Classes/CSC 1110/notes.md",
     "Books/!Info.md",
+    "TODO (homework).md",
     "Classes/CSC 1110/CSC 1110.md",
     "Classes/Schedule.md",
     "Home.md",
@@ -194,7 +196,6 @@
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/COM 1001/COM 1001.md",
     "Classes/COM 1001/Road Trip with a friend.md",
-    "Classes/CSC 1110/notes.md",
     "pictures/20230901_084253.jpg",
     "pictures/20230901_082556.jpg",
     "pictures/20230830_082840.jpg",
