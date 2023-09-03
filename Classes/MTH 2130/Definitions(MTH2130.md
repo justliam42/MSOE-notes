@@ -1,5 +1,7 @@
-- Vector: point with position and magnitude/length
+- Vector: point with position and magnitude
 	- written as <x, y, z>
+	- magnitude can be called the length or norm
 - Initial Point: where the vector originated
 - Terminal Point: where the vector ends
-- Zero Vector: vector with 
+- Zero Vector: vector with all zeros
+	- <0, 0, 0>
