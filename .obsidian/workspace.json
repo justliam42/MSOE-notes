@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/MTH 2130/formulas.md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6c3f3c0d188c589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CPE 1500/Definitions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/MTH 2130/formulas.md",
+                "file": "Classes/CPE 1500/Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/MTH 2130/formulas.md",
+                "file": "Classes/CPE 1500/Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/MTH 2130/formulas.md"
+                "file": "Classes/CPE 1500/Definitions.md"
               }
             }
           },
@@ -190,13 +202,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d0a63a33f3a9c4a",
+  "active": "a6c3f3c0d188c589",
   "lastOpenFiles": [
     "Classes/MTH 2130/MTH 2130.md",
+    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+    "Classes/CPE 1500/Definitions.md",
     "Classes/MTH 2130/formulas.md",
     "TODO (homework).md",
     "Classes/CSC 1110/notes.md",
@@ -204,8 +218,6 @@
     "Classes/CSC 1110/CSC 1110.md",
     "Classes/Schedule.md",
     "Home.md",
-    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
-    "Classes/CPE 1500/Definitions.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/COM 1001/COM 1001.md",
     "Classes/COM 1001/Road Trip with a friend.md",
