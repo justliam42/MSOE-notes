@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6158fbf43feb7d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/MTH 2130/formulas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/MTH 2130/formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/MTH 2130/formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Classes/MTH 2130/formulas.md"
               }
             }
           },
@@ -182,15 +194,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6703dd04fa88492b",
+  "active": "9d0a63a33f3a9c4a",
   "lastOpenFiles": [
+    "Classes/MTH 2130/MTH 2130.md",
+    "Classes/MTH 2130/formulas.md",
+    "TODO (homework).md",
     "Classes/CSC 1110/notes.md",
     "Books/!Info.md",
-    "TODO (homework).md",
     "Classes/CSC 1110/CSC 1110.md",
     "Classes/Schedule.md",
     "Home.md",
-    "Classes/MTH 2130/MTH 2130.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Definitions.md",
     "Classes/CPE 1500/CPE 1500.md",
