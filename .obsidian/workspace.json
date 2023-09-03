@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Definitions.md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32f9520aeafd7762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions(MTH2130.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Definitions.md",
+                "file": "Definitions(MTH2130.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Definitions.md",
+                "file": "Definitions(MTH2130.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Definitions.md"
+                "file": "Definitions(MTH2130.md"
               }
             }
           },
@@ -206,11 +218,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6c3f3c0d188c589",
+  "active": "32f9520aeafd7762",
   "lastOpenFiles": [
     "Classes/MTH 2130/MTH 2130.md",
+    "Definitions(MTH2130.md",
+    "Classes/CPE 1500/Definitions(CPE1500).md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
-    "Classes/CPE 1500/Definitions.md",
     "Classes/MTH 2130/formulas.md",
     "TODO (homework).md",
     "Classes/CSC 1110/notes.md",
