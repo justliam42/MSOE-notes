@@ -1,1 +1,2 @@
-$\|\overrightarrow{v}\|=\sqrt{x^2+y^2+z^2}$
+- $\|\overrightarrow{v}\|=\sqrt{x^2+y^2+z^2}$
+- $\overrightarrow{v}\cdot\overrightarrow{w}=u\sub_{1}$
