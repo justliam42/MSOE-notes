@@ -8,3 +8,5 @@
 - Unit Vector: vector with magnitude of 1 (doesn't matter direction)
 	- Standard unit vectors are notated as i, j, k as vectors in x, y, z directions respectively
 - Dot Product: the multiplication of two vectors to become a scalar
+	- also called scalar product
+	- $\overrightarrow{}$
