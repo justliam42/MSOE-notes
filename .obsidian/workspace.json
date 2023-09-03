@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/MTH 2130/formulas.md",
+                "file": "Classes/MTH 2130/Definitions(MTH2130.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/MTH 2130/formulas.md",
+                "file": "Classes/MTH 2130/Definitions(MTH2130.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/MTH 2130/formulas.md",
+                "file": "Classes/MTH 2130/Definitions(MTH2130.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/MTH 2130/formulas.md"
+                "file": "Classes/MTH 2130/Definitions(MTH2130.md"
               }
             }
           },
@@ -220,15 +220,15 @@
   },
   "active": "32f9520aeafd7762",
   "lastOpenFiles": [
+    "Classes/MTH 2130/formulas.md",
     "Classes/MTH 2130/Definitions(MTH2130.md",
+    "Classes/CSC 1110/CSC 1110.md",
+    "Classes/CSC 1110/notes.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
-    "Classes/MTH 2130/formulas.md",
     "TODO (homework).md",
-    "Classes/CSC 1110/notes.md",
     "Books/!Info.md",
-    "Classes/CSC 1110/CSC 1110.md",
     "Classes/Schedule.md",
     "Home.md",
     "Classes/CPE 1500/CPE 1500.md",
