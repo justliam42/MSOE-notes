@@ -6,4 +6,4 @@ $\overrightarrow{v}\cdot\overrightarrow{w}=\|\overrightarrow{v}\|\|\overrightarr
 
 $Proj_{b}v =  \frac{v\cdot b}{\|b\|^2}b$
 
-$A_{parallelogram}=\mid$
+$A_{parallelogram}=\|a\t\tIm}es$
