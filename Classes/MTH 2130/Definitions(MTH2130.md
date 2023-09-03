@@ -1,0 +1,2 @@
+- Vector: point with position and magnitude/length
+	- written as <x,y,z>
