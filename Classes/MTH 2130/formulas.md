@@ -1,1 +1,1 @@
-$\|$
+$\|\overrightarrow{v}\|=\sqrt{  }$
