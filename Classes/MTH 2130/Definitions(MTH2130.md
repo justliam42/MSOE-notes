@@ -5,3 +5,5 @@
 - Terminal Point: where the vector ends
 - Zero Vector: vector with all zeros
 	- <0, 0, 0>
+- Unit Vector: vector with magnitude of 1 (doesn't matter direction)
+	- Standard unit vectors are notated as 
