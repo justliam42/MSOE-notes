@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/!Info.md"
+                "file": "Classes/MTH 2130/MTH 2130.md"
               }
             }
           },
@@ -219,20 +219,20 @@
   },
   "active": "32f9520aeafd7762",
   "lastOpenFiles": [
+    "Classes/MTH 2130/formulas.md",
+    "Classes/MTH 2130/Definitions(MTH2130.md",
+    "Classes/CSC 1110/notes.md",
+    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+    "Classes/CPE 1500/Definitions(CPE1500).md",
+    "Classes/CPE 1500/CPE 1500.md",
     "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/COM 1001/COM 1001.md",
-    "TODO (homework).md",
-    "Classes/MTH 2130/formulas.md",
-    "Classes/MTH 2130/MTH 2130.md",
-    "Classes/MTH 2130/Definitions(MTH2130.md",
-    "Classes/CSC 1110/CSC 1110.md",
-    "Classes/CSC 1110/notes.md",
-    "Classes/CPE 1500/Definitions(CPE1500).md",
-    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Books/!Info.md",
+    "TODO (homework).md",
+    "Classes/MTH 2130/MTH 2130.md",
+    "Classes/CSC 1110/CSC 1110.md",
     "Classes/Schedule.md",
     "Home.md",
-    "Classes/CPE 1500/CPE 1500.md",
     "pictures/20230901_084253.jpg",
     "pictures/20230901_082556.jpg",
     "pictures/20230830_082840.jpg",
