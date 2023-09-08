@@ -16,6 +16,7 @@ we start with black box diagram (we don't know what the transistors be doing) so
 	- Logic equation Y(A) = Ā (!A)
 	- Not gate could be called inverter, complementer etc...
 	- Inverting byte becomes ones compliment 
+	- ![[20230908_081536.jpg | 300]]
 - Truth table
 	- a table with inputs and outpouts
 	- The inputs must be in order or **I lose Points**
@@ -30,6 +31,7 @@ we start with black box diagram (we don't know what the transistors be doing) so
 	- Potential energy at any point along cable weakens the voltage
 	- buffers regenerate the signal (think Minecraft repeater)
 		- this is critical
+	- ![[20230908_082958.jpg | 300]]
 
 - AND gate
 	- Y(A) = A⋅B
