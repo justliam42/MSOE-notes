@@ -33,4 +33,6 @@ we start with black box diagram (we don't know what the transistors be doing) so
 
 - AND gate
 	- Y(A) = A⋅B
-	- Only true if A and B are true![[Pasted image 20230908082922.png]]
+	- Only true if A and B are true
+	- ![[Pasted image 20230908082922.png | 100]]
+	- 
