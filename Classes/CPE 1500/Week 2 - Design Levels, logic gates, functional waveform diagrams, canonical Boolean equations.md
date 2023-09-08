@@ -24,5 +24,7 @@ we start with black box diagram (we don't know what the transistors be doing) so
 
 - buffer gate
 	- logic equation Y(A) = A
-	- Potential energy at any point along cable 
+	- Potential energy at any point along cable weakens the voltage
+	- buffers regenerate the signal (think Minecraft repeater)
+		- this is critical
 	
