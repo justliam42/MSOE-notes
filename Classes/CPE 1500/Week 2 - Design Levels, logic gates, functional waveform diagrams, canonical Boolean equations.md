@@ -46,4 +46,8 @@ we start with black box diagram (we don't know what the transistors be doing) so
 	- can be called the inclusive or
 	- ![[Pasted image 20230908083431.jpg | 60]] Like an "elongated half moon"
 	- ![[20230908_083746.jpg | 300]]
-- 
+
+
+
+##### homework example
+I
