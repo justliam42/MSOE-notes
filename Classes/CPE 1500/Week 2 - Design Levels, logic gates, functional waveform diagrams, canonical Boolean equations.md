@@ -18,6 +18,7 @@ we start with black box diagram (we don't know what the transistors be doing) so
 	- Inverting byte becomes ones compliment 
 - Truth table
 	- a table with inputs and outpouts
+	- The inputs must be in order or **I lose Points**
 - Logic diagram
 	- see picture
 - IEEE std 91 
@@ -32,4 +33,4 @@ we start with black box diagram (we don't know what the transistors be doing) so
 
 - AND gate
 	- Y(A) = A⋅B
-	- O
+	- Only true if A and B are true
