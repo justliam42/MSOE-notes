@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1dc3cf5c11be1dfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/CPE 1500/CPE 1500.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03647a4a9c2f3de4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6703dd04fa88492b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/MTH 2130/MTH 2130.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6158fbf43feb7d80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/MTH 2130/MTH 2130.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6c3f3c0d188c589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/MTH 2130/MTH 2130.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "32f9520aeafd7762",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "Books/!Info.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "Books/!Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "Books/!Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md"
+                "file": "Books/!Info.md"
               }
             }
           },
@@ -219,15 +158,15 @@
   },
   "active": "32f9520aeafd7762",
   "lastOpenFiles": [
+    "Classes/COM 1001/COM 1001.md",
+    "Classes/MTH 2130/MTH 2130.md",
     "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
-    "Classes/COM 1001/COM 1001.md",
     "Classes/MTH 2130/Definitions(MTH2130.md",
     "Classes/Schedule.md",
-    "Classes/MTH 2130/MTH 2130.md",
     "Classes/MTH 2130/formulas.md",
     "Classes/CSC 1110/notes.md",
     "Books/!Info.md",
