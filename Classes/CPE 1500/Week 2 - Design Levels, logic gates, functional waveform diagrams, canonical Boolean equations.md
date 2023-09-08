@@ -12,6 +12,7 @@ we start with black box diagram (we don't know what the transistors be doing) so
 
 - not gate
 	- Becomes not the input... (wow)
+	- ![[Pasted image 20230908082309.png | 100]]
 	- Logic equation Y(A) = Ā (!A)
 	- Not gate could be called inverter, complementer etc...
 	- Inverting byte becomes ones compliment 
@@ -23,10 +24,10 @@ we start with black box diagram (we don't know what the transistors be doing) so
 	- see picture
 
 - buffer gate
-	- logic equation Y(A) = A ![[Pasted image 20230908082218.png | 50]] 
+	- logic equation Y(A) = A
+	- ![[Pasted image 20230908082218.png | 100]] 
 	- Potential energy at any point along cable weakens the voltage
 	- buffers regenerate the signal (think Minecraft repeater)
 		- this is critical
 
 - 
-	
