@@ -14,7 +14,9 @@ we start with black box diagram (we don't know what the transistors be doing) so
 	- Becomes not the input... (wow)
 	- Not gate could be called inverter, complementer etc...
 	- Inverting byte becomes ones compliment 
-	- Truth table
-		- a table with inputs and outpouts
-	- Logic di
+- Truth table
+	- a table with inputs and outpouts
+- Logic diagram
+- IEEE std 91 
+- 
 	
