@@ -2,7 +2,7 @@
 	- [ ] Figure out what location to do and such and such
 - [ ] Math
 	- [ ] page 714, # 49, 50
-	- [ ] page 722, # 11, 12, 25, 26, 28, 30, 31 
+	- [ ] page 722, # 12, 25, 26, 28, 30, 31 
 	- [ ] 11.7 # 7(a)(b), 15, 19, 25, 33, 34
 - [ ] CPE 1500
 	 - [ ] Lab Report due whenever but also done so just ask if good enough i guess...
