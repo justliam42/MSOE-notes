@@ -51,3 +51,4 @@ we start with black box diagram (we don't know what the transistors be doing) so
 
 ##### homework example
 Y(A,B,C) = !A!B!C + !A!BC
+I'm p sire uo
