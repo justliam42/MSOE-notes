@@ -40,4 +40,4 @@ we start with black box diagram (we don't know what the transistors be doing) so
 	- ![[20230908_083116.jpg | 300]]
 - OR Gate
 	- Logic Equation Y(A) = A+B
-	- 
+	- Return true if either input is on
