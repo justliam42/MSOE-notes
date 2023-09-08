@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "856ca29ff2cc1655",
@@ -156,7 +157,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32f9520aeafd7762",
+  "active": "9d0a63a33f3a9c4a",
   "lastOpenFiles": [
     "Books/!Info.md",
     "Classes/COM 1001/COM 1001.md",
