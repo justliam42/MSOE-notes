@@ -30,4 +30,5 @@ we start with black box diagram (we don't know what the transistors be doing) so
 	- buffers regenerate the signal (think Minecraft repeater)
 		- this is critical
 
-- 
+- AND gate
+	- 
