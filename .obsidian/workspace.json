@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/!Info.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -160,6 +160,8 @@
   "active": "32f9520aeafd7762",
   "lastOpenFiles": [
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
+    "Classes/COM 1001/COM 1001.md",
+    "Books/!Info.md",
     "pictures/20230908_083746.jpg",
     "pictures/Pasted image 20230908083431.jpg",
     "pictures/20230908_083116.jpg",
@@ -176,8 +178,6 @@
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "TODO (homework).md",
     "Classes/CPE 1500/CPE 1500.md",
-    "Books/!Info.md",
-    "Classes/COM 1001/COM 1001.md",
     "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/Schedule.md",
     "Classes/CSC 1110/notes.md",
