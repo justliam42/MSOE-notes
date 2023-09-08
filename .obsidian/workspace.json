@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/!Info.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "32f9520aeafd7762",
   "lastOpenFiles": [
+    "Books/!Info.md",
     "Classes/COM 1001/COM 1001.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/COM 1001/Road Trip with a friend.md",
@@ -169,7 +170,6 @@
     "Classes/Schedule.md",
     "Classes/MTH 2130/formulas.md",
     "Classes/CSC 1110/notes.md",
-    "Books/!Info.md",
     "TODO (homework).md",
     "Classes/CSC 1110/CSC 1110.md",
     "Home.md",
