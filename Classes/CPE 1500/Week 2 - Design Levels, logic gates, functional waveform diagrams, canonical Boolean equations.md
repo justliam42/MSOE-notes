@@ -12,5 +12,7 @@ we start with black box diagram (we don't know what the transistors be doing) so
 
 - not gate
 	- Becomes not the input... (wow)
-	- Not gate could be called invertor, complementor etc...
+	- Not gate could be called inverter, complementer etc...
 	- Inverting byte becomes ones compliment 
+	- | A | Y |
+	- |---|---|
