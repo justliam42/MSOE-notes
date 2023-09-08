@@ -42,4 +42,5 @@ we start with black box diagram (we don't know what the transistors be doing) so
 	- Logic Equation Y(A) = A+B
 	- Return true if either input is on
 	- can be called the inclusive or
+	- ![[Pasted image 20230908083431.jpg | 60]] Like an "elongated half moon"
 	- 
