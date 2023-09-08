@@ -12,7 +12,7 @@ we start with black box diagram (we don't know what the transistors be doing) so
 
 - not gate
 	- Becomes not the input... (wow)
-	- Logic equation Y(A) = 
+	- Logic equation Y(A) = Ā (!A)
 	- Not gate could be called inverter, complementer etc...
 	- Inverting byte becomes ones compliment 
 - Truth table
@@ -23,5 +23,6 @@ we start with black box diagram (we don't know what the transistors be doing) so
 	- see picture
 
 - buffer gate
-	- logic equation Y(A) = Ā
+	- logic equation Y(A) = A
+	- Potential energy at any point along cable 
 	
