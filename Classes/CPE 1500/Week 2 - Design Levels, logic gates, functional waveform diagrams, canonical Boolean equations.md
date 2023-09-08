@@ -51,4 +51,6 @@ we start with black box diagram (we don't know what the transistors be doing) so
 
 ##### homework example
 Y(A,B,C) = !A!B!C + !A!BC
-I'm p sire uo
+I'm p sure you just need if !A and !B and thats it...
+
+**input is like tag with x in it**
