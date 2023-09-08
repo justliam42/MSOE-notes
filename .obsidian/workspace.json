@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "856ca29ff2cc1655",
@@ -159,11 +160,11 @@
   },
   "active": "32f9520aeafd7762",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Books/!Info.md",
     "TODO (homework).md",
+    "Untitled.canvas",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
     "Classes/COM 1001/COM 1001.md",
-    "Books/!Info.md",
     "pictures/20230908_083746.jpg",
     "pictures/Pasted image 20230908083431.jpg",
     "pictures/20230908_083116.jpg",
