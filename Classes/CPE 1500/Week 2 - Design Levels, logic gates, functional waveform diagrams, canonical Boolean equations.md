@@ -1,8 +1,8 @@
 transistor level is lower than the gate level.
 
 circuit stack (hierarchy of hardware and shiz):
-Software
-
+Software stack
+______
 System
 Functions
 Gate Level
