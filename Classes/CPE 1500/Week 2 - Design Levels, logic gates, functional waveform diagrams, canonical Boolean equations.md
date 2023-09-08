@@ -54,4 +54,4 @@ Y(A,B,C) = !A!B!C + !A!BC
 I'm p sure you just need if !A and !B and thats it...
 things to note:
 - **input is like tag with x in it**
-- things should be visually aligned
+- things should be visually aligned (and gates are aligned in the and plane)
