@@ -18,11 +18,13 @@ we start with black box diagram (we don't know what the transistors be doing) so
 	- Inverting byte becomes ones compliment 
 	- ![[20230908_081536.jpg | 300]]
 - Truth table
-	- a table with inputs and outpouts
+	- a table with inputs and outputs
 	- The inputs must be in order or **I lose Points**
 - Logic diagram
 	- see picture
+	- Typically the most significant bit is on top going down...
 - IEEE std 91 
+	- the standard for drawing gates
 	- see picture
 
 - buffer gate
