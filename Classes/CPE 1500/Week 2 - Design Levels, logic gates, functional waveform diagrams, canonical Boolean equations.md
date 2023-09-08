@@ -45,4 +45,5 @@ we start with black box diagram (we don't know what the transistors be doing) so
 	- Return true if either input is on
 	- can be called the inclusive or
 	- ![[Pasted image 20230908083431.jpg | 60]] Like an "elongated half moon"
-	- 
+	- ![[20230908_083746.jpg | 300]]
+- 
