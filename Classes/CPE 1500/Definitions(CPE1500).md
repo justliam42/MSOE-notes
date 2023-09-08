@@ -11,4 +11,4 @@
 	- the number of values possible in n-bits
 - Literal
 	- an algebraic variable or its complement
-		- 
+		- A, A(with line over it)

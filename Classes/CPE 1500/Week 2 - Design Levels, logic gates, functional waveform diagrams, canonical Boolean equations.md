@@ -19,5 +19,8 @@ we start with black box diagram (we don't know what the transistors be doing) so
 - Logic diagram
 	- see picture
 - IEEE std 91 
-- 
+	- see picture
+
+- buffer gate
+	- logic equation Y(A) = A
 	
