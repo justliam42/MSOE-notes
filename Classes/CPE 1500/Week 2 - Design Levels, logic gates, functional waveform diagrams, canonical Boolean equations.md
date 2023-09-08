@@ -17,6 +17,7 @@ we start with black box diagram (we don't know what the transistors be doing) so
 - Truth table
 	- a table with inputs and outpouts
 - Logic diagram
+	- see picture
 - IEEE std 91 
 - 
 	

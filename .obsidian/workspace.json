@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
+                "file": "Classes/CPE 1500/Definitions(CPE1500).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
+                "file": "Classes/CPE 1500/Definitions(CPE1500).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
+                "file": "Classes/CPE 1500/Definitions(CPE1500).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md"
+                "file": "Classes/CPE 1500/Definitions(CPE1500).md"
               }
             }
           },
@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -157,8 +158,8 @@
   },
   "active": "32f9520aeafd7762",
   "lastOpenFiles": [
-    "Classes/CPE 1500/Definitions(CPE1500).md",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
+    "Classes/CPE 1500/Definitions(CPE1500).md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "TODO (homework).md",
     "Classes/CPE 1500/CPE 1500.md",
