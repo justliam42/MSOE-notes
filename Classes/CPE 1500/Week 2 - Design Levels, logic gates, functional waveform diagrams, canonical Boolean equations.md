@@ -41,3 +41,5 @@ we start with black box diagram (we don't know what the transistors be doing) so
 - OR Gate
 	- Logic Equation Y(A) = A+B
 	- Return true if either input is on
+	- can be called the inclusive or
+	- 
