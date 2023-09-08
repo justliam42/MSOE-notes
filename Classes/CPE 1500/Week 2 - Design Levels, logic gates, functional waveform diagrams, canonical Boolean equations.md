@@ -31,4 +31,5 @@ we start with black box diagram (we don't know what the transistors be doing) so
 		- this is critical
 
 - AND gate
-	- 
+	- Y(A) = A⋅B
+	- O
