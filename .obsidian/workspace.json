@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md"
               }
             }
           },
@@ -158,15 +158,15 @@
   },
   "active": "32f9520aeafd7762",
   "lastOpenFiles": [
+    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+    "TODO (homework).md",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
     "Classes/CPE 1500/CPE 1500.md",
-    "TODO (homework).md",
     "Books/!Info.md",
     "Classes/COM 1001/COM 1001.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
-    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/MTH 2130/Definitions(MTH2130.md",
     "Classes/Schedule.md",
     "Classes/MTH 2130/formulas.md",

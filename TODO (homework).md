@@ -7,4 +7,5 @@
 - [ ] CPE 1500
 	 - [ ] Lab Report due whenever but also done so just ask if good enough i guess...
 	 - [ ] Reading woot woot
+	 - [ ] Homework HW3 (seems much shorter than last week)
 - [ ] 
