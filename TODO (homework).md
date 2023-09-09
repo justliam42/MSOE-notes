@@ -1,5 +1,5 @@
 - [ ] Road trip with a Friend
-	- [ ] Figure out what location to do and such and such
+	- [ ] write my guy
 - [ ] Math
 	- [x] page 714, # 49, 50
 	- [x] page 722, # 28, 30, 31 
