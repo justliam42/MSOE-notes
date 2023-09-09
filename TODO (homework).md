@@ -10,4 +10,5 @@
 	- [ ] pre-lab for LW3
 	 - [ ] Reading woot woot
 	 - [ ] Homework HW3 (seems much shorter than last week)
-- [ ] 
+- [ ] CSC 1110
+	- [ ] Lab quiz
