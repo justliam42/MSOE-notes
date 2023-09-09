@@ -6,6 +6,7 @@
 	- [ ] 11.7 # 7(a)(b), 15, 19, 25, 33, 34
 - [ ] CPE 1500
 	 - [ ] Lab Report due whenever but also done so just ask if good enough i guess...
+		 - [ ] print it out...
 	 - [ ] Reading woot woot
 	 - [ ] Homework HW3 (seems much shorter than last week)
 - [ ] 
