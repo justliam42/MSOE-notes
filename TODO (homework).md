@@ -1,15 +1,15 @@
 - [ ] Road trip with a Friend
 	- [ ] Figure out what location to do and such and such
 - [ ] Math
-	- [ ] page 714, # 49, 50
-	- [ ] page 722, # 28, 30, 31 
+	- [x] page 714, # 49, 50
+	- [x] page 722, # 28, 30, 31 
 	- [ ] 11.7 # 7(a)(b), 15, 19, 25, 33, 34
 - [ ] CPE 1500
 	 - [ ] Lab Report due whenever but also done so just ask if good enough i guess...
 		 - [ ] print it out...
 	- [ ] pre-lab for LW3
 	 - [ ] Reading woot woot
-	 - [ ] Homework HW3 (seems much shorter than last week)
+	 - [x] Homework HW3 (seems much shorter than last week)
 - [ ] CSC 1110
 	- [ ] Lab quiz
 		- [ ] i guess revisions after...
