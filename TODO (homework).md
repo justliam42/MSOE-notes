@@ -3,7 +3,7 @@
 - [ ] Math
 	- [x] page 714, # 49, 50
 	- [x] page 722, # 28, 30, 31 
-	- [ ] 11.7 #15, 19, 25, 33, 34
+	- [ ] 11.7 #19, 25, 33, 34
 - [ ] CPE 1500
 	 - [ ] Lab Report due whenever but also done so just ask if good enough i guess...
 		 - [ ] print it out...
