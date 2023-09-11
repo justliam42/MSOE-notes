@@ -64,4 +64,6 @@ XOR is notated with A⊕B
 process:
 	begin with black box (energy in and out of hardware)
 		inputs (1s at the bottom, 2s ,4s going up) (named whatever)
-	next create truth table ()
+	next create truth table (Label outputs and inputs)
+		write number line in order
+		
