@@ -12,3 +12,4 @@
 - Literal
 	- an algebraic variable or its complement
 		- A, Ā
+  - Combinational
