@@ -59,12 +59,4 @@ things to note:
 -- 9/11/2023 -- 
 
 ![[20230911_080255.jpg | 400]]
-XOR is notated with [
-
-⊕
-
-
-
-
-
-](https://www.bing.com/ck/a?!&&p=107af6768422d993JmltdHM9MTY5NDM5MDQwMCZpZ3VpZD0xY2UyNzg3NC1mNmYxLTZkMzYtMzhhNS02YjBjZjc3ZTZjY2QmaW5zaWQ9NTYxMQ&ptn=3&hsh=3&fclid=1ce27874-f6f1-6d36-38a5-6b0cf77e6ccd&psq=plus+with+circle+symbol&u=a1aHR0cHM6Ly93dW1iby5uZXQvc3ltYm9scy9jaXJjbGVkLXBsdXMv&ntb=1)
+XOR is notated with A⊕B
