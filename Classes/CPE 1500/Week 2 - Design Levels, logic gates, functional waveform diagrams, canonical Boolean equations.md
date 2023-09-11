@@ -61,3 +61,5 @@ things to note:
 ![[20230911_080255.jpg | 400]]
 XOR is notated with A⊕B
 
+process:
+	begin with black box (energy in and out of hardware)
