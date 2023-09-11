@@ -22,4 +22,5 @@
 	- the inverse of a literal...
 		- the result is also a literal
 	- A's complement is Ā  
-- 
+- Product, Implicant
+	- the result of an AND of literals
