@@ -69,4 +69,4 @@ process:
 		put arrows towards positive outputs
 	This is positive logic - we create the equation based on positive outputs
 		Next do the algebra equation (the canonical equation in standard form)
-			Literals are in most significant to least significant 
+			Literals are in most significant to least significant, product terms are ordered by input number.
