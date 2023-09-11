@@ -66,4 +66,4 @@ process:
 		inputs (1s at the bottom, 2s ,4s going up) (named whatever)
 	next create truth table (Label outputs and inputs)
 		write number line in order
-		
+		put arrows towards positive outputs
