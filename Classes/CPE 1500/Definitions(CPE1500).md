@@ -24,3 +24,6 @@
 	- A's complement is Ā  
 - Product, Implicant
 	- the result of an AND of literals
+- Minterm (m)
+	- a product involving all the inputs to the function
+	- ĀBC
