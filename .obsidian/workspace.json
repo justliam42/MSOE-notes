@@ -23,9 +23,11 @@
             "id": "301f794c995c47ad",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.10"
+                "file": "Books/!Info.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Books/!Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Books/!Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Books/!Info.md"
               }
             }
           },
@@ -180,8 +182,8 @@
   },
   "active": "301f794c995c47ad",
   "lastOpenFiles": [
-    "Books/!Info.md",
     "TODO (homework).md",
+    "Books/!Info.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
     "pictures/20230911_084605.jpg",
