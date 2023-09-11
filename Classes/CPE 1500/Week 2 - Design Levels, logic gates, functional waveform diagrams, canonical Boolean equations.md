@@ -55,4 +55,6 @@ I'm p sure you just need if !A and !B and thats it...
 things to note:
 - **input is like tag with x in it**
 - things should be visually aligned (and gates are aligned in the and plane)
-- 
+
+-- 9/11/2023 -- 
+
