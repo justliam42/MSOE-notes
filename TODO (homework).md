@@ -10,9 +10,6 @@
 	- [ ] pre-lab for LW3
 	 - [ ] Reading woot woot
 	 - [x] Homework HW3 (seems much shorter than last week)
-	 - [ ] Chapter 2 – 2.2
+	 - [ ] Chapter 2.2
 - [ ] CSC 1110
-	- [x] Lab quiz
-		- [ ] i guess revisions after...
-	- [x] exercise 3
-		- [ ] submit it when it opens...
+	
