@@ -16,4 +16,8 @@
 	- A circuit in which the outputs depend on the inputs (no memory)
 	- Full 3-bit adder is an example
 - Sequential circuit
-	- A circuit in which the output depends on current and/or previous 
+	- A circuit in which the output depends on current and/or previous inputs.
+	- RS latch is an example
+- Complement 
+	- the inverse of a variable...
+	- A's complement is 
