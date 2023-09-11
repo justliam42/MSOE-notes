@@ -73,4 +73,7 @@ process:
 			standard form canonical sun of products equation
 		minterm... (lower case m)
 		![[20230911_084605.jpg | 200]]
-		
+
+
+Lab: dip chips
+	Not gates: 7404
