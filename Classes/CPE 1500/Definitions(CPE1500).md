@@ -19,5 +19,7 @@
 	- A circuit in which the output depends on current and/or previous inputs.
 	- RS latch is an example
 - Complement 
-	- the inverse of a variable...
-	- A's complement is 
+	- the inverse of a literal...
+		- the result is also a literal
+	- A's complement is Ā  
+- 
