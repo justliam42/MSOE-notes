@@ -72,3 +72,5 @@ process:
 			Literals are in most significant to least significant, product terms are ordered by input number.
 			standard form canonical sun of products equation
 		minterm... (lower case m)
+		![[20230911_084605.jpg | 200]]
+		
