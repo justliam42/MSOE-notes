@@ -77,3 +77,4 @@ process:
 
 Lab: dip chips
 	Not gates: 7404
+	V<sub>cc</sub> and v<sub>Gnd</sub> 
