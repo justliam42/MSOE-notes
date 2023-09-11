@@ -68,4 +68,4 @@ process:
 		write number line in order
 		put arrows towards positive outputs
 	This is positive logic - we create the equation based on positive outputs
-	Next do the algebra equation
+		Next do the algebra equation (the canonical equation)
