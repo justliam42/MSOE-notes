@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/CPE 1500.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/CPE 1500.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/CPE 1500.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Classes/CPE 1500/CPE 1500.md"
               }
             }
           },
@@ -157,8 +157,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d0a63a33f3a9c4a",
+  "active": "32f9520aeafd7762",
   "lastOpenFiles": [
+    "TODO (homework).md",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
     "pictures/20230911_084605.jpg",
     "pictures/20230911_080255.jpg",
@@ -167,7 +168,6 @@
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/MTH 2130/formulas.md",
     "Classes/MTH 2130/Definitions(MTH2130.md",
-    "TODO (homework).md",
     "Books/!Info.md",
     "Untitled.canvas",
     "Classes/COM 1001/COM 1001.md",
