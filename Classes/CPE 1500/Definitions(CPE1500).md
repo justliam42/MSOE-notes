@@ -12,7 +12,8 @@
 - Literal
 	- an algebraic variable or its complement
 		- A, Ā
-  - Combinational circuit
+- Combinational circuit
 	- A circuit in which the outputs depend on the inputs (no memory)
 	- Full 3-bit adder is an example
-- 
+- Sequential circuit
+	- A circuit in which the output depends on current and/or previous 
