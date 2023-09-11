@@ -13,4 +13,5 @@
 - [ ] CSC 1110
 	- [x] Lab quiz
 		- [ ] i guess revisions after...
-	- [ ] exercise 3
+	- [x] exercise 3
+		- [ ] submit it when it opens...
