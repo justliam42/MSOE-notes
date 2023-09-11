@@ -27,3 +27,6 @@
 - Minterm (m)
 	- a product involving all the inputs to the function
 	- ĀBC
+- Sum
+	- the result of an OR of literals
+- Maxterm (M)
