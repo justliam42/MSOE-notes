@@ -67,3 +67,5 @@ process:
 	next create truth table (Label outputs and inputs)
 		write number line in order
 		put arrows towards positive outputs
+	This is positive logic - we create the equation based on positive outputs
+	Next do the algebra equation
