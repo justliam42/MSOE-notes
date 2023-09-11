@@ -7,7 +7,7 @@
 		 - [ ] print it out...
 	- [ ] pre-lab for LW3
 	 - [x] Homework HW3 (seems much shorter than last week)
-	 - [ ] Chapter 2.2
+	 - [ ] reading Chapter 2.2
 - [ ] CSC 1110
 	- [ ] reading or something 
 	- [ ] reading quiz...
