@@ -60,3 +60,4 @@ things to note:
 
 ![[20230911_080255.jpg | 400]]
 XOR is notated with A⊕B
+
