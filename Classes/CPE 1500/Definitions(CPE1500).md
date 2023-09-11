@@ -29,4 +29,6 @@
 	- ĀBC
 - Sum
 	- the result of an OR of literals
-- Maxterm (M)
+- Maxterm
+	- a sum involving all the inputs to the function
+	- A + B + C
