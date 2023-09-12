@@ -10,4 +10,4 @@
 	 - [ ] reading Chapter 2.2 start on page 69... (a paragraph before)
 - [ ] CSC 1110
 	- [ ] reading or something 
-	- [ ] reading quiz...
+	- [ ] reading quiz... by: 9/15
