@@ -7,7 +7,7 @@
 		 - [ ] print it out...
 	- [ ] pre-lab for LW3
 	 - [x] Homework HW3 (seems much shorter than last week)
-	 - [ ] reading Chapter 2.2 start on page 70... (a paragraph before)
+	 - [ ] reading Chapter 2.2 start on page 70... just read it a few times idk...
 - [ ] CSC 1110
 	- [ ] reading or something 
 	- [ ] reading quiz... by: 9/15
