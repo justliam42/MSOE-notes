@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
+                "file": "Classes/CPE 1500/Definitions(CPE1500).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
+                "file": "Classes/CPE 1500/Definitions(CPE1500).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
+                "file": "Classes/CPE 1500/Definitions(CPE1500).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md"
+                "file": "Classes/CPE 1500/Definitions(CPE1500).md"
               }
             }
           },
@@ -192,10 +192,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d0a63a33f3a9c4a",
+  "active": "b73ba5ce1d84896a",
   "lastOpenFiles": [
-    "Classes/CPE 1500/CPE 1500.md",
+    "Classes/MTH 2130/formulas.md",
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
+    "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
     "Classes/CSC 1110/CSC 1110.md",
@@ -205,7 +206,6 @@
     "Classes/CPE 1500/Definitions(CPE1500).md",
     "pictures/20230911_084605.jpg",
     "pictures/20230911_080255.jpg",
-    "Classes/MTH 2130/formulas.md",
     "Classes/MTH 2130/Definitions(MTH2130.md",
     "Untitled.canvas",
     "Classes/COM 1001/COM 1001.md",
