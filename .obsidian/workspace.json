@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/CPE 1500.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/CPE 1500.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/CPE 1500.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/CPE 1500.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -182,13 +182,13 @@
   },
   "active": "301f794c995c47ad",
   "lastOpenFiles": [
+    "Classes/CPE 1500/CPE 1500.md",
     "TODO (homework).md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/MTH 2130/Definitions(MTH2130.md",
     "Classes/MTH 2130/formulas.md",
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
-    "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
     "Classes/CSC 1110/CSC 1110.md",
