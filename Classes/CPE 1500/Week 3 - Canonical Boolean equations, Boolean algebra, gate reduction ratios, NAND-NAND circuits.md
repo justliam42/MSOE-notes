@@ -1,2 +1,3 @@
 -- 9/13/2023 --
-S
+Standard form canonical : F(abc) = !abc + a!bc ...
+Short form canonical: F(abc) = Summ 
