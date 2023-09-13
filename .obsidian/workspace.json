@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Definitions(CPE1500).md",
+                "file": "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Definitions(CPE1500).md",
+                "file": "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Definitions(CPE1500).md",
+                "file": "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Definitions(CPE1500).md"
+                "file": "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "b73ba5ce1d84896a",
   "lastOpenFiles": [
+    "Classes/CPE 1500/Definitions(CPE1500).md",
     "Classes/MTH 2130/formulas.md",
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
     "Classes/CPE 1500/CPE 1500.md",
@@ -203,7 +204,6 @@
     "TODO (homework).md",
     "Classes/MTH 2130/MTH 2130.md",
     "Books/!Info.md",
-    "Classes/CPE 1500/Definitions(CPE1500).md",
     "pictures/20230911_084605.jpg",
     "pictures/20230911_080255.jpg",
     "Classes/MTH 2130/Definitions(MTH2130.md",
