@@ -5,4 +5,5 @@
 	 - [ ] pg 757 #3, 4, 10, 19, 21, 23, 27, 29, 32, 33, 35, 39, 40, 45, 47
 - [ ] CPE 1500
 	 - [ ] reading Chapter 2.2 start on page 70... just read it a few times idk...
+	 - [ ] when posted, hw3
 - [ ] CSC 1110
