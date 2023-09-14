@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "c2430b3a2380c2f9",
   "lastOpenFiles": [
+    "Classes/COM 1001/COM 1001.md",
     "TODO (homework).md",
     "Books/!Info.md",
     "Classes/CPE 1500/CPE 1500.md",
@@ -208,7 +209,6 @@
     "pictures/20230911_084605.jpg",
     "pictures/20230911_080255.jpg",
     "Untitled.canvas",
-    "Classes/COM 1001/COM 1001.md",
     "pictures/20230908_083746.jpg",
     "pictures/Pasted image 20230908083431.jpg",
     "pictures/20230908_083116.jpg",
