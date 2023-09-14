@@ -2,7 +2,7 @@
 	- [ ] just write my guy
 - [ ] Math
 	- [ ] 11.7 #19, 25, 33, 34
-	- [ ] pg 757 #33, 35, 39, 40, 45, 47
+	- [ ] pg 757 #35, 39, 40, 45, 47
 - [ ] CPE 1500
 	 - [ ] reading Chapter 2.2 start on page 70... just read it a few times idk...
 	 - [ ] when posted, hw3
