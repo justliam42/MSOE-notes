@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/COM 1001/COM 1001.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/COM 1001/COM 1001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/COM 1001/COM 1001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Classes/COM 1001/COM 1001.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "c2430b3a2380c2f9",
   "lastOpenFiles": [
-    "Books/!Info.md",
     "TODO (homework).md",
+    "Books/!Info.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/MTH 2130/Definitions(MTH2130.md",
