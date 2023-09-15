@@ -33,4 +33,4 @@ process (with four outputs)
 assume Y<sub>3</sub> = A!B!C + A!BC + AB!C + ABC
 	create tree diagram
 		each gets compared to all of them
-		always looking for a single term 
+		always looking for a single term das complements term
