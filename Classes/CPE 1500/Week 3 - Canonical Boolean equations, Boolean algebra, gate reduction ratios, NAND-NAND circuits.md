@@ -2,3 +2,7 @@
 Standard form canonical : F(abc) = !abc + a!bc ...
 Short form canonical: F(abc) = Sigma<sub>m</sub>(3,6,...) 
 
+-- 9/15/2023 -- 
+
+process (with four outputs)
+1. make the black box diagr
