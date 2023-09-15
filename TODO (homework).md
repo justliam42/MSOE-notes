@@ -1,7 +1,7 @@
 - [ ] Road trip with a Friend
 	- [ ] just write my guy
 - [ ] Math
-	- [ ] pg 790 # 6, 7, 19, 27
+	- [ ] pg 790 # 7, 19, 27
 - [ ] CPE 1500
 	 - [ ] reading Chapter 2.2 start on page 70... just read it a few times idk...
 	 - [ ] when posted, hw3
