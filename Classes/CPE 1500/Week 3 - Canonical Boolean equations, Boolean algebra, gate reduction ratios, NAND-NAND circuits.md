@@ -12,4 +12,5 @@ process (with four outputs)
 3. Make truth table
 4. make canonical form (maybe short)
 	- with multiple oiutputs there are multiple forms
-		- Y<sub>3</sub>(ABC)
+		- Y<sub>3</sub>(ABC) = Sum(4,5,6,7), Y<sub>2</sub>(ABC), ...
+	- n-bit input producing an m-bit output
