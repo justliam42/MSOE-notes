@@ -11,3 +11,5 @@ process (with four outputs)
 	- we finally doing adding?? owo
 3. Make truth table
 4. make canonical form (maybe short)
+	- with multiple oiutputs there are multiple forms
+		- Y<sub>3</sub>(ABC)
