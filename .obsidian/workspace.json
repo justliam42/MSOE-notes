@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/!Info.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/!Info.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -193,9 +193,9 @@
   },
   "active": "c2430b3a2380c2f9",
   "lastOpenFiles": [
+    "Books/!Info.md",
     "TODO (homework).md",
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
-    "Books/!Info.md",
     "pictures/20230915_084721.jpg",
     "pictures/boolean-algebra-quick-reference.pdf",
     "pictures/20230915_082607.jpg",
