@@ -8,3 +8,5 @@
 	- [ ] do the lab circuit design
 ![[boolean-algebra-quick-reference.pdf]]
 - [ ] CSC 1110
+	- [ ] turn in exersize 4 when availible
+	- [ ] 
