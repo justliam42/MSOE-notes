@@ -5,4 +5,5 @@ Short form canonical: F(abc) = Sigma<sub>m</sub>(3,6,...)
 -- 9/15/2023 -- 
 
 process (with four outputs)
-1. make the black box diagr
+1. make the black box diagram w/ multiple outputs
+	- the outputs are labled 
