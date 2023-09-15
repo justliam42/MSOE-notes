@@ -29,3 +29,5 @@ process (with four outputs)
 	- slowest
  
 ![[boolean-algebra-quick-reference.pdf]]
+
+assume Y<sub>3</sub> = A!B!C + A!BC + AB!C + ABC
