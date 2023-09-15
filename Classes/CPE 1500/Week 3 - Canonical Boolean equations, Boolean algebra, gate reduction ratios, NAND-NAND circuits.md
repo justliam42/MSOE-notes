@@ -15,4 +15,6 @@ process (with four outputs)
 		- Y<sub>3</sub>(ABC) = Sum(4,5,6,7), Y<sub>2</sub>(ABC) = Sum(0,1,2,3), ...
 	- n-bit input producing an m-bit output
 	- we then made the standard form
-5. find unique required minterm
+5. find all required minterms
+6. cook...
+7. 
