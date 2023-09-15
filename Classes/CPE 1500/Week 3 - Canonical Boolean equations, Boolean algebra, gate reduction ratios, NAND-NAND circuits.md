@@ -16,5 +16,6 @@ process (with four outputs)
 	- n-bit input producing an m-bit output
 	- we then made the standard form
 5. find all required minterms
-6. cook...
-7. 
+6. cook (make diagram)
+	1. make diagram match entity
+	2. 
