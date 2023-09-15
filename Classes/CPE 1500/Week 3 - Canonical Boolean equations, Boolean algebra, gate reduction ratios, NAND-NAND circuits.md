@@ -14,4 +14,4 @@ process (with four outputs)
 	- with multiple oiutputs there are multiple forms
 		- Y<sub>3</sub>(ABC) = Sum(4,5,6,7), Y<sub>2</sub>(ABC) = Sum(0,1,2,3), ...
 	- n-bit input producing an m-bit output
-	- we then  
+	- we then made the standard form
