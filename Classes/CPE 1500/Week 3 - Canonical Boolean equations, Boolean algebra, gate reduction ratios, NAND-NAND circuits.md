@@ -31,3 +31,6 @@ process (with four outputs)
 ![[boolean-algebra-quick-reference.pdf]]
 
 assume Y<sub>3</sub> = A!B!C + A!BC + AB!C + ABC
+	create tree diagram
+		each gets compared to all of them
+	
