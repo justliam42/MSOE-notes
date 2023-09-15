@@ -20,8 +20,6 @@ process (with four outputs)
 	1. make diagram match entity
 	2. name association (don't forget to name wires)![[20230915_082607.jpg]]
 
-
-
 - Canonical equations
 	- not optimized
 	- not algebraically reduced
@@ -29,3 +27,5 @@ process (with four outputs)
 	- costliest
 	- most power consuming
 	- slowest
+ 
+![[boolean-algebra-quick-reference.pdf]]
