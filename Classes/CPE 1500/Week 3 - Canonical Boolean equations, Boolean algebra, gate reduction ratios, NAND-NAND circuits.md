@@ -9,4 +9,5 @@ process (with four outputs)
 	- the outputs are labled y<sub>0</sub>, y<sub>1</sub>, etc going up from the bottom...
 2. function be like Y(ABC) = ABC+4
 	- we finally doing adding?? owo
-3. 
+3. Make truth table
+4. make canonical form (maybe short)
