@@ -18,4 +18,4 @@ process (with four outputs)
 5. find all required minterms
 6. cook (make diagram)
 	1. make diagram match entity
-	2. name association (don't forget to name wires)
+	2. name association (don't forget to name wires)![[20230915_082607.jpg]]
