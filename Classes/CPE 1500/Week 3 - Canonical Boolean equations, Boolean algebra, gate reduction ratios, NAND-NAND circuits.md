@@ -34,3 +34,4 @@ assume Y<sub>3</sub> = A!B!C + A!BC + AB!C + ABC
 	create tree diagram
 		each gets compared to all of them
 		always looking for a single term das complements term
+		if term doesnt participate in reduction, then they get ord with the reduced tings
