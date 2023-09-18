@@ -63,4 +63,5 @@ gate and wire reduction ratios:
 		 doesnt need smaller groups when in bigger ones
 		 every rectangle is an and gate
 		Standard way to get the same equation
-			start with lowest essentian
+			start with lowest essential ting in biggest gate or something
+			2 to t
