@@ -57,4 +57,6 @@ gate and wire reduction ratios:
 			do it systematically even though brain says no...
 		 now identify energy points in rectangles
 		 everything in a rectangle is in a gate
-		 ask which
+		 ask which variables stay the same on a given axis
+		 ![[20230918_083017.jpg | 300]]
+		 
