@@ -50,3 +50,5 @@ gate and wire reduction ratios:
 	 Karnaugh's adjacency therum
 		 0 1 3 2
 		 as you move along the axis, every jump is a compliments theorum
+		 minterms in the lower right corner
+		 then plot the energy points
