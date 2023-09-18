@@ -56,4 +56,5 @@ gate and wire reduction ratios:
 		 squares and rectangles wrap the edge
 			do it systematically even though brain says no...
 		 now identify energy points in rectangles
-		 everything in a 
+		 everything in a rectangle is in a gate
+		 ask which
