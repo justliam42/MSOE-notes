@@ -52,4 +52,5 @@ gate and wire reduction ratios:
 		 as you move along the axis, every jump is a compliments theorem
 		 minterms in the lower right corner
 		 then plot the energy points
-		 power of 2 sized minterm squares that have enrgy
+		 power of 2 sized minterm squares that have energy
+		 squares and rectangles wrap the edge
