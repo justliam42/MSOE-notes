@@ -49,3 +49,4 @@ gate and wire reduction ratios:
 	 put y and z on the horizontal
 	 Karnaugh's adjacency therum
 		 0 1 3 2
+		 as you move along the axis, every jump is a compliments theorum
