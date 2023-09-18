@@ -37,4 +37,6 @@ assume Y<sub>3</sub> = A!B!C + A!BC + AB!C + ABC
 		if term doesnt participate in reduction, then they get ord with the reduced tings![[20230915_084721.jpg]]
 
 gate and wire reduction ratios:
-	Bigger number always goes on top![[20230918_081738.jpg | 300]]
+	Bigger number always goes on top
+	![[20230918_081738.jpg | 300]]
+ 
