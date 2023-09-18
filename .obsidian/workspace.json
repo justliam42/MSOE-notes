@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -193,11 +193,11 @@
   },
   "active": "c2430b3a2380c2f9",
   "lastOpenFiles": [
+    "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
     "20230918_083017.jpg",
     "20230918_081738.jpg",
     "TODO (homework).md",
     "Books/!Info.md",
-    "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
     "pictures/20230915_084721.jpg",
     "pictures/boolean-algebra-quick-reference.pdf",
     "pictures/20230915_082607.jpg",
@@ -217,7 +217,6 @@
     "pictures/Pasted image 20230908083431.jpg",
     "pictures/20230908_083116.jpg",
     "pictures/20230908_082958.jpg",
-    "pictures/20230908_081536.jpg",
     "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/Schedule.md",
     "Classes/CSC 1110/notes.md",

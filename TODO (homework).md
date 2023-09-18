@@ -3,8 +3,8 @@
 - [ ] Math
 - [ ] CPE 1500
 	 - [ ] reading Chapter 2.2 start on page 70... just read it a few times idk...
-	 - [ ] when posted, hw4
-	- [ ] do the lab circuit design
+	 - [ ] hw4
+	- [x] do the lab circuit design
 - [ ] CSC 1110
 	- [ ] turn in exercise 4 when available
 	- [ ] homework 4
