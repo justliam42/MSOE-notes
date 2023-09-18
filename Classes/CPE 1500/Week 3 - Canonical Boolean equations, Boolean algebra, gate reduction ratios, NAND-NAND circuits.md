@@ -54,3 +54,4 @@ gate and wire reduction ratios:
 		 then plot the energy points
 		 power of 2 sized minterm squares that have energy
 		 squares and rectangles wrap the edge
+		 do it systematically even though brain sa
