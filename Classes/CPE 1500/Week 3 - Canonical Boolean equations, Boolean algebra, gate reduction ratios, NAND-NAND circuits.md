@@ -62,3 +62,4 @@ gate and wire reduction ratios:
 		 always begin with the smallest minterm that's energized
 		 doesnt need smaller groups when in bigger ones
 		 every rectangle is an and gate
+		Standard way to get the same equation
