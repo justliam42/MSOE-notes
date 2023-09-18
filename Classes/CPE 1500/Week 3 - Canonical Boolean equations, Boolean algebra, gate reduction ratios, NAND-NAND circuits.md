@@ -44,3 +44,5 @@ gate and wire reduction ratios:
 
  Karnaugh map: (how to avoid algebra...) (k-map)
 	 Y(XYZ) are coordinates ? 
+	 fold the third dimension
+	 
