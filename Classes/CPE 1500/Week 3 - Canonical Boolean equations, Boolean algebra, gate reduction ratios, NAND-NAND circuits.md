@@ -59,4 +59,4 @@ gate and wire reduction ratios:
 		 everything in a rectangle is in a gate
 		 ask which variables stay the same on a given axis
 		 ![[20230918_083017.jpg | 300]]
-		 
+		 always begin with the smallest minterm that's energized
