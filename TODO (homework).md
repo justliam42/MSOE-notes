@@ -5,5 +5,5 @@
 	- [x] do the lab circuit design
 - [ ] CSC 1110
 	- [ ] turn in exercise 4 when available
-		- [ ] turn in homework 4
+	- [ ] turn in homework 4
 	- [ ] reading quiz 4
