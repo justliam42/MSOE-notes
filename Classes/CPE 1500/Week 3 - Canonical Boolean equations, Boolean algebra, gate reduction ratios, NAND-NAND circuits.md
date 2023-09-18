@@ -45,4 +45,7 @@ gate and wire reduction ratios:
  Karnaugh map: (how to avoid algebra...) (k-map)
 	 Y(XYZ) are coordinates ? 
 	 fold the third dimension
-	 
+	 take x and put it on the vertical
+	 put y and z on the horizontal
+	 Karnaugh's adjacency therum
+		 0 1 3 2
