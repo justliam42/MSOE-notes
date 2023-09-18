@@ -66,4 +66,4 @@ gate and wire reduction ratios:
 			start with lowest essential ting in biggest gate or something
 			2 to the size of the rectangle is how many complements term
 
-G<sub>c</sub> / G<sub>m</sub> but then move G<sub>m</sub> to other side so say G<sub>c</sub> 
+G<sub>c</sub> / G<sub>m</sub> but then move G<sub>m</sub> to other side so say G<sub>c</sub> = 2.25 * G<sub>m</sub> 
