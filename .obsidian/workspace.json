@@ -42,19 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f9e6d48c27077839",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,7 +191,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9e6d48c27077839",
+  "active": "c2430b3a2380c2f9",
   "lastOpenFiles": [
     "Books/!Info.md",
     "TODO (homework).md",
