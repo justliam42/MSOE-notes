@@ -43,3 +43,4 @@ gate and wire reduction ratios:
 	![[20230918_081738.jpg | 300]]
 
  Karnaugh map: (how to avoid algebra...) (k-map)
+	 Y(XYZ) are coordinates ? 
