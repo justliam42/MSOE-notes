@@ -36,7 +36,10 @@ assume Y<sub>3</sub> = A!B!C + A!BC + AB!C + ABC
 		always looking for a single term das complements term
 		if term doesnt participate in reduction, then they get ord with the reduced tings![[20230915_084721.jpg]]
 
+
+-- 9/18/2023 --
 gate and wire reduction ratios:
 	Bigger number always goes on top
 	![[20230918_081738.jpg | 300]]
- 
+
+ Karnaugh map: (how to avoid algebra...) (k-map)
