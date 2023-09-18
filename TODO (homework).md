@@ -1,9 +1,7 @@
 - [ ] Road trip with a Friend
-	- [x] just write my guy
 - [ ] Math
 - [ ] CPE 1500
-	 - [ ] reading Chapter 2.2 start on page 70... just read it a few times idk...
-	 - [ ] hw4
+	 - [x] hw4
 	- [x] do the lab circuit design
 - [ ] CSC 1110
 	- [ ] turn in exercise 4 when available
