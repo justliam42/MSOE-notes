@@ -64,4 +64,4 @@ gate and wire reduction ratios:
 		 every rectangle is an and gate
 		Standard way to get the same equation
 			start with lowest essential ting in biggest gate or something
-			2 to t
+			2 to the size of the rectangle is how many complements term
