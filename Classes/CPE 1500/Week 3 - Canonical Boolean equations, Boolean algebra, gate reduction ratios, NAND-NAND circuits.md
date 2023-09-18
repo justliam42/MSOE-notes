@@ -47,8 +47,9 @@ gate and wire reduction ratios:
 	 fold the third dimension
 	 take x and put it on the vertical
 	 put y and z on the horizontal
-	 Karnaugh's adjacency therum
+	 Karnaugh's adjacency theorem
 		 0 1 3 2
-		 as you move along the axis, every jump is a compliments theorum
+		 as you move along the axis, every jump is a compliments theorem
 		 minterms in the lower right corner
 		 then plot the energy points
+		 power of 2 sized minterm squares that have enrgy
