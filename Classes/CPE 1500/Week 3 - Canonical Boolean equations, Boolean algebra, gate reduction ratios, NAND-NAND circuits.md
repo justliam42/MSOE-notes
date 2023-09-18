@@ -55,9 +55,10 @@ gate and wire reduction ratios:
 		 power of 2 sized minterm squares that have energy
 		 squares and rectangles wrap the edge
 			do it systematically even though brain says no...
-		 now identify energy points in rectangles
+		 now identify energy points in only one rectangles
 		 everything in a rectangle is in a gate
 		 ask which variables stay the same on a given axis
 		 ![[20230918_083017.jpg | 300]]
 		 always begin with the smallest minterm that's energized
 		 doesnt need smaller groups when in bigger ones
+		 every rectangle is an and gate
