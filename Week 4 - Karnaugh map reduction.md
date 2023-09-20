@@ -28,4 +28,9 @@ G<sub>c</sub> / G<sub>m</sub> but then move G<sub>m</sub> to other side so say G
 
 -- 9/20-2023 --
 
-review steps of j
+review steps of k-map
+
+1. Create map with adjacent rows/columns
+2. Identidy location of minterms
+3. Plot minterm energies
+4. Identify power-of -2 minterm rectangles (remeb)
