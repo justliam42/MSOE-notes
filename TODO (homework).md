@@ -1,6 +1,6 @@
 - [ ] Road trip with a Friend
 - [ ] Math
-	- [ ] page 766, # 1, 3, 5, 7, 10, 11, 23, 25, 27, 30.
+	- [ ] page 766, # 3, 5, 7, 10, 11, 23, 25, 27, 30.
 - [ ] CPE 1500
 	 - [ ] hw5
 	- [x] do the lab circuit design
