@@ -31,9 +31,9 @@ G<sub>c</sub> / G<sub>m</sub> but then move G<sub>m</sub> to other side so say G
 review steps of k-map
 
 1. Create map with adjacent rows/columns
-2. Identidy location of minterms
+2. Identify location of minterms
 3. Plot minterm energies
-4. Identify power-of -2 minterm rectangles (remeber: rectangle wrap the edges)
+4. Identify power-of -2 minterm rectangles (remember: rectangle wrap the edges)
 5. Identify distinguished 1s that are in only 1 rectangle.
-6. Add essential product terms to your equatoin
-7. Check minterm coverage and add non-essential prodct terms if needed.
+6. Add essential product terms to your equation
+7. Check minterm coverage and add non-essential product terms if needed.
