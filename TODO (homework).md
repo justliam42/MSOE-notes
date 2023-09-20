@@ -1,5 +1,6 @@
 - [ ] Road trip with a Friend
 - [ ] Math
+	- [ ] ge 766, # 1, 3, 5, 7, 10, 11, 23, 25, 27, 30.
 - [ ] CPE 1500
 	 - [x] hw4
 	- [x] do the lab circuit design
