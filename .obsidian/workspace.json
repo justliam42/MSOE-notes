@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4 - Karnaugh map reduction.md",
+                "file": "Books/!Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4 - Karnaugh map reduction.md",
+                "file": "Books/!Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4 - Karnaugh map reduction.md",
+                "file": "Books/!Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4 - Karnaugh map reduction.md"
+                "file": "Books/!Info.md"
               }
             }
           },
@@ -205,14 +205,14 @@
   },
   "active": "d8ad79c678231f0c",
   "lastOpenFiles": [
+    "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
-    "Week 4 - Karnaugh map reduction.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
     "TODO (homework).md",
     "Books/!Info.md",
-    "20230918_083017.jpg",
-    "20230918_081738.jpg",
+    "pictures/20230918_083017.jpg",
+    "pictures/20230918_081738.jpg",
     "pictures/20230915_084721.jpg",
     "pictures/boolean-algebra-quick-reference.pdf",
     "pictures/20230915_082607.jpg",
