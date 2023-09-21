@@ -4,6 +4,7 @@
 - [ ] CPE 1500
 	 - [ ] hw5
 	- [x] do the lab circuit design
+	 - [ ] finalize and print the lab report 
 - [ ] CSC 1110
 	- [ ] turn in exercise 4 when available
 	- [ ] turn in homework 4
