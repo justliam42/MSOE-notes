@@ -3,8 +3,7 @@
 	- [ ] page 766, # 7, 10, 11, 23, 25, 27, 30.
 - [ ] CPE 1500
 	 - [ ] hw5
-	- [x] do the lab circuit design
-	 - [ ] finalize and print the lab report 
+	 - [ ] finalize and print the lab report week 4
 - [ ] CSC 1110
 	- [ ] turn in exercise 4 when available
 	- [ ] turn in homework 4
