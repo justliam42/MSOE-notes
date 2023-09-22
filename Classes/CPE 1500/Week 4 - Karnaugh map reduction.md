@@ -40,4 +40,8 @@ review steps of k-map
 -- 9/22/2023 -- 
 we had some don't care values in the digibot.
 
+##### don't care values
 F(XYZ) = sigma(0,1,3,4) +d(z)
+
+	Make the old dont care 
+	
