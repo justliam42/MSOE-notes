@@ -7,4 +7,6 @@ Traditional (2 input selector):
 	 Basically Y(S,D1,D0) = !SD<sub>0</sub> + SD<sub>1</sub> 
   
 4-bit input selector:
-	
+	Build bigger multiplexer from smaller ones:
+	1. build however many 2-input selectors needed
+	2. Put them thr
