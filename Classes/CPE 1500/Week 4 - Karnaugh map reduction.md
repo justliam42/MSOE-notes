@@ -41,6 +41,6 @@ review steps of k-map
 we had some don't care values in the digibot.
 
 ##### don't care values
-F(XYZ) = sigma(0,1,3,4) +d(z)
+F(XYZ) = sigma(0,1,3,4) +d(2)
 	Make the old k-map
 	
