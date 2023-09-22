@@ -9,4 +9,5 @@ Traditional (2 input selector):
 4-bit input selector:
 	Build bigger multiplexer from smaller ones:
 	1. build however many 2-input selectors needed
-	2. Put them through more 2-input selectors
+	2. Put them through more 2-input selectors waka waka
+
