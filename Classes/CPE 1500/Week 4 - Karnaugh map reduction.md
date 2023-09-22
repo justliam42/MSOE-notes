@@ -27,7 +27,6 @@ G<sub>c</sub> / G<sub>m</sub> but then move G<sub>m</sub> to other side so say G
 
 
 -- 9/20-2023 --
-
 review steps of k-map
 
 1. Create map with adjacent rows/columns
@@ -39,4 +38,3 @@ review steps of k-map
 7. Check minterm coverage and add non-essential product terms if needed.
 
 -- 9/22/2023 -- 
-
