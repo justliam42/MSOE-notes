@@ -1,6 +1,6 @@
 - [ ] Road trip with a Friend
 - [ ] Math
-	- [ ] page 766, # 25, 27, 30.
+		- [ ] page 766, # 27, 30.
 - [ ] CPE 1500
 	 - [ ] hw5
 	 - [x] finalize and print the lab report week 4
