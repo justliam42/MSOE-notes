@@ -11,3 +11,6 @@ Traditional (2 input selector):
 	1. build however many 2-input selectors needed
 	2. Put them through more 2-input selectors waka waka
 
+#### New Symbols
+Digital power is an upward pointing triangle
+Digital ground is 3 progressively smaller lines (downward triangle divided into three)
