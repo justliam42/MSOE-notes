@@ -49,14 +49,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
+                "file": "Classes/CPE 1500/CPE 1500.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e98c4b4707dd687f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1cf8cbf64250784",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dcade831134a7146",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
+                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
+                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md"
+                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md"
               }
             }
           },
@@ -203,20 +231,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8ad79c678231f0c",
+  "active": "e98c4b4707dd687f",
   "lastOpenFiles": [
+    "Classes/CPE 1500/CPE 1500.md",
+    "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
+    "Classes/COM 1001/COM 1001.md",
+    "Classes/COM 1001/Road Trip with a friend.md",
+    "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
     "TODO (homework).md",
     "Books/!Info.md",
-    "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
-    "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
     "pictures/20230918_083017.jpg",
     "pictures/20230918_081738.jpg",
     "pictures/20230915_084721.jpg",
     "pictures/boolean-algebra-quick-reference.pdf",
     "pictures/20230915_082607.jpg",
-    "Classes/COM 1001/COM 1001.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/MTH 2130/Definitions(MTH2130.md",
     "Classes/MTH 2130/formulas.md",
@@ -230,7 +260,6 @@
     "pictures/Pasted image 20230908083431.jpg",
     "pictures/20230908_083116.jpg",
     "pictures/20230908_082958.jpg",
-    "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/Schedule.md",
     "Classes/CSC 1110/notes.md",
     "Home.md",
