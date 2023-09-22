@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/CPE 1500.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a32a017869cb89a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/COM 1001/COM 1001.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/COM 1001/COM 1001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/COM 1001/COM 1001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Classes/COM 1001/COM 1001.md"
               }
             }
           },
@@ -231,17 +243,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e98c4b4707dd687f",
+  "active": "a32a017869cb89a5",
   "lastOpenFiles": [
-    "Books/Info.md",
-    "Classes/COM 1001/COM 1001.md",
-    "TODO (homework).md",
-    "Classes/MTH 2130/MTH 2130.md",
-    "Classes/MTH 2130/Definitions(MTH2130.md",
+    "Classes/COM 1001/Road Trip with a friend.md",
+    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
     "Classes/CPE 1500/CPE 1500.md",
+    "Classes/Schedule.md",
+    "TODO (homework).md",
+    "Books/Info.md",
+    "Classes/COM 1001/COM 1001.md",
+    "Classes/MTH 2130/MTH 2130.md",
+    "Classes/MTH 2130/Definitions(MTH2130.md",
     "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
-    "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
     "pictures/20230918_083017.jpg",
@@ -250,7 +264,6 @@
     "pictures/boolean-algebra-quick-reference.pdf",
     "pictures/20230915_082607.jpg",
     "Classes/MTH 2130/formulas.md",
-    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
     "Classes/CSC 1110/CSC 1110.md",
     "pictures/20230911_084605.jpg",
@@ -260,7 +273,6 @@
     "pictures/Pasted image 20230908083431.jpg",
     "pictures/20230908_083116.jpg",
     "pictures/20230908_082958.jpg",
-    "Classes/Schedule.md",
     "Classes/CSC 1110/notes.md",
     "Home.md",
     "Classes/MTH 2130",
