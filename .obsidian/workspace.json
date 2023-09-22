@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "Classes/Schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "Classes/Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "Classes/Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md"
+                "file": "Classes/Schedule.md"
               }
             }
           },
@@ -245,6 +245,7 @@
   },
   "active": "a32a017869cb89a5",
   "lastOpenFiles": [
+    "Classes/COM 1001/COM 1001.md",
     "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
@@ -252,7 +253,6 @@
     "Classes/Schedule.md",
     "TODO (homework).md",
     "Books/Info.md",
-    "Classes/COM 1001/COM 1001.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/MTH 2130/Definitions(MTH2130.md",
     "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
