@@ -4,6 +4,6 @@
 	 - [ ] hw5
 	 - [x] finalize and print the lab report week 4
 - [ ] CSC 1110
-	- [ ] turn in exercise 4 when available
-	- [ ] turn in homework 4
+	- [x] turn in exercise 4 when available
+	- [x] turn in homework 4
 	- [x] reading quiz 4
