@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/MTH 2130/formulas.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/MTH 2130/formulas.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/MTH 2130/formulas.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/MTH 2130/formulas.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -245,6 +245,7 @@
   },
   "active": "a32a017869cb89a5",
   "lastOpenFiles": [
+    "Classes/MTH 2130/formulas.md",
     "TODO (homework).md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/COM 1001/Road Trip with a friend.md",
@@ -263,7 +264,6 @@
     "pictures/20230915_084721.jpg",
     "pictures/boolean-algebra-quick-reference.pdf",
     "pictures/20230915_082607.jpg",
-    "Classes/MTH 2130/formulas.md",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
     "Classes/CSC 1110/CSC 1110.md",
     "pictures/20230911_084605.jpg",
