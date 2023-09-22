@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Schedule.md",
+                "file": "Classes/CPE 1500/CPE 1500.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Schedule.md",
+                "file": "Classes/CPE 1500/CPE 1500.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Schedule.md",
+                "file": "Classes/CPE 1500/CPE 1500.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Schedule.md"
+                "file": "Classes/CPE 1500/CPE 1500.md"
               }
             }
           },
@@ -245,12 +245,12 @@
   },
   "active": "a32a017869cb89a5",
   "lastOpenFiles": [
-    "Classes/COM 1001/COM 1001.md",
     "Classes/COM 1001/Road Trip with a friend.md",
+    "Classes/COM 1001/COM 1001.md",
+    "Classes/Schedule.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
     "Classes/CPE 1500/CPE 1500.md",
-    "Classes/Schedule.md",
     "TODO (homework).md",
     "Books/Info.md",
     "Classes/MTH 2130/MTH 2130.md",
