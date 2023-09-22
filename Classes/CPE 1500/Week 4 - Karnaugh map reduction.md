@@ -38,3 +38,4 @@ review steps of k-map
 7. Check minterm coverage and add non-essential product terms if needed.
 
 -- 9/22/2023 -- 
+we had some don't care values in the digibot.
