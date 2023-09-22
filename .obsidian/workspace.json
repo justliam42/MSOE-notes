@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
+                "file": "Classes/MTH 2130/MTH 2130.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md"
+                "file": "Classes/MTH 2130/MTH 2130.md"
               }
             }
           },
@@ -233,8 +233,9 @@
   },
   "active": "e98c4b4707dd687f",
   "lastOpenFiles": [
-    "Classes/CPE 1500/CPE 1500.md",
+    "Classes/MTH 2130/Definitions(MTH2130.md",
     "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
+    "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
     "Classes/COM 1001/COM 1001.md",
     "Classes/COM 1001/Road Trip with a friend.md",
@@ -248,7 +249,6 @@
     "pictures/boolean-algebra-quick-reference.pdf",
     "pictures/20230915_082607.jpg",
     "Classes/MTH 2130/MTH 2130.md",
-    "Classes/MTH 2130/Definitions(MTH2130.md",
     "Classes/MTH 2130/formulas.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
