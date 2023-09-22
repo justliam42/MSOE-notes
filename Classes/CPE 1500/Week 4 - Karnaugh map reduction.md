@@ -37,3 +37,6 @@ review steps of k-map
 5. Identify distinguished 1s that are in only 1 rectangle.
 6. Add essential product terms to your equation
 7. Check minterm coverage and add non-essential product terms if needed.
+
+-- 9/22/2023 -- 
+
