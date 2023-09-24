@@ -26,5 +26,12 @@ Traditional programming: Define rules, program rules, feed it examples, and prog
 
 Machine learning: Show model the examines with the answer of how to classify, Model takes guesses, we tell it if its right or not, model learns to categorize...
 
-If rules are clear and straighforward, often better to just program it. If rules are nuanced, complex, difficult to discern, use deep learning.
+If rules are clear and straightforward, often better to just program it. If rules are nuanced, complex, difficult to discern, use deep learning.
 
+#### Deep learning compared to other AI
+- Depth and complexity of networks
+- up to billions of parameters 
+- ...
+
+Computer vision is main example for today:
+	Robotics, obj
