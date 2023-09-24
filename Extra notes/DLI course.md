@@ -19,3 +19,4 @@ How Children learn
 - we have lots of data now
 	- 90% of the worlds data was generated in the last 18 months
 - We have lots of computing power
+- We can use the matrix math acceleration of the gpu to do deep learning good
