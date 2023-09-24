@@ -51,3 +51,4 @@ Step: the update to the weight parameters
 - sgd
 - many more
 
+We add acti
