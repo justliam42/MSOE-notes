@@ -50,3 +50,4 @@ Step: the update to the weight parameters
 - rmsprop
 - sgd
 - many more
+
