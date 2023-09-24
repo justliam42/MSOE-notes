@@ -60,4 +60,5 @@ We add activation functions to every node
 ![[Pasted image 20230924151456.png]]
 - Can't apply things to new data...
 - Applying more datapoints is good so splitting data
-- Validation data to see if it truely 
+- Validation data to see if it truly can generalize
+- 
