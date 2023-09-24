@@ -7,3 +7,9 @@ Computers were made to complete human tasks, it seemed possible, but was harder 
 
 ##### Expert Systems
 - Highly complex
+- Programmed by hundreds of engineers
+- dont work comprehensively
+
+How Children learn
+- Expose them to lots of data
+- 
