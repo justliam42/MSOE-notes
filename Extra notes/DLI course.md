@@ -20,3 +20,8 @@ How Children learn
 	- 90% of the worlds data was generated in the last 18 months
 - We have lots of computing power
 - We can use the matrix math acceleration of the gpu to do deep learning good
+
+
+Traditional programming: Define rules, program rules, feed it examples, and program uses rules to compute
+
+Machine learning: Show model the examokes with the answer of how to classify, Model takes guesses, we tell it if its rigt or n
