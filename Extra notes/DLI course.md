@@ -12,4 +12,5 @@ Computers were made to complete human tasks, it seemed possible, but was harder 
 
 How Children learn
 - Expose them to lots of data
-- 
+- Give them the "correct answer"
+- They will pick up the important - patterns on their own
