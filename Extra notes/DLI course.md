@@ -14,3 +14,7 @@ How Children learn
 - Expose them to lots of data
 - Give them the "correct answer"
 - They will pick up the important - patterns on their own
+
+#### The deep learning revolution
+- we have lots of data now
+	- 90% of the worlds data was generated in the last 18 months
