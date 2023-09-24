@@ -77,3 +77,7 @@ Random turning off of neurons, forcing other neurons to be good or something
 Helps negate overfitting
 
 Whole architecture hehe
+
+
+##### Data Augmentation
+transformations of images, rotation, change colors flip axis
