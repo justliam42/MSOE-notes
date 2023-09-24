@@ -51,4 +51,6 @@ Step: the update to the weight parameters
 - sgd
 - many more
 
-We add acti
+We add activation functions to every node
+##### Activation functions
+![[20230924_151202.jpg]]
