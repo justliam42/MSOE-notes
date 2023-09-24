@@ -57,4 +57,5 @@ We add activation functions to every node
 
 #### Overfitting
 - Why not have a super large neural network?
+![[Pasted image 20230924151456.png]]
 - 
