@@ -40,7 +40,13 @@ Recommender systems:
 
 The gradient is the direction that the loss decreases the most
 Lambda: learning rate... how far to travel
-
 Epoch a model update with the full dataset (repetition)
 batch: a sample of the full dataset
-Step: the update to the weight paramet
+Step: the update to the weight parameters
+
+##### Optimizers (of the step size)
+- Adam
+- adagrad
+- rmsprop
+- sgd
+- many more
