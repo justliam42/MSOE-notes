@@ -24,4 +24,5 @@ How Children learn
 
 Traditional programming: Define rules, program rules, feed it examples, and program uses rules to compute
 
-Machine learning: Show model the examokes with the answer of how to classify, Model takes guesses, we tell it if its rigt or n
+Machine learning: Show model the examines with the answer of how to classify, Model takes guesses, we tell it if its right or not, model learns to categorize...
+
