@@ -80,4 +80,4 @@ Whole architecture hehe
 
 
 ##### Data Augmentation
-transformations of images, rotation, change colors flip axis
+transformations of images, rotation, change colors, flip axis, zooming (to an extent), Homography, brightness
