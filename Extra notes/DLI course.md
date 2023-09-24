@@ -67,3 +67,7 @@ We add activation functions to every node
 ##### Convolutions
 Matrices to change the images
 highlighting edges, textures etc,
+![[Pasted image 20230924155433.png|500]]
+
+##### Max pooling
+![[Pasted image 20230924155526.png]]
