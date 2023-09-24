@@ -53,4 +53,8 @@ Step: the update to the weight parameters
 
 We add activation functions to every node
 ##### Activation functions
-![[20230924_151202.jpg]]
+![[20230924_151202.jpg|500]]
+
+#### Overfitting
+- Why not have a super large neural network?
+- 
