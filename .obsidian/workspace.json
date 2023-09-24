@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/CPE 1500.md",
+                "file": "Extra notes/DLI course.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/CPE 1500.md",
+                "file": "Extra notes/DLI course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/CPE 1500.md",
+                "file": "Extra notes/DLI course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/CPE 1500.md"
+                "file": "Extra notes/DLI course.md"
               }
             }
           },
@@ -245,12 +245,14 @@
   },
   "active": "c2430b3a2380c2f9",
   "lastOpenFiles": [
+    "Classes/CPE 1500/CPE 1500.md",
+    "Extra notes/DLI course.md",
+    "Extra notes",
     "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
     "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
-    "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
     "TODO (homework).md",
     "Classes/MTH 2130/MTH 2130.md",
@@ -286,7 +288,6 @@
     "Books/Introduction to Programming with Java_2e.pdf",
     "Books",
     "Classes/CSC 1110",
-    "Classes/COM 1001",
     "2023-08-28.md",
     "Classes/CPE 1500/Weeks 9 and 10 - Synchronous finite state machines.md",
     "Classes.md"
