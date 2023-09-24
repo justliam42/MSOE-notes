@@ -70,4 +70,7 @@ highlighting edges, textures etc,
 ![[Pasted image 20230924155433.png|500]]
 
 ##### Max pooling
-![[Pasted image 20230924155526.png]]
+![[Pasted image 20230924155526.png| 500]]
+
+##### Dropout
+Random turning off of neurons, forcing other neurons to be good or something
