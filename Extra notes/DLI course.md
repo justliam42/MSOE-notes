@@ -36,4 +36,6 @@ If rules are clear and straightforward, often better to just program it. If rule
 Computer vision is main example for today.
 	Robotics, object detection, self driving cars, real time translation, voice recognition, virtual assistants, 
 Recommender systems:
-	content curation, advertising, shopping recommendations). 
+	content curation, advertising, shopping recommendations. 
+
+	
