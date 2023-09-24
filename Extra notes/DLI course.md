@@ -18,3 +18,4 @@ How Children learn
 #### The deep learning revolution
 - we have lots of data now
 	- 90% of the worlds data was generated in the last 18 months
+- We have lots of computing power
