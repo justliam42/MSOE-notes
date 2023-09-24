@@ -33,5 +33,7 @@ If rules are clear and straightforward, often better to just program it. If rule
 - up to billions of parameters 
 - ...
 
-Computer vision is main example for today:
-	Robotics, object detection, self driving cars, real time translation, voice recognition, virtual assistants, Recommender systems (content curation, advertising, shopping recomendations).
+Computer vision is main example for today.
+	Robotics, object detection, self driving cars, real time translation, voice recognition, virtual assistants, 
+Recommender systems:
+	content curation, advertising, shopping recommendations). 
