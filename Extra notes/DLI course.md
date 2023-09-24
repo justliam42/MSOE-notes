@@ -39,4 +39,8 @@ Recommender systems:
 	content curation, advertising, shopping recommendations. 
 
 The gradient is the direction that the loss decreases the most
-Lambda is t
+Lambda: learning rate... how far to travel
+
+Epoch a model update with the full dataset (repetition)
+batch: a sample of the full dataset
+Step: the update to the weight paramet
