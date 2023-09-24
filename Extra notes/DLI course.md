@@ -38,4 +38,5 @@ Computer vision is main example for today.
 Recommender systems:
 	content curation, advertising, shopping recommendations. 
 
-	
+The gradient is the direction that the loss decreases the most
+Lambda is t
