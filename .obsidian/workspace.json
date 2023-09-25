@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Info.md"
+                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md"
               }
             }
           },
@@ -245,6 +245,7 @@
   },
   "active": "c2430b3a2380c2f9",
   "lastOpenFiles": [
+    "Books/Info.md",
     "TODO (homework).md",
     "Extra notes/DLI course.md",
     "Pasted image 20230924155526.png",
@@ -266,7 +267,6 @@
     "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/COM 1001/COM 1001.md",
     "Classes/Schedule.md",
-    "Books/Info.md",
     "pictures/20230918_083017.jpg",
     "pictures/20230918_081738.jpg",
     "pictures/20230915_084721.jpg",
