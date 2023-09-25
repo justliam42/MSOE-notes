@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extra notes/DLI course.md",
+                "file": "Books/Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extra notes/DLI course.md",
+                "file": "Books/Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extra notes/DLI course.md",
+                "file": "Books/Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extra notes/DLI course.md"
+                "file": "Books/Info.md"
               }
             }
           },
@@ -245,13 +245,14 @@
   },
   "active": "c2430b3a2380c2f9",
   "lastOpenFiles": [
+    "TODO (homework).md",
+    "Extra notes/DLI course.md",
     "Pasted image 20230924155526.png",
     "pictures/Pasted image 20230924155433.png",
     "pictures/Pasted image 20230924151854.png",
     "pictures/Pasted image 20230924151456.png",
     "pictures/20230924_151202.jpg",
     "Classes/CPE 1500/CPE 1500.md",
-    "Extra notes/DLI course.md",
     "Extra notes",
     "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
@@ -259,7 +260,6 @@
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
-    "TODO (homework).md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/MTH 2130/Definitions(MTH2130.md",
     "Classes/MTH 2130/formulas.md",
@@ -274,7 +274,6 @@
     "pictures/20230915_082607.jpg",
     "Classes/CSC 1110/CSC 1110.md",
     "pictures/20230911_084605.jpg",
-    "pictures/20230911_080255.jpg",
     "Untitled.canvas",
     "Classes/CSC 1110/notes.md",
     "Home.md",
