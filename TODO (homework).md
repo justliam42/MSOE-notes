@@ -1,5 +1,7 @@
 - [ ] Road trip with a Friend
 - [ ] Math
+	- [ ] Page 812, # 1, 3, 5, 7, 15, 17, 19, 23, 24, 25, 33, 35  
+	- [ ] 
 - [ ] CPE 1500
 	 - [ ] hw5
 - [ ] CSC 1110
