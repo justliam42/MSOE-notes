@@ -20,6 +20,8 @@ Digital ground is 3 progressively smaller lines (downward triangle divided into 
 #### Electronics suppliers
 1. JameCo
 2. Digikey
+ - TI is best supplier
+ - Then National semi-con
 
 9/29/2023
 7400 series is commercial
