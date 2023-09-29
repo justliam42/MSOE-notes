@@ -1,6 +1,6 @@
 -- 9/22/2023 -- 
 
-##### Multiplexor data selector
+##### Multiplexor (data selector)
 Traditional (2 input selector):
 	Y=D1 if S=1
 	D0 id S=0
@@ -20,3 +20,5 @@ Digital ground is 3 progressively smaller lines (downward triangle divided into 
 #### Electronics suppliers
 1. JameCo
 2. Digikey
+
+9/29/2023
