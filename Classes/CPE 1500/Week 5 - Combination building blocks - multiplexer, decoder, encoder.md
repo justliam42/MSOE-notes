@@ -22,3 +22,4 @@ Digital ground is 3 progressively smaller lines (downward triangle divided into 
 2. Digikey
 
 9/29/2023
+7400 series is commercial
