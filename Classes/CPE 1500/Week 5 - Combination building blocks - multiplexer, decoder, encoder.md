@@ -28,6 +28,5 @@ Digital ground is 3 progressively smaller lines (downward triangle divided into 
 5400 series is military grade (crazy temps, atmosphere, radiation, etc)
 
 #### Decoders 
-waka oo ah wa
 Decoders takes a small set of inputs and decodes that number into a larger set of outputs
 	The corresponding output becomes true goof ah
