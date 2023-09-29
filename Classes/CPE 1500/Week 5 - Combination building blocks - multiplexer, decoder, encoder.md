@@ -26,3 +26,7 @@ Digital ground is 3 progressively smaller lines (downward triangle divided into 
 9/29/2023
 7400 series is commercial
 5400 series is military grade (crazy temps, atmosphere, radiation, etc)
+
+#### Decoders 
+waka oo ah wa
+Decoders takes a small set of inputs and decodes that number int
