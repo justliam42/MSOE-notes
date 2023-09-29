@@ -1,6 +1,6 @@
 - [ ] Road trip with a Friend
 - [ ] Math
-	- [ ] Page 812, # 23, 24, 25, 33, 35  
+	- [ ] Page 812, # 24, 25, 33, 35  
 	- [ ] ![[Pasted image 20230928142442.png]]
 - [ ] CPE 1500
 	 - [ ] hw5
