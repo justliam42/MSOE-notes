@@ -15,3 +15,8 @@ Traditional (2 input selector):
 #### New Symbols
 Digital power is an upward pointing triangle
 Digital ground is 3 progressively smaller lines (downward triangle divided into three)
+
+
+#### Electronics suppliers
+1. JameCo
+2. Digikey
