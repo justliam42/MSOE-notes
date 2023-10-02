@@ -30,3 +30,5 @@ Digital ground is 3 progressively smaller lines (downward triangle divided into 
 #### Decoders 
 Decoders takes a small set of inputs and decodes that number into a larger set of outputs
 	The corresponding output becomes true goof ah
+This means that the decoder is just a canonical complete circuit
+also takes an active-low-control signal
