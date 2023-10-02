@@ -42,4 +42,5 @@ it could have active-high segments, or it could have active-low segments.
 - outputs connected to 7-segment display
 - then would have a set of inputs (traditionally 4-inputs to do hexadecimal)
 - ![[20231002_084541.jpg | 300]] 
-- 
+- a-g clockwise from the top
+- the numbers are right-adjusted in their field
