@@ -39,4 +39,6 @@ it could have active-high segments, or it could have active-low segments.
 	74XX47 and 74XX48
  - 7-segment decoder
 	 - Multiple outputs on for every input row
-	 - 
+- outputs connected to 7-segment dispplay
+- then would have a set of inputs (traditionally 4-inputs to do hexidecimal)
+- 
