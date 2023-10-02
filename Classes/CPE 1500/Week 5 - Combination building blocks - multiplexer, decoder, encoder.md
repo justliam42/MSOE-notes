@@ -32,3 +32,6 @@ Decoders takes a small set of inputs and decodes that number into a larger set o
 	The corresponding output becomes true goof ah
 This means that the decoder is just a canonical complete circuit
 also takes an active-low-control signal
+
+#### 7-segment display
+Each number is representing one si
