@@ -38,4 +38,5 @@ Each number is representing one side of the 7-segment display
 it could have active-high segments, or it could have active-low segments.
 	74XX47 and 74XX48
  - 7-segment decoder
-	 - Multiple outputs on for every
+	 - Multiple outputs on for every input row
+	 - 
