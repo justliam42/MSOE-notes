@@ -34,4 +34,5 @@ This means that the decoder is just a canonical complete circuit
 also takes an active-low-control signal
 
 #### 7-segment display
-Each number is representing one si
+Each number is representing one side of the 7-segment display
+it could have active-high segments, or it could have active-low segments.
