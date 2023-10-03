@@ -1,6 +1,5 @@
 - [ ] Road trip with a Friend
 - [ ] Math
-	- [ ] ![[Pasted image 20230928142442.png]]
 - [ ] CPE 1500
 	 - [ ] hw5
 - [ ] CSC 1110

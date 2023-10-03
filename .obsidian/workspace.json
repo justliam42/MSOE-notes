@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -267,20 +267,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d0a63a33f3a9c4a",
+  "active": "c9fe62074c98409b",
   "lastOpenFiles": [
+    "Classes/COM 1001/COM 1001.md",
+    "Classes/COM 1001/Road Trip with a friend.md",
+    "TODO (homework).md",
     "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
     "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
     "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
-    "20231002_085030.jpg",
-    "20231002_084541.jpg",
-    "TODO (homework).md",
+    "pictures/20231002_085030.jpg",
+    "pictures/20231002_084541.jpg",
     "Classes/MTH 2130/formulas.md",
     "Classes/CSC 1110/CSC 1110.md",
     "Books/Info.md",
-    "Classes/COM 1001/COM 1001.md",
     "pictures/Pasted image 20230928142442.png",
     "Classes/MTH 2130/MTH 2130.md",
     "Extra notes/DLI course.md",
@@ -294,7 +295,6 @@
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
     "Classes/MTH 2130/Definitions(MTH2130.md",
-    "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/Schedule.md",
     "pictures/20230918_083017.jpg",
     "pictures/20230918_081738.jpg",
