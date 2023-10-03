@@ -52,4 +52,4 @@ it could have active-high segments, or it could have active-low segments.
 	- we can create subtraction (adding the negative)
 	- we can create multiplication (repetitive addition)
 	- we can create division (repetitive subtraction)
- 
+ - numbers being added together become A and B and carry C
