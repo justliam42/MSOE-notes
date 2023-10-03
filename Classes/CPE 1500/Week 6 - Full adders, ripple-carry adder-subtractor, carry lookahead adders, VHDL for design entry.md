@@ -7,4 +7,4 @@
 	 - bit slices of the total calculation ?
 - when the carry is included in the input, the circuit is a **full adder**, otherwise it is a **half adder**
 - Cout is BC + AC + AB
-- Sum is canonical, or 3 (2 2 input) Xor gate
+- Sum is canonical, or 3 (2 2 input) XOR gate
