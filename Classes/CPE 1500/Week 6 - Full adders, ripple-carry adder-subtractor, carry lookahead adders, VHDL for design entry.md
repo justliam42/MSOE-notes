@@ -11,3 +11,8 @@
 
 #### Ripple Adder
 The carries are called the carry chain or the carry cascade
+rest is ez
+
+
+#### Fast Adder (Carry lookahead adder)
+
