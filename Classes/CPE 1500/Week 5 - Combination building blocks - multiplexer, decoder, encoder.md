@@ -48,4 +48,8 @@ it could have active-high segments, or it could have active-low segments.
 
 
 #### Adders (full, ripple, fast)
-- addition is the fundamental arithm
+- addition is the fundamental arithmetic operation
+	- we can create subtraction (adding the negative)
+	- we can create multiplication (repetitive addition)
+	- we can create division (repetitive subtraction)
+ 
