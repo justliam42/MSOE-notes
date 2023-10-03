@@ -14,5 +14,4 @@ The carries are called the carry chain or the carry cascade
 rest is ez
 
 
-#### Fast Adder (Carry lookahead adder)
-
+VHDL is IEEE 1076
