@@ -45,4 +45,7 @@ it could have active-high segments, or it could have active-low segments.
 - a-g clockwise from the top
 - the numbers are right-adjusted in their field
 - hex: ![[20231002_085030.jpg | 200]]
-- 
+
+
+#### Adders (full, ripple, fast)
+- addition is the fundamental arithm
