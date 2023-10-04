@@ -3,4 +3,7 @@
 - [ ] CPE 1500
 	 - [ ] hw7
 - [ ] CSC 1110
-	- [ ] Vending Machine revisions 
+	- [ ] Vending Machine revisions and submission
+	- [ ] Dice Submission
+	- [ ] Lab submission
+	- [ ] Reading quiz
