@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "Extra notes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "Extra notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md",
+                "file": "Extra notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/COM 1001/COM 1001.md"
+                "file": "Extra notes/Untitled.md"
               }
             }
           },
@@ -181,8 +181,12 @@
   },
   "active": "301f794c995c47ad",
   "lastOpenFiles": [
-    "20231004_101358.jpg",
-    "20231004_101327.jpg",
+    "pictures/Pasted image 20230924155433.png",
+    "Extra notes/Untitled.md",
+    "pictures/Pasted image 20230924155526.png",
+    "Classes/COM 1001/COM 1001.md",
+    "pictures/20231004_101358.jpg",
+    "pictures/20231004_101327.jpg",
     "TODO (homework).md",
     "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
@@ -193,11 +197,8 @@
     "pictures/20230918_083017.jpg",
     "pictures/Pasted image 20230908082218.png",
     "pictures/Pasted image 20230924151854.png",
-    "pictures/Pasted image 20230924155433.png",
-    "pictures/Pasted image 20230924155526.png",
     "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "Books/Info.md",
-    "Classes/COM 1001/COM 1001.md",
     "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
@@ -226,7 +227,6 @@
     "Books/Introduction to Programming with Java_2e.pdf",
     "Books",
     "Classes/CSC 1110",
-    "2023-08-28.md",
-    "Classes/CPE 1500/Weeks 9 and 10 - Synchronous finite state machines.md"
+    "2023-08-28.md"
   ]
 }
