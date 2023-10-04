@@ -1,2 +1,2 @@
 [[Homemade Desk]]
-[[Smarthome]]]
+[[Smarthome and lights]]
