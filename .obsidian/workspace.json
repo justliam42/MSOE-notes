@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "c2430b3a2380c2f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51e21b215a7e3766",
             "type": "leaf",
             "state": {
@@ -89,22 +77,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a1cf8cbf64250784",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dcade831134a7146",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -255,8 +227,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d0a63a33f3a9c4a",
+  "active": "301f794c995c47ad",
   "lastOpenFiles": [
+    "20231004_101358.jpg",
+    "20231004_101327.jpg",
     "TODO (homework).md",
     "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
@@ -269,7 +243,6 @@
     "pictures/Pasted image 20230924151854.png",
     "pictures/Pasted image 20230924155433.png",
     "pictures/Pasted image 20230924155526.png",
-    "pictures/Pasted image 20230928142442.png",
     "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "Books/Info.md",
     "Classes/COM 1001/COM 1001.md",
