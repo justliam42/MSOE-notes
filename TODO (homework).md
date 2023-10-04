@@ -1,9 +1,11 @@
 - [ ] Road trip with a Friend
 - [ ] Math
+	- [ ] 
 - [ ] CPE 1500
-	 - [ ] hw7
+	 - [ ] hw7 (when availible)
+	 - [ ] Prelab for lw8
 - [ ] CSC 1110
 	- [ ] Vending Machine revisions and submission
 	- [ ] Dice Submission
 	- [ ] Lab submission
-	- [ ] Reading quiz
+	- [ ] Reading quiz 5
