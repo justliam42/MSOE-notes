@@ -56,16 +56,6 @@
             }
           },
           {
-            "id": "c9fe62074c98409b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "pictures/20230830_082840.jpg"
-              }
-            }
-          },
-          {
             "id": "d8ad79c678231f0c",
             "type": "leaf",
             "state": {
@@ -118,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pictures/20230830_082840.jpg",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pictures/20230830_082840.jpg",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pictures/20230830_082840.jpg"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -265,8 +255,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9fe62074c98409b",
+  "active": "301f794c995c47ad",
   "lastOpenFiles": [
+    "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
+    "pictures/20230830_082840.jpg",
     "pictures/20230901_082556.jpg",
     "pictures/20230911_084605.jpg",
     "pictures/20230901_084253.jpg",
@@ -281,12 +273,9 @@
     "Books/Info.md",
     "Classes/COM 1001/COM 1001.md",
     "Classes/COM 1001/Road Trip with a friend.md",
-    "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
     "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
-    "pictures/20231002_085030.jpg",
-    "pictures/20231002_084541.jpg",
     "Classes/MTH 2130/formulas.md",
     "Classes/CSC 1110/CSC 1110.md",
     "Classes/MTH 2130/MTH 2130.md",
