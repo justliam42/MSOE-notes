@@ -15,7 +15,7 @@
 	 - [ ] hw7 (when available)
 	 - [ ] Prelab for lw8
 - CSC 1110
-	- [ ] Vending Machine revisions and submission
+	- [x] Vending Machine revisions and submission
 	- [ ] Dice Submission
 	- [ ] Lab submission
 	- [ ] Reading quiz 5
