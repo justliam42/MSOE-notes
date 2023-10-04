@@ -1,8 +1,6 @@
 - [ ] Road trip with a Friend
 - [ ] Math
 - [ ] CPE 1500
-	 - [ ] hw5
+	 - [ ] hw7
 - [ ] CSC 1110
-	- [x] turn in exercise 4 when available
 	- [ ] turn in homework 5
-	- [x] reading quiz 4
