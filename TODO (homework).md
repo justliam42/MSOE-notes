@@ -1,11 +1,12 @@
-- [ ] Road trip with a Friend
-- [ ] Math
+- COM 1001
+	- [ ] Man at work painting proje
+- Math
 	- [ ] page 836, # 81, 83, 85, 87
 	- [ ] 
-- [ ] CPE 1500
+- CPE 1500
 	 - [ ] hw7 (when availible)
 	 - [ ] Prelab for lw8
-- [ ] CSC 1110
+- CSC 1110
 	- [ ] Vending Machine revisions and submission
 	- [ ] Dice Submission
 	- [ ] Lab submission
