@@ -3,4 +3,4 @@
 - [ ] CPE 1500
 	 - [ ] hw7
 - [ ] CSC 1110
-	- [ ] turn in homework 5
+	- [ ] Vending Machine revisions 
