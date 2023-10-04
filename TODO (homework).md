@@ -1,5 +1,13 @@
 - COM 1001
-	- [ ] Man at work painting proje
+	- [ ] Man at work painting project
+		- [ ] pick painting
+		- [ ] do reasearch
+		- [ ] gather chunks (do more research)
+		- [ ] make slide and add chunks and captions
+			- [ ] past
+			- [ ] present
+			- [ ] future
+		- [ ] make voice over (4 minutes)
 - Math
 	- [ ] page 836, # 81, 83, 85, 87
 	- [ ] 
