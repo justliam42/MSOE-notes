@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extra notes/Home planning.md",
+                "file": "Extra notes/Future Fun/Home planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extra notes/Home planning.md",
+                "file": "Extra notes/Future Fun/Home planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extra notes/Home planning.md",
+                "file": "Extra notes/Future Fun/Home planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extra notes/Home planning.md"
+                "file": "Extra notes/Future Fun/Home planning.md"
               }
             }
           },
@@ -179,10 +179,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "301f794c995c47ad",
+  "active": "9d0a63a33f3a9c4a",
   "lastOpenFiles": [
+    "Extra notes/Future Fun",
     "pictures/Pasted image 20230924155433.png",
-    "Extra notes/Home planning.md",
+    "Extra notes/Future Fun/Home planning.md",
     "pictures/Pasted image 20230924155526.png",
     "Classes/COM 1001/COM 1001.md",
     "pictures/20231004_101358.jpg",
@@ -196,7 +197,6 @@
     "pictures/20230901_084253.jpg",
     "pictures/20230918_083017.jpg",
     "pictures/Pasted image 20230908082218.png",
-    "pictures/Pasted image 20230924151854.png",
     "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "Books/Info.md",
     "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
