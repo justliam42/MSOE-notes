@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Info.md"
+                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md"
               }
             }
           },
@@ -269,6 +269,7 @@
   },
   "active": "c9fe62074c98409b",
   "lastOpenFiles": [
+    "Books/Info.md",
     "TODO (homework).md",
     "Classes/COM 1001/COM 1001.md",
     "Classes/COM 1001/Road Trip with a friend.md",
@@ -281,7 +282,6 @@
     "pictures/20231002_084541.jpg",
     "Classes/MTH 2130/formulas.md",
     "Classes/CSC 1110/CSC 1110.md",
-    "Books/Info.md",
     "pictures/Pasted image 20230928142442.png",
     "Classes/MTH 2130/MTH 2130.md",
     "Extra notes/DLI course.md",
