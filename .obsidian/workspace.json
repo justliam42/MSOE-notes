@@ -59,11 +59,9 @@
             "id": "c9fe62074c98409b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TODO (homework).md",
-                "mode": "source",
-                "source": false
+                "file": "pictures/20230830_082840.jpg"
               }
             }
           },
@@ -186,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "pictures/20230830_082840.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "pictures/20230830_082840.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "pictures/20230830_082840.jpg"
               }
             }
           },
@@ -269,9 +267,18 @@
   },
   "active": "c9fe62074c98409b",
   "lastOpenFiles": [
+    "pictures/20230901_082556.jpg",
+    "pictures/20230911_084605.jpg",
+    "pictures/20230901_084253.jpg",
+    "pictures/20230918_083017.jpg",
+    "pictures/Pasted image 20230908082218.png",
+    "pictures/Pasted image 20230924151854.png",
+    "pictures/Pasted image 20230924155433.png",
+    "pictures/Pasted image 20230924155526.png",
+    "pictures/Pasted image 20230928142442.png",
+    "TODO (homework).md",
     "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "Books/Info.md",
-    "TODO (homework).md",
     "Classes/COM 1001/COM 1001.md",
     "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
@@ -282,22 +289,14 @@
     "pictures/20231002_084541.jpg",
     "Classes/MTH 2130/formulas.md",
     "Classes/CSC 1110/CSC 1110.md",
-    "pictures/Pasted image 20230928142442.png",
     "Classes/MTH 2130/MTH 2130.md",
     "Extra notes/DLI course.md",
-    "pictures/Pasted image 20230924155526.png",
-    "pictures/Pasted image 20230924155433.png",
-    "pictures/Pasted image 20230924151854.png",
-    "pictures/Pasted image 20230924151456.png",
-    "pictures/20230924_151202.jpg",
     "Extra notes",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
     "Classes/MTH 2130/Definitions(MTH2130.md",
     "Classes/Schedule.md",
-    "pictures/20230918_083017.jpg",
-    "pictures/20230918_081738.jpg",
     "pictures/boolean-algebra-quick-reference.pdf",
     "Untitled.canvas",
     "Classes/CSC 1110/notes.md",
@@ -314,7 +313,6 @@
     "Books",
     "Classes/CSC 1110",
     "2023-08-28.md",
-    "Classes/CPE 1500/Weeks 9 and 10 - Synchronous finite state machines.md",
-    "Classes.md"
+    "Classes/CPE 1500/Weeks 9 and 10 - Synchronous finite state machines.md"
   ]
 }
