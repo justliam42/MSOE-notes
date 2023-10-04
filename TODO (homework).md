@@ -1,5 +1,6 @@
 - [ ] Road trip with a Friend
 - [ ] Math
+	- [ ] page 836, # 81, 83, 85, 87
 	- [ ] 
 - [ ] CPE 1500
 	 - [ ] hw7 (when availible)
