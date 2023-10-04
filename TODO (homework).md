@@ -1,7 +1,7 @@
 - COM 1001
 	- [ ] Man at work painting project
 		- [ ] pick painting
-		- [ ] do reasearch
+		- [ ] do research
 		- [ ] gather chunks (do more research)
 		- [ ] make slide and add chunks and captions
 			- [ ] past
@@ -12,7 +12,7 @@
 	- [ ] page 836, # 81, 83, 85, 87
 	- [ ] 
 - CPE 1500
-	 - [ ] hw7 (when availible)
+	 - [ ] hw7 (when available)
 	 - [ ] Prelab for lw8
 - CSC 1110
 	- [ ] Vending Machine revisions and submission
