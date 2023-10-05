@@ -10,7 +10,7 @@
 		- [ ] make voice over (4 minutes)
 - Math
 	- [x] Page 836, #
-		- [ ] Page 852, # <sub>9</sub>, 17, 19, 23, 25, 28`, 32, 33
+		- [ ] Page 852, # <sub style="background-color:Tomato; color: blue"; >9</sub>, 17, 19, 23, 25, 28`, 32, 33
 - CPE 1500
 	 - [ ] hw7 (when available)
 	 - [ ] Prelab for lw8
