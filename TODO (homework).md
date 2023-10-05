@@ -1,7 +1,7 @@
 - COM 1001
 	- [ ] Man at work painting project
-		- [ ] pick painting
-		- [ ] do research
+		- [x] pick painting
+		- [x] do research
 		- [ ] gather chunks (do more research)
 		- [ ] make slide and add chunks and captions
 			- [ ] past
