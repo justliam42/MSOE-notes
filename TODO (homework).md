@@ -10,7 +10,7 @@
 		- [ ] make voice over (4 minutes)
 - Math
 	- [x] Page 836, #
-		- [ ] Page 852, # 3, 9, 17, 19, 23, 25, 28, 32, 33
+		- [ ] Page 852, # 9, 17, 19, 23, 25, 28, 32, 33
 - CPE 1500
 	 - [ ] hw7 (when available)
 	 - [ ] Prelab for lw8
