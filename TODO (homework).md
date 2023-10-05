@@ -9,8 +9,8 @@
 			- [ ] future
 		- [ ] make voice over (4 minutes)
 - Math
-	- [ ] Page 836, # 87
-	- [ ] Page 852, # 1, 3, 9, 17, 19, 23, 25, 28, 32, 33
+	- [x] Page 836, #
+		- [ ] Page 852, # 1, 3, 9, 17, 19, 23, 25, 28, 32, 33
 - CPE 1500
 	 - [ ] hw7 (when available)
 	 - [ ] Prelab for lw8
