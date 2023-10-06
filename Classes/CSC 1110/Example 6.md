@@ -6,4 +6,6 @@ public int countToTen() {
     }
     return ten;
 }```
-The result will not be ten because the 
+The result will not be ten because the incrementor adds two, so by the time i becomes 10, the loop will have only executed 5  times.
+
+ChatGPT says: 
