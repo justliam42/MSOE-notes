@@ -35,4 +35,4 @@
  - IEEE Standards
 	 - 91: the logic gate symbols
 	 - 1087: VHDL
-	 - 1364: Veri
+	 - 1364: Verilog
