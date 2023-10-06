@@ -117,3 +117,6 @@ In this corrected code:
 - We perform the `instanceof` check on the `obj` (which is of type `Object`).
 - We cast `obj` to `String` before performing any operations specific to the `String` class.
 - We properly compare the characters of the two strings using the `charAt` method.
+
+Comments: 
+Once again it didn't understand the scope of the problem, which only asked to write the code for the string class, as oppossed to rewriting the default Object.equals
