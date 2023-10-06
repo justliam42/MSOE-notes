@@ -7,3 +7,7 @@ end of summer has meeting to continue?
 
 finals for work is not an issue
 summer is full time 40 hours a week june july august
+they flexible, as long as communication exists
+
+can set my own schedule during the school years
+ideally a consistant schedule
