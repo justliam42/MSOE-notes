@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extra notes/Cognex.md",
+                "file": "Classes/CSC 1110/Example 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extra notes/Cognex.md",
+                "file": "Classes/CSC 1110/Example 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extra notes/Cognex.md",
+                "file": "Classes/CSC 1110/Example 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extra notes/Cognex.md"
+                "file": "Classes/CSC 1110/Example 6.md"
               }
             }
           },
@@ -181,8 +181,10 @@
   },
   "active": "301f794c995c47ad",
   "lastOpenFiles": [
-    "Extra notes/DLI course.md",
+    "Classes/CSC 1110/CSC 1110.md",
+    "Classes/CSC 1110/Example 6.md",
     "Extra notes/Cognex.md",
+    "Extra notes/DLI course.md",
     "Extra notes/Future Fun/Home planning.md",
     "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
@@ -207,7 +209,6 @@
     "pictures/Pasted image 20230908082218.png",
     "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
     "Classes/MTH 2130/formulas.md",
-    "Classes/CSC 1110/CSC 1110.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Extra notes",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
@@ -223,7 +224,6 @@
     "HW1.pdf",
     "Excalidraw/Drawing 2023-08-29 13.38.52.excalidraw.md",
     "~$HW1.pdf",
-    "Excalidraw/Drawing 2023-08-29 13.37.46.excalidraw.md",
     "Excalidraw",
     "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf",
     "Books/Introduction to Programming with Java_2e.pdf",
