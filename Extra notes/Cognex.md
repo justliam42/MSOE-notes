@@ -12,3 +12,7 @@ they flexible, as long as communication exists
 can set my own schedule during the school years
 ideally a consistant schedule
 hybrid work model so full time work is 3 days a week
+
+at least 3 hours for in office work during school day
+
+12 min car ride
