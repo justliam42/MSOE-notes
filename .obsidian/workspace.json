@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSC 1110/Example 6.md",
+                "file": "Classes/CSC 1110/Exercise 6.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CSC 1110/Example 6.md",
+                "file": "Classes/CSC 1110/Exercise 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CSC 1110/Example 6.md",
+                "file": "Classes/CSC 1110/Exercise 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CSC 1110/Example 6.md"
+                "file": "Classes/CSC 1110/Exercise 6.md"
               }
             }
           },
@@ -183,7 +183,7 @@
   "active": "301f794c995c47ad",
   "lastOpenFiles": [
     "Classes/CSC 1110/CSC 1110.md",
-    "Classes/CSC 1110/Example 6.md",
+    "Classes/CSC 1110/Exercise 6.md",
     "Extra notes/Cognex.md",
     "Extra notes/DLI course.md",
     "Extra notes/Future Fun/Home planning.md",
