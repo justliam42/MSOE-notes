@@ -22,3 +22,5 @@ most interns just kindof wokr with the teams and help identify engineering tasks
 some interns progress to writing firmware code
 
 most new hires though, don't jump into embedded code, but there are other things to work on like ui and such
+
+gui is in c# firmware 
