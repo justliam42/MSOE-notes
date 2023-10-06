@@ -121,3 +121,9 @@ In this corrected code:
 Comments: 
 Once again it didn't understand the scope of the problem, which only asked to write the code for the string class, as opposed to rewriting the default Object.equals
 
+ChatGPT once again after some back and forth:
+  
+I understand your desire to override the `equals` method for the `String` class, but it's important to clarify that in Java, you cannot directly override methods in classes from the `java.lang` package, including the `String` class. The `equals` method of the `String` class is final and cannot be modified or overridden in your code.
+
+If you have a specific use case that requires custom behavior for comparing or working with `String` objects, you'll need to create your own custom class and implement your own `equals` method within that class to define the desired behavior for comparisons involving instances of your custom class and `String` objects.
+
