@@ -65,4 +65,6 @@ public boolean equals(String s) {
     return true;
 ```
 First Impressions:
-I can say I know a whole lot about Overri
+I can say I know a whole lot about Overrides and such, but from what I know it seems good to me.
+
+
