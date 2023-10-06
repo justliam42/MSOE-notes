@@ -21,6 +21,7 @@ There is nothing syntactically or logically wrong with the code you've provided.
 Comments:
 while technically correct with the given context, ChatGPT doesn't know exactly what the problem is asking, and therefore the "ten" variable is supposed to be 10
 
+
 ## 2. 
 Write a method called `middleChar` that will get a `String` passed in as a parameter, get the number of characters in the `String`, and return the middle character of the `String`. If the `String` has an even number of letters, it should return the first of the two middle characters (i.e. for the word fluffy, the method will return ‘u’.
 
@@ -51,6 +52,7 @@ In this corrected code, we use the `charAt` method to get the character at the m
 
 Comments:
 This seems to be spot on.
+
 
 ## 3. 
 Write the equals method for the `String` class. Below is a buggy implementation.
