@@ -32,4 +32,6 @@ public char middleChar(String s) {
 }
 ```
 first impressions:
-It begins okay, but the programmer forgot that they were just outputting a character, not a string to the character. This wont compile as the 
+It begins okay, but the programmer forgot that they were just outputting a character, not a string to the character. This wont compile as the substring method returns a string. A more appropriate method would be s.charAt(middle).
+
+ChatGPT says: 
