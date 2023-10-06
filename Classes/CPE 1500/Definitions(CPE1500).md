@@ -35,5 +35,5 @@
  - IEEE Standards
 	 - 91: the logic gate symbols
 	 - 1087: VHDL
-	  - 1164
+	  - 1164 VHDL interoperability (STD_LOGIC)
 	 - 1364: Verilog
