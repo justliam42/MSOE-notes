@@ -75,6 +75,7 @@ The Java code attempts to override the `equals` method for a class. However, the
 
 ```java
 @Override public boolean equals(Object obj) {     // ... }
+```
 
 
 2. **Parameter Type**: The `equals` method should take an `Object` as a parameter, not a `String`. This allows for proper polymorphic behavior and adheres to the standard `equals` method.
@@ -86,9 +87,17 @@ The Java code attempts to override the `equals` method for a class. However, the
 
 Here's the corrected code:
 
-javaCopy code
 
-`@Override public boolean equals(Object obj) {     if (this == obj) {         return true;     }     if (!(obj instanceof String)) {         return false;     }          String otherString = (String) obj;          if (this.length() != otherString.length()) {         return false;     }          for (int i = 0; i < this.length(); i++) {         if (this.charAt(i) != otherString.charAt(i)) {             return false;         }     }          return true; }`
+
+```java
+@Override public boolean equals(Object obj) {     if (this == obj) {         return true;     }     if (!(obj instanceof String)) {         return false;     }          String otherString = (String) obj;          if (this.length() != otherString.length()) {         return false;     }          for (int i = 0; i < this.length(); i++) {         
+if (this.charAt(i) != otherString.charAt(i)) {             
+return false;         
+}     
+}          
+return true; }
+```
+
 
 In this corrected code:
 
