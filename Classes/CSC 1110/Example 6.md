@@ -72,9 +72,11 @@ ChatGPT says:
 The Java code attempts to override the `equals` method for a class. However, there are a few issues:
 
 1. **Method Signature**: The `equals` method in Java should have the following signature to override the method from the `Object` class:
-    ```
-```@Override public boolean equals(Object obj) {     // ... }`
-    
+
+```java
+@Override public boolean equals(Object obj) {     // ... }
+
+
 2. **Parameter Type**: The `equals` method should take an `Object` as a parameter, not a `String`. This allows for proper polymorphic behavior and adheres to the standard `equals` method.
     
 3. **Comparison with `this`**: The line `if(this == s)` should not be comparing `this` (which is the current instance) with `s` (which is of type `String`). Instead, it should be comparing with the other object passed as an argument.
