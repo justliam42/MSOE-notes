@@ -12,12 +12,8 @@
 	- [x] Page 836, #
 		- [ ] Page 852, # <sub style="background-color:Tomato; color: blue">9</sub>, 17, 19, 23, 25, 28`, 32, 33
 - CPE 1500
-	 - [ ] hw7 (when available)
 	 - [ ] Prelab for lw8
 - CSC 1110
-	- [x] Vending Machine revisions and submission
-	- [x] Dice Submission
-	- [x] Lab submission
-	- [x] Reading quiz 5
+	- [ ] 
 
 <style> #grad { height: 500px; background-color: blue;/* For browsers that do not support gradients */ background-image: linear-gradient(to right, #1c87c9, #8ebf42); } </style>
