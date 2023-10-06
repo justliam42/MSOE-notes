@@ -31,4 +31,5 @@ public char middleChar(String s) {
     return s.substring(0, middle);
 }
 ```
-first impres
+first impressions:
+It begins okay, but the programmer forgot that they were just outputting a character, not a string to the character. This wont compile as the 
