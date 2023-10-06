@@ -39,6 +39,15 @@ ChatGPT says: The provided Java method `middleChar` aims to return the middle ch
 Here's the corrected version of the `middleChar` method:
 
 ```java
-public char middleChar(String s) {     int length = s.length();     int middle = length / 2;     return s.charAt(middle); }`
+public char middleChar(String s) {
+	int length = s.length();     
+	int middle = length / 2;     
+	return s.charAt(middle);
+}
+```
+
 
 In this corrected code, we use the `charAt` method to get the character at the middle index of the string, which is what you want when you're trying to find the middle character.
+
+Comments:
+This seems to be spot on.
