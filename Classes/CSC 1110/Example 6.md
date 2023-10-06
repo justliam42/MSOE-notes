@@ -102,10 +102,12 @@ Here's the corrected code:
 		return false;     
 	}          
 	for (int i = 0; i < this.length(); i++) {         
-		if (this.charAt(i) != otherString.charAt(i)) {        return false;         
-	}     
+		if (this.charAt(i) != otherString.charAt(i)) {
+			return false;         
+		}     
 	}          
-	return true; }
+	return true; 
+}
 ```
 
 
