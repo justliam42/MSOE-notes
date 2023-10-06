@@ -51,3 +51,17 @@ In this corrected code, we use the `charAt` method to get the character at the m
 
 Comments:
 This seems to be spot on.
+
+## 3. 
+Write the equals method for the `String` class. Below is a buggy implementation.
+```java
+@Override
+public boolean equals(String s) {
+    if(this == s) { return true; }
+    if(!(s instanceof String)) { return false; }
+    for(int i = 0; i < s.length(); ++i) {
+        if(this.charAt(i) != s.charAt(i)) { return false; }
+    }
+    return true;
+```
+
