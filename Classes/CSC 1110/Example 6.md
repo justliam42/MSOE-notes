@@ -34,4 +34,11 @@ public char middleChar(String s) {
 first impressions:
 It begins okay, but the programmer forgot that they were just outputting a character, not a string to the character. This wont compile as the substring method returns a string. A more appropriate method would be s.charAt(middle).
 
-ChatGPT says: 
+ChatGPT says: The provided Java method `middleChar` aims to return the middle character of a given string `s`. However, there is an issue with the code. The `substring` method is used to extract a portion of the string, but it returns a string, not a single character. To get a single character, you should use the `charAt` method.
+
+Here's the corrected version of the `middleChar` method:
+
+```java
+public char middleChar(String s) {     int length = s.length();     int middle = length / 2;     return s.charAt(middle); }`
+
+In this corrected code, we use the `charAt` method to get the character at the middle index of the string, which is what you want when you're trying to find the middle character.
