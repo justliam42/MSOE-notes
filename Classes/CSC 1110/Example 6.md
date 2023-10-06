@@ -1,3 +1,4 @@
+
 ```java
 public int countToTen() {
     int ten = 0;
@@ -16,4 +17,4 @@ So, the code counts from 0 to 10 by increments of 2 and returns the count, which
 There is nothing syntactically or logically wrong with the code you've provided.
 
 Liam says:
-while technically correct, a human might imagine
+while technically correct with the
