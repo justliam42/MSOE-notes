@@ -1,6 +1,8 @@
 Course:  CSC 1110
 Fall 2023
+Exercise 6 - Using Chat-GPT To Debug Code
 Name: Liam Otten
+10/6/
 
 ## 1. 
 Write a method countToTen that will use a for loop to count from 1 to 10, incrementing a local variable ten inside the loop, then return ten. Here is a buggy version of the method:
