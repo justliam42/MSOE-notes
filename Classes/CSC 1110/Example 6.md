@@ -17,4 +17,5 @@ So, the code counts from 0 to 10 by increments of 2 and returns the count, which
 There is nothing syntactically or logically wrong with the code you've provided.
 
 Liam says:
-while technically correct with the
+while technically correct with the given context, ChatGPT doesn't know exactly what the problem is asking, and therefore the "ten" variable is supposed to be 10
+
