@@ -90,12 +90,22 @@ Here's the corrected code:
 
 
 ```java
-@Override public boolean equals(Object obj) {     if (this == obj) {         return true;     }     if (!(obj instanceof String)) {         return false;     }          String otherString = (String) obj;          if (this.length() != otherString.length()) {         return false;     }          for (int i = 0; i < this.length(); i++) {         
-if (this.charAt(i) != otherString.charAt(i)) {             
-return false;         
-}     
-}          
-return true; }
+@Override public boolean equals(Object obj) {     
+	if (this == obj) {         
+		return true;     
+	}     
+	if (!(obj instanceof String)) {         
+		return false;     
+	}          
+	String otherString = (String) obj;          
+	if (this.length() != otherString.length()) {         
+		return false;     
+	}          
+	for (int i = 0; i < this.length(); i++) {         
+		if (this.charAt(i) != otherString.charAt(i)) {        return false;         
+	}     
+	}          
+	return true; }
 ```
 
 
