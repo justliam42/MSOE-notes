@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
+                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
+                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
+                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md"
+                "file": "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "301f794c995c47ad",
   "lastOpenFiles": [
-    "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
     "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
+    "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
     "Classes/CPE 1500/CPE 1500.md",
     "TODO (homework).md",
