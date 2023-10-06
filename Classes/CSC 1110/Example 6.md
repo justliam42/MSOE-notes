@@ -1,4 +1,5 @@
-
+## 1. 
+##### Write a method countToTen that will use a for loop to count from 1 to 10, incrementing a local variable ten inside the loop, then return ten. Here is a buggy version of the method:
 ```java
 public int countToTen() {
     int ten = 0;
