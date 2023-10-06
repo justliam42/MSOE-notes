@@ -32,3 +32,7 @@
 - Maxterm
 	- a sum involving all the inputs to the function
 	- A + B + C
+ - IEEE Standards
+	 - 91: the logic gate symbols
+	 - 1087: VHDL
+	 - 1364: Veri
