@@ -16,4 +16,3 @@
 - CSC 1110
 	- [ ] turn in ex6
 
-<style> #grad { height: 500px; background-color: blue;/* For browsers that do not support gradients */ background-image: linear-gradient(to right, #1c87c9, #8ebf42); } </style>
