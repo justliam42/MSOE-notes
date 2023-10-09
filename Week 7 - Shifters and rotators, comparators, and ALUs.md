@@ -9,4 +9,4 @@ To subtract, we
 	1. throw an xor on the second input carry with the carry in input that as the subtract bit (holy cow)
 	2. if the carry in(subtract bit) is one, now it both inverts the second values, and adds one
 
-Unfortunately this means we add a gate so it adds a single propagation delay 
+Unfortunately this means we add a gate so it adds a single propagation delay value to the first bit or something
