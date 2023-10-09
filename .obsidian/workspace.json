@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Books/Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Books/Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Books/Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Books/Info.md"
               }
             }
           },
@@ -194,11 +194,11 @@
   },
   "active": "a24e759e924b8352",
   "lastOpenFiles": [
+    "TODO (homework).md",
     "Week 7 - Shifters and rotators, comparators, and ALUs.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "Classes/MTH 2130/MTH 2130.md",
-    "TODO (homework).md",
     "Classes/CSC 1110/Exercise 6.md",
     "Classes/CSC 1110/CSC 1110.md",
     "Extra notes/Cognex.md",
