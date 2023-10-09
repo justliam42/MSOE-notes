@@ -44,4 +44,5 @@ so in a ripple carry adder it gets progressively slower the more full adders are
 so in a n-bit ripple carry adder, stability occurs at 2\*n\*delta where delta = t<sub>pd</sub>
 	The delay time is linear with a slope of 2\*t<sub>pd</sub>
 
-complexit
+complexity is O<sub>rder</sub>(n) or it grows with n
+
