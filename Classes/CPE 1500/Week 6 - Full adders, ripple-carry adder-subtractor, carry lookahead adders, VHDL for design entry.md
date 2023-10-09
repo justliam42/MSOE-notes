@@ -40,3 +40,5 @@ therefore the whole circuit has a propagation delay
 *for today lets assume all gates have T<sub>pd</sub> the same
 
 so in a ripple carry adder it gets progressively slower the more full adders are added
+
+so in a n-bit
