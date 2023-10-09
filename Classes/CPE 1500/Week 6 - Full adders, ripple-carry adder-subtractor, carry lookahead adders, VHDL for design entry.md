@@ -24,5 +24,6 @@ groups of signals are: cable, bus, group, or vector
 
 --10/9/2023--
 Busses do be kinda nice (just remember to label them)
-
+quartus declares buses with A\[3..0] or so 
+aha
 #### Fast adder??
