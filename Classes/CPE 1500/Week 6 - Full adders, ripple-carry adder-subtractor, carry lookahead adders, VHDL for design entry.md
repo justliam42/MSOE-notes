@@ -29,4 +29,5 @@ output bus be the same
 
 
 Idealized behavior (functional wit no delay)
+Real gates exhibit delay
 #### Fast adder??
