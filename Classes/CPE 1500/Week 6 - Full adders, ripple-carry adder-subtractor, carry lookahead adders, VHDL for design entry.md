@@ -30,3 +30,5 @@ output bus be the same
 
 Idealized behavior (functional wit no delay)
 Real gates exhibit delay
+
+Each gate has some delay in time (delta t)
