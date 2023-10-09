@@ -32,3 +32,6 @@ Idealized behavior (functional wit no delay)
 Real gates exhibit delay
 
 Each gate has some delay in time (delta t)
+The delay time is the propagation delay
+
+the longest path is the critical path because it is the slowest or something
