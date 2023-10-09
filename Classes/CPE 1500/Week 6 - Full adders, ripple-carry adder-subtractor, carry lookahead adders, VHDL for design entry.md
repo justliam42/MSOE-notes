@@ -41,4 +41,4 @@ therefore the whole circuit has a propagation delay
 
 so in a ripple carry adder it gets progressively slower the more full adders are added
 
-so in a n-bit
+so in a n-bit ripple carry adder, stability occurs at 2\*n\*delta where delta = t<sub>pd</sub>
