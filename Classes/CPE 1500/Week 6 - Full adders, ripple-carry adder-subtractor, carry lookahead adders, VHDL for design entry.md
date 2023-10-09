@@ -21,4 +21,6 @@ VHDL is IEEE 1076
 groups of signals are: cable, bus, group, or vector
 
 
-#### Fast adder?
+
+--10/9/2023--
+#### Fast adder??
