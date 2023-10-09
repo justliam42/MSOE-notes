@@ -46,3 +46,6 @@ so in a n-bit ripple carry adder, stability occurs at 2\*n\*delta where delta = 
 
 complexity is O<sub>rder</sub>(n) or it grows with n
 
+#### Subtraction
+A+B is A+B+0
+A-B is A+(!B+1)
