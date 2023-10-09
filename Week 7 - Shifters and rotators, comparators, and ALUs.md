@@ -6,4 +6,4 @@ A-B is A+(!B+1)
 XOR causes a bit to be opposite of de other
 
 To subtract, we
-	1. throw an xor on the second input carry
+	1. throw an xor on the second input carry with a new input that is the subtract bit
