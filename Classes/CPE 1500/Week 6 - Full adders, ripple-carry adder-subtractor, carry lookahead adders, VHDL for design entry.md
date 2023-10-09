@@ -26,4 +26,7 @@ groups of signals are: cable, bus, group, or vector
 Busses do be kinda nice (just remember to label them)
 Quartus declares buses with A\[3..0] or so 
 output bus be the same 
+
+
+Idealized behavior (functional wit no delay)
 #### Fast adder??
