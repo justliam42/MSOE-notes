@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Info.md"
+                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md"
               }
             }
           },
@@ -194,9 +194,12 @@
   },
   "active": "a24e759e924b8352",
   "lastOpenFiles": [
+    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+    "Classes/CPE 1500/Definitions(CPE1500).md",
+    "Classes/CPE 1500/CPE 1500.md",
+    "Books/Info.md",
     "TODO (homework).md",
     "Week 7 - Shifters and rotators, comparators, and ALUs.md",
-    "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/CSC 1110/Exercise 6.md",
@@ -205,8 +208,6 @@
     "Extra notes/DLI course.md",
     "Extra notes/Future Fun/Home planning.md",
     "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
-    "Classes/CPE 1500/Definitions(CPE1500).md",
-    "Books/Info.md",
     "Extra notes/Future Fun/Smarthome and lights.md",
     "Extra notes/Future Fun/Homemade Desk.md",
     "Extra notes/Future Fun",
@@ -226,7 +227,6 @@
     "Classes/MTH 2130/formulas.md",
     "Extra notes",
     "Classes/CPE 1500/Week 2 - Design Levels, logic gates, functional waveform diagrams, canonical Boolean equations.md",
-    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
     "Classes/MTH 2130/Definitions(MTH2130.md",
     "Classes/Schedule.md",
