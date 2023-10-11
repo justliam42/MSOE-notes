@@ -64,3 +64,5 @@ so C<sub>i+1</sub> = G<sub>i</sub> + P<sub>i</sub>C<sub>i</sub>
 
 So 
 ![[20231011_084232.jpg]]
+(that last one is C4 = ...C0)
+
