@@ -58,4 +58,5 @@ or C<sub>i+1</sub> = A<sub>i</sub>B<sub>i</sub> + C<sub>i</sub>(A<sub>i</sub> + 
 So we Let A<sub>i</sub>B<sub>i</sub> = G<sub>i</sub>
 and (A<sub>i</sub> + B<sub>i</sub>) = P<sub>i</sub>
 
-so C<sub>i+1</sub> = G<sub>i</sub> + P<sub>i</sub>C<sub>
+so C<sub>i+1</sub> = G<sub>i</sub> + P<sub>i</sub>C<sub>i</sub>
+
