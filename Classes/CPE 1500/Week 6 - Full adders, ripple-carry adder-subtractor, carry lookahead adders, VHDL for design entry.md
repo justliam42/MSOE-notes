@@ -47,4 +47,7 @@ so in a n-bit ripple carry adder, stability occurs at 2\*n\*delta where delta = 
 complexity is O<sub>rder</sub>(n) or it grows with n
 
 --10/11/2023--
-Carry-lookahead adder hahaha ()
+#### Carry-lookahead adder hahaha 
+
+Normal COUT = AB + AC + BC
+or A<sub>0<
