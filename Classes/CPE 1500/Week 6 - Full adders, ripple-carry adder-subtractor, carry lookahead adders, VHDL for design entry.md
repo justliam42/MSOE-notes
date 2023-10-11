@@ -62,3 +62,5 @@ so C<sub>i+1</sub> = G<sub>i</sub> + P<sub>i</sub>C<sub>i</sub>
 
 ![[20231011_083908.jpg]]
 
+So 
+![[20231011_084232.jpg]]
