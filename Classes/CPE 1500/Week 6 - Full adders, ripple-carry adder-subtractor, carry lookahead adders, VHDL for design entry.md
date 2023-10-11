@@ -50,4 +50,4 @@ complexity is O<sub>rder</sub>(n) or it grows with n
 #### Carry-lookahead adder hahaha 
 
 Normal COUT = AB + AC + BC
-or A<sub>0<
+or A<sub>0</sub>B<sub>0</sub> + A<sub>0</sub>C<sub>0</sub> + B<sub>0</sub>C<sub>0</sub> 
