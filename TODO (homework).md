@@ -12,5 +12,5 @@
 - CPE 1500
 	 - [ ] Prelab for lw8
 - CSC 1110
-	- [ ] turn in ex6
-
+	- [ ] turn in assignments
+	- [ ] reading quiz.

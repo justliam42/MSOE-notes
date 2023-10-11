@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -194,12 +194,12 @@
   },
   "active": "301f794c995c47ad",
   "lastOpenFiles": [
+    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Extra notes/Cognex.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "20231011_084232.jpg",
     "pictures/20231011_083908.jpg",
-    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
     "Books/Info.md",
     "TODO (homework).md",
