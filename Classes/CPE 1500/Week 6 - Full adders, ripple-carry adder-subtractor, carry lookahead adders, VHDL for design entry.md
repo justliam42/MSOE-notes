@@ -60,3 +60,5 @@ and (A<sub>i</sub> + B<sub>i</sub>) = P<sub>i</sub>
 
 so C<sub>i+1</sub> = G<sub>i</sub> + P<sub>i</sub>C<sub>i</sub>
 
+![[20231011_083908.jpg]]
+
