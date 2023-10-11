@@ -52,3 +52,4 @@ complexity is O<sub>rder</sub>(n) or it grows with n
 Normal COUT = AB + AC + BC
 or A<sub>0</sub>B<sub>0</sub> + A<sub>0</sub>C<sub>0</sub> + B<sub>0</sub>C<sub>0</sub> 
 and et cetera increasing the position
+aka C<sub>i+1</sub> = A<sub>i</sub>B<sub>i</sub> + A<sub>i</sub>C<sub>i</sub> + B<sub>i</sub>C<sub>i</sub> 
