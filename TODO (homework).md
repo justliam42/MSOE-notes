@@ -9,6 +9,7 @@
 			- [ ] future
 		- [ ] make voice over (4 minutes)
 - Math
+	-  [ ] Homework for 10/10
 - CPE 1500
 	 - [ ] Prelab for lw8
 - CSC 1110
