@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/CPE 1500.md",
+                "file": "Extra notes/Cognex.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
+                "file": "Extra notes/Cognex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
+                "file": "Extra notes/Cognex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md"
+                "file": "Extra notes/Cognex.md"
               }
             }
           },
@@ -192,17 +192,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a24e759e924b8352",
+  "active": "301f794c995c47ad",
   "lastOpenFiles": [
+    "Classes/CPE 1500/CPE 1500.md",
+    "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "20231011_084232.jpg",
     "pictures/20231011_083908.jpg",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
-    "Classes/CPE 1500/CPE 1500.md",
     "Books/Info.md",
     "TODO (homework).md",
     "Week 7 - Shifters and rotators, comparators, and ALUs.md",
-    "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/CSC 1110/Exercise 6.md",
     "Classes/CSC 1110/CSC 1110.md",
@@ -223,7 +223,6 @@
     "pictures/20230901_082556.jpg",
     "pictures/20230911_084605.jpg",
     "pictures/20230901_084253.jpg",
-    "pictures/20230918_083017.jpg",
     "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
     "Classes/MTH 2130/formulas.md",
     "Extra notes",
