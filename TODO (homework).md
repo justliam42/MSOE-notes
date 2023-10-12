@@ -11,7 +11,7 @@
 - Math
 	-  [ ] Homework for 10/10
 - CPE 1500
-	 - [ ] Prelab for lw8
+	- [ ] homework 8
+	- [ ] 
 - CSC 1110
 	- [x] turn in assignments
-	- [ ] reading quiz.
