@@ -9,7 +9,8 @@
 			- [x] future
 		- [x] make voice over (4 minutes)
 - Math
-	-  [ ] Homework for 10/10
+	- [ ] Page 863, # 5, 7, 11, 17, 33, 35, 39, 43, 53, 57, 61
+	- [ ] 
 - CPE 1500
 	- [ ] homework 8
 	- [ ] prelab for lw9
