@@ -17,5 +17,6 @@
 	- [ ] prelab for lw9
 		 - [ ] add some comments hehe
 			 basically done tho
+		- [ ] print out things
 - CSC 1110
 	- [x] turn in assignments
