@@ -15,5 +15,6 @@
 - CPE 1500
 	- [ ] homework 8
 	- [ ] prelab for lw9
+		 - [ ] add some comments hehe
 - CSC 1110
 	- [x] turn in assignments
