@@ -10,7 +10,7 @@
 		- [x] make voice over (4 minutes)
 - Math
 		- [ ] Page 863, # 17, 33, 35, 39, 43, 53, 57, 61
-	- [ ] page 880, # 9, 11, 13, 19
+	- [ ] page 880, # 11, 13, 19
 	- [ ] page 81, # 31, 33, 35  
 - CPE 1500
 	- [ ] homework 8
