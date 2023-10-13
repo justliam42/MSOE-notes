@@ -16,5 +16,6 @@
 	- [ ] homework 8
 	- [ ] prelab for lw9
 		 - [ ] add some comments hehe
+			 basically done tho
 - CSC 1110
 	- [x] turn in assignments
