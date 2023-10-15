@@ -14,7 +14,7 @@
 	- [ ] page 81, # 31, 33, 35  
 - CPE 1500
 	- [ ] homework 8
-	- [ ] prelab for lw9
+	- [x] prelab for lw9
 		 - [ ] add some comments hehe
 			 basically done tho
 		- [ ] print out things
