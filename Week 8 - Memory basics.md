@@ -14,8 +14,8 @@
 1-bit memory is called a flip-flop 
 - flip it on logic 1 and it remembers until you change it
 - flop it off to logic-0 and it remembers it
-first built them with vacuum tubes then m
-n-bit memory is just side-by-side fli
-ercury tubes
-
+first built them with vacuum tubes then mercury tubes
 Then we use transisters haha
+
+n-bit memory is just side-by-side flip-flops
+an n-bit wide memory is a "register"
