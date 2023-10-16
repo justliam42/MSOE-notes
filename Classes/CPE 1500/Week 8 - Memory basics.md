@@ -26,5 +26,8 @@ with a single self-attached not gate, the oscilation is 2 delta
 even number of not gates where output attaches to input, it holds memory
 
 we can represent this with nor gates.
+**output is Q
+
+
 
 reset = clear in memory
