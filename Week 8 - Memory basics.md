@@ -12,4 +12,6 @@
 - consider the current inputs and the history of past events. Thus, this type of circuit has memory
 
 1-bit memory is called a flip-flop 
-first built them with vaccuum tubes then murcury tum
+first built them with vacuum tubes then mercury tubes
+
+Then we use transisters haha
