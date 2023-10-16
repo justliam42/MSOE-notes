@@ -24,3 +24,4 @@ period of oscillation is tao
 with a single self-attached not gate, the oscilation is 2 delta
 
 even number of not gates where output attaches to input, it holds memory
+
