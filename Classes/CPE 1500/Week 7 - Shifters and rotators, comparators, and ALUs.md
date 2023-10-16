@@ -10,3 +10,4 @@ To subtract, we
 	2. if the carry in(subtract bit) is one, now it both inverts the second values, and adds one
 
 Unfortunately this means we add a gate so it adds a single propagation delay value to the things so its like 2\*n\*delta + 1
+
