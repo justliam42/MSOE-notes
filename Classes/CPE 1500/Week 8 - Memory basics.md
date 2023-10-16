@@ -26,8 +26,9 @@ with a single self-attached not gate, the oscilation is 2 delta
 even number of not gates where output attaches to input, it holds memory
 
 we can represent this with nor gates.
+- becomes and sr latch
 **output is Q
 - stands for quiescent (stable, not changing)
-
+S is set R is reset
 
 reset = clear in memory
