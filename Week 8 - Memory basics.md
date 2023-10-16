@@ -9,4 +9,6 @@
 - etc
 
 #### Sequential circuits:
-- consider the current inputs and the history of past events. Thus this type of circuit has memory
+- consider the current inputs and the history of past events. Thus, this type of circuit has memory
+
+1-bit memory is called a flip-flop
