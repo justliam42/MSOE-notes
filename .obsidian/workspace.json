@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 7 - Shifters and rotators, comparators, and ALUs.md",
+                "file": "Classes/CPE 1500/CPE 1500.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 7 - Shifters and rotators, comparators, and ALUs.md",
+                "file": "Classes/CPE 1500/CPE 1500.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 7 - Shifters and rotators, comparators, and ALUs.md",
+                "file": "Classes/CPE 1500/CPE 1500.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 7 - Shifters and rotators, comparators, and ALUs.md"
+                "file": "Classes/CPE 1500/CPE 1500.md"
               }
             }
           },
@@ -194,8 +194,9 @@
   },
   "active": "301f794c995c47ad",
   "lastOpenFiles": [
-    "Classes/CPE 1500/CPE 1500.md",
+    "Classes/CPE 1500/Definitions(CPE1500).md",
     "Classes/CPE 1500/Week 7 - Shifters and rotators, comparators, and ALUs.md",
+    "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "TODO (homework).md",
     "Extra notes/GE health.md",
@@ -205,7 +206,6 @@
     "Extra notes/Cognex.md",
     "pictures/20231011_084232.jpg",
     "pictures/20231011_083908.jpg",
-    "Classes/CPE 1500/Definitions(CPE1500).md",
     "Books/Info.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/CSC 1110/CSC 1110.md",
