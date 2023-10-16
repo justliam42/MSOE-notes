@@ -8,4 +8,5 @@
 - robot
 - etc
 
-#### Sequential
+#### Sequential circuits:
+- consider the current inputs and the history of past events. Thus this type of circuit has memory
