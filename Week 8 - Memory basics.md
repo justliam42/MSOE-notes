@@ -20,5 +20,7 @@ Then we use transisters haha
 n-bit memory is just side-by-side flip-flops
 an n-bit wide memory is a "register"
 
-period of oscillatoin is tao
-with a single self-attached not gate, the 
+period of oscillation is tao
+with a single self-attached not gate, the oscilation is 2 delta
+
+even number of not gates where output attches t
