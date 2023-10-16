@@ -27,7 +27,7 @@ even number of not gates where output attaches to input, it holds memory
 
 we can represent this with nor gates.
 **output is Q
-
+- stands for quiescent (stable, not changing)
 
 
 reset = clear in memory
