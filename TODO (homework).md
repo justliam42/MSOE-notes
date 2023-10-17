@@ -1,22 +1,10 @@
 - COM 1001
-	- [x] Man at work painting project
-		- [x] pick painting
-		- [x] do research
-		- [x] gather chunks (do more research)
-		- [x] make slide and add chunks and captions
-			- [x] past
-			- [x] present
-			- [x] future
-		- [x] make voice over (4 minutes)
 - Math
-		- [ ] Page 863, # 17, 33, 35, 39, 43, 53, 57, 61
-	- [ ] page 880, # 11, 13, 19
-	- [ ] page 81, # 31, 33, 35  
 - CPE 1500
-	- [ ] homework 8
-	- [x] prelab for lw9
+	- [ ] Homework 9
+	- [ ] Read Lab week 10
 		 - [ ] add some comments hehe
 			 basically done tho
 		- [ ] print out things
 - CSC 1110
-	- [x] turn in assignments
+	- [ ] 
