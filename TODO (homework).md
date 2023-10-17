@@ -7,4 +7,4 @@
 			 basically done tho
 		- [ ] print out things
 - CSC 1110
-	- [ ] 
+	- [ ] reading quiz for week 8
