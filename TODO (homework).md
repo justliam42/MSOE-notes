@@ -8,3 +8,5 @@
 		- [ ] print out things
 - CSC 1110
 	- [ ] reading quiz for week 8
+- other
+	- [ ] Send letter thing
