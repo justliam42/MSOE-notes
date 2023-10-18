@@ -32,3 +32,6 @@ we can represent this with nor gates.
 S is set R is reset
 
 reset = clear in memory
+
+--10/18/2023--
+
