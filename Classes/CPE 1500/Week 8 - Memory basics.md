@@ -43,5 +43,7 @@ reset = clear in memory
 - ![[Pasted image 20231018081438.png | 200]]
 ##### Register
 - one n-bit number
-- active low load and r
+- active low load and reset signals
+- n amount of data and outputs
+- sample time clock
 - ![[Pasted image 20231018081609.png | 200]]
