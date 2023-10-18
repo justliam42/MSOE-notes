@@ -50,3 +50,5 @@ reset = clear in memory
 - ![[Pasted image 20231018081609.png | 200]]
 
 
+#### Controlled 1-bit
+![[Pasted image 20231018084334.png]]
