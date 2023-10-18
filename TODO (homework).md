@@ -1,6 +1,6 @@
 - COM 1001
 - Math
-	- [ ] Page 900, #  11, 13, 15 
+	- [ ] Page 900, #  13, 15 
 - CPE 1500
 	- [ ] Homework 9
 	- [ ] Read Lab week 10
