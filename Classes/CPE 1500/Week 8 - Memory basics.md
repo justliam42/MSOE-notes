@@ -36,3 +36,4 @@ reset = clear in memory
 --10/18/2023--
 
 ##### D flip flop (DFF)
+-  Q is still output
