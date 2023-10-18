@@ -43,4 +43,5 @@ reset = clear in memory
 - ![[Pasted image 20231018081438.png | 200]]
 ##### Register
 - one n-bit number
-- 
+- active low load and r
+- ![[Pasted image 20231018081609.png | 200]]
