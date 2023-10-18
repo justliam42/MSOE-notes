@@ -55,3 +55,4 @@ reset = clear in memory
 - this is dumb tho because it no longer stores memory so ->
 ![[Pasted image 20231018084651.png | 350]]
 - so the enable bit is just switching between the feedback loop and the data pin
+- In this the controlled thing from above is used because with the not it makes the nors jus act like nots because the inputs will be the same or someting
