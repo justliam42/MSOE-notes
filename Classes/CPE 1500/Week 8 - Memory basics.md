@@ -52,5 +52,5 @@ reset = clear in memory
 
 #### Controlled 1-bit
 ![[Pasted image 20231018084334.png | 350]]
-- this is dumb tho because it no longer stores memory
-- ![[Pasted image 20231018084651.png | 350]]
+- this is dumb tho because it no longer stores memory so ->
+![[Pasted image 20231018084651.png | 350]]
