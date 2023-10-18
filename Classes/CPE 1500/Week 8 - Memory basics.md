@@ -38,6 +38,9 @@ reset = clear in memory
 ##### D flip flop (DFF)
 -  Q is still output
 - D is data input (D flip flop)
+- active low load control signal 
 - sample clock
 - ![[Pasted image 20231018081438.png | 200]]
+##### Register
+- one n-bit number
 - 
