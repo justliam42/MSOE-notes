@@ -41,7 +41,7 @@ reset = clear in memory
 - active low load control signal 
 - sample clock
 - ![[Pasted image 20231018081438.png | 200]]
-- when both input
+- when both inputs 1, it is n/a
 ##### Register
 - one n-bit number
 - active low load and reset signals
