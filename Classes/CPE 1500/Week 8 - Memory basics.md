@@ -48,4 +48,5 @@ reset = clear in memory
 - n amount of data and outputs
 - sample time clock
 - ![[Pasted image 20231018081609.png | 200]]
-- 
+
+
