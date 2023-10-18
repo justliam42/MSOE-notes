@@ -54,3 +54,4 @@ reset = clear in memory
 ![[Pasted image 20231018084334.png | 350]]
 - this is dumb tho because it no longer stores memory so ->
 ![[Pasted image 20231018084651.png | 350]]
+- so the enable bit is just switching between the feedback loop and the data pin
