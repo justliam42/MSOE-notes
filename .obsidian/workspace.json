@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/Week 8 - Memory basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "856ca29ff2cc1655",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/Week 8 - Memory basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/Week 8 - Memory basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Classes/CPE 1500/Week 8 - Memory basics.md"
               }
             }
           },
@@ -192,15 +193,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "301f794c995c47ad",
+  "active": "9d0a63a33f3a9c4a",
   "lastOpenFiles": [
+    "TODO (homework).md",
     "Classes/CSC 1110/notes.md",
     "Classes/CPE 1500/Week 8 - Memory basics.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
     "Classes/CPE 1500/Week 7 - Shifters and rotators, comparators, and ALUs.md",
     "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
-    "TODO (homework).md",
     "Extra notes/GE health.md",
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
     "Classes/CSC 1110/Exercise 6.md",
