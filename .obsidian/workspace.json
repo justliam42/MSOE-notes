@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/Week 8 - Memory basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "856ca29ff2cc1655",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/Week 8 - Memory basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/Week 8 - Memory basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Classes/CPE 1500/Week 8 - Memory basics.md"
               }
             }
           },
@@ -194,12 +195,12 @@
   },
   "active": "301f794c995c47ad",
   "lastOpenFiles": [
+    "TODO (homework).md",
     "Classes/CPE 1500/Week 8 - Memory basics.md",
     "Pasted image 20231018084651.png",
     "Pasted image 20231018084334.png",
     "Pasted image 20231018081609.png",
     "Pasted image 20231018081438.png",
-    "TODO (homework).md",
     "Classes/CSC 1110/notes.md",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
