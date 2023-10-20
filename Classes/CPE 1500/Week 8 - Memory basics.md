@@ -59,3 +59,4 @@ reset = clear in memory
 - this is a d latch
 
 ![[Pasted image 20231020082356.png]]
+basically when
