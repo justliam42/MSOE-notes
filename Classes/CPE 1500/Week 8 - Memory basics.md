@@ -58,3 +58,4 @@ reset = clear in memory
 - In this the controlled thing from above is used because with the not it makes the NORS jus act like nots because the inputs will be the same or someting
 - this is a d latch
 
+![[Pasted image 20231020082356.png]]
