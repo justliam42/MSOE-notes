@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 8 - Memory basics.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "856ca29ff2cc1655",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 8 - Memory basics.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 8 - Memory basics.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 8 - Memory basics.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -195,9 +194,9 @@
   },
   "active": "301f794c995c47ad",
   "lastOpenFiles": [
+    "Classes/CPE 1500/Week 8 - Memory basics.md",
     "Pasted image 20231020082356.png",
     "TODO (homework).md",
-    "Classes/CPE 1500/Week 8 - Memory basics.md",
     "Pasted image 20231018084651.png",
     "Pasted image 20231018084334.png",
     "Pasted image 20231018081609.png",
@@ -227,7 +226,6 @@
     "pictures/Pasted image 20230924155526.png",
     "Classes/COM 1001/COM 1001.md",
     "pictures/20231004_101358.jpg",
-    "pictures/20231004_101327.jpg",
     "Classes/COM 1001/Road Trip with a friend.md",
     "Classes/CPE 1500/Week 4 - Karnaugh map reduction.md",
     "Classes/MTH 2130/formulas.md",
