@@ -1,12 +1,7 @@
 - COM 1001
+	- [ ] Folk Lore or something
 - Math
-	- [x] Page 900, #  15 
 - CPE 1500
-	- [x] Homework 9
-	- [ ] Read Lab week 10
-		 - [ ] add some comments hehe
-			 basically done tho
-		- [ ] print out things
 - CSC 1110
 	 - [ ] exercise 8
 	 - [ ] lab 9
