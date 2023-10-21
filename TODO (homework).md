@@ -1,13 +1,13 @@
 - COM 1001
 - Math
-	- [ ] Page 900, #  15 
+	- [x] Page 900, #  15 
 - CPE 1500
-	- [ ] Homework 9
+	- [x] Homework 9
 	- [ ] Read Lab week 10
 		 - [ ] add some comments hehe
 			 basically done tho
 		- [ ] print out things
 - CSC 1110
-	- [ ] reading quiz for week 8
+	- [x] reading quiz for week 8
 - other
-	- [ ] Send letter thing
+	- [x] Send letter thing
