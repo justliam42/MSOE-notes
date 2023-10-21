@@ -8,6 +8,6 @@
 			 basically done tho
 		- [ ] print out things
 - CSC 1110
-	- [x] reading quiz for week 8
+	 - [ ] exercise 8
+	 - [ ] lab 9
 - other
-	- [x] Send letter thing
