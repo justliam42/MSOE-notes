@@ -68,6 +68,8 @@ pretty sure the load is necessary(helpful)
 clocks be like: 
 	piezo electric effect
 	piezo electric crystal
+	the period of a clock is given with variable Tao
+	Frequency is 
 
 in the 74194 4-bit register:
 - provides multiple modes
