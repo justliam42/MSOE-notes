@@ -69,4 +69,5 @@ pretty sure the load is necessary(helpful)
 in the 74194 4-bit register:
 - provides multiple modes
 	- left, right-shift, do nothing
-- 
+- D is most significant bit
+- Clear signa
