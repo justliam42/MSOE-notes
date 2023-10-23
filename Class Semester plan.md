@@ -3,4 +3,5 @@
 	-  PHY 1110 - Physics I - Mechanics and Thermodynamics? - 4
 	- CSC 1120 - Data Structures and Graphical Interfaces - 4
 	- Elective (Lab Science) 4
+	- IDS 2020 - Career Development 0
 	- 
