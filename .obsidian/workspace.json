@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "ba2b324595984c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class Semester plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a24e759e924b8352",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 8 - Memory basics.md",
+                "file": "Class Semester plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 8 - Memory basics.md",
+                "file": "Class Semester plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 8 - Memory basics.md"
+                "file": "Class Semester plan.md"
               }
             }
           },
@@ -192,10 +204,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "301f794c995c47ad",
+  "active": "ba2b324595984c0d",
   "lastOpenFiles": [
-    "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 8 - Memory basics.md",
+    "Class Semester plan.md",
+    "Classes/CPE 1500/CPE 1500.md",
     "Classes/CSC 1110/Exercise 6.md",
     "Extra notes/Future Fun/Smarthome and lights.md",
     "Extra notes/Future Fun/Home planning.md",
