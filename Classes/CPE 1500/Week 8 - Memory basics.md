@@ -65,3 +65,6 @@ pretty sure the load is necessary(helpful)
 
 
 --10.23.2023--
+
+in the 74194 4-bit register:
+- provid
