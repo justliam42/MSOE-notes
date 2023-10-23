@@ -77,4 +77,5 @@ in the 74194 4-bit register:
 - D is most significant bit
 - Clear signal
 
-A positive edge is when the delta V be posibi
+A positive edge is when the delta V be positive (calculus agag)
+
