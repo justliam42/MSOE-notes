@@ -68,8 +68,8 @@ pretty sure the load is necessary(helpful)
 clocks be like: 
 	piezo electric effect
 	piezo electric crystal
-	the period of a clock is given with variable Tao
-	Frequency is 
+	the period of a clock is given with variable Tao in seconds
+	Frequency is 1/Tao which is 1/s or hz
 
 in the 74194 4-bit register:
 - provides multiple modes
