@@ -71,4 +71,4 @@ in the 74194 4-bit register:
 	- left, right-shift, do nothing
 - D is most significant bit
 - Clear signal
-- 
+piezo electric e
