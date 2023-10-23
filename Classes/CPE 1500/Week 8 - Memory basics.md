@@ -62,3 +62,7 @@ reset = clear in memory
 basically when the clock goes high, it outputs the last thing that was on the wire when the clock was low until it goes from low to high again
 
 pretty sure the load is necessary
+
+
+--10.23.2023--
+
