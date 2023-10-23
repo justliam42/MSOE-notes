@@ -80,3 +80,6 @@ in the 74194 4-bit register:
 A positive edge is when the delta V be positive (calculus agag)
 also known as rising edge.
 Same is for falling edge.
+
+when something doesn't wait for the clock it is:
+	Asynchronous
