@@ -78,4 +78,5 @@ in the 74194 4-bit register:
 - Clear signal
 
 A positive edge is when the delta V be positive (calculus agag)
-
+also known as rising edge.
+Same is for falling edge.
