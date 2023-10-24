@@ -10,7 +10,7 @@
 course list for sched:
 PHY 1110
 CSC 1120
-CHM 1310
+CHM 1010
 IDS 2020
 MTH 2340
 CPE 1510
