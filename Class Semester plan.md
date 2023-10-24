@@ -18,3 +18,5 @@ CPE 1510
 
 
 ![[Pasted image 20231024131905.png]]
+
+![[Pasted image 20231024141414.png]]
