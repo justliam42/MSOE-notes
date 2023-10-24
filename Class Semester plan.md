@@ -17,7 +17,6 @@ CPE 1510
 MUS 0600
 
 
-
-![[Pasted image 20231024131905.png]]
-
 ![[Pasted image 20231024141414.png]]
+
+![[Pasted image 20231024150600.png]]
