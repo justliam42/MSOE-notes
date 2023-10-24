@@ -14,3 +14,6 @@ CHM 1310
 IDS 2020
 MTH 2340
 CPE 1510
+
+![[Pasted image 20231024130017.png]]
+
