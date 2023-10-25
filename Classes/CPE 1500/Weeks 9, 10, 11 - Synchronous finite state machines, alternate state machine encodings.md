@@ -25,3 +25,5 @@ Mealy Machine
 We doing bubbles or someting
 - The name of the state name on top
 - at the bottom is da outputs
+- A departure from this state is represented by a graph arc (representing the clock)
+- On 
