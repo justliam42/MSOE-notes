@@ -30,4 +30,5 @@ Mealy Machine
 - A departure from this state is represented by a graph arc (representing the clock)
 - Like a flow chart or something
 **State Table**
+-  Outputs get both the next state data and the output
 - 
