@@ -18,4 +18,4 @@ Moore Machine
 
 
 Mealy Machine
-- Will look almost identical 
+- Will look almost identical to the 
