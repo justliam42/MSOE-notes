@@ -33,4 +33,5 @@ Mealy Machine
 -  Outputs get both the next-state D and the output
 - Inputs are state
 **Truth Table**
-- Based on number of input states, calculate ho
+- Based on number of input states, calculate how many bits needed
+- Truth table looks like State table but 
