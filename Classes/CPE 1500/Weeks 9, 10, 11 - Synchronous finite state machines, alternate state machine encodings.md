@@ -27,3 +27,4 @@ We doing bubbles or someting
 - at the bottom is da outputs
 - A departure from this state is represented by a graph arc (representing the clock)
 - Like a flow chart or something
+- 
