@@ -5,4 +5,4 @@ Finite State Machines (FSM)
 - numbers stored in memory
 - stored numbers represent the ***state*** of the machine
 
-**State**: a stored number representing a place in time
+**State**: a stored number representing a place in time.
