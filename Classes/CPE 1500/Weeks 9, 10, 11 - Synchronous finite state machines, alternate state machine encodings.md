@@ -22,9 +22,11 @@ Mealy Machine
 - The inputs also feed into the output logic (think line from input to output logic block)
 - Basically output is dependent on everything available, as opposed to just the register
 
+
+
 We doing bubbles or someting
 - The name of the state name on top
 - at the bottom is da outputs
 - A departure from this state is represented by a graph arc (representing the clock)
 - Like a flow chart or something
-- 
+Next sta
