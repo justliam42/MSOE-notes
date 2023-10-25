@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Semester plan.md",
+                "file": "Classes/CPE 1500/CPE 1500.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9891556590700f96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Semester plan.md",
+                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Semester plan.md",
+                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Semester plan.md"
+                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md"
               }
             }
           },
@@ -204,16 +216,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba2b324595984c0d",
+  "active": "9d0a63a33f3a9c4a",
   "lastOpenFiles": [
-    "Pasted image 20231024131905.png",
+    "Classes/CPE 1500/CPE 1500.md",
+    "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
     "Class Semester plan.md",
-    "Pasted image 20231024150600.png",
-    "Pasted image 20231024141414.png",
+    "Pasted image 20231024131905.png",
+    "pictures/Pasted image 20231024150600.png",
+    "pictures/Pasted image 20231024141414.png",
     "Classes/Schedule.md",
     "Pasted image 20231024130017.png",
     "Classes/CPE 1500/Week 8 - Memory basics.md",
-    "Classes/CPE 1500/CPE 1500.md",
     "Classes/CSC 1110/Exercise 6.md",
     "Extra notes/Future Fun/Smarthome and lights.md",
     "Extra notes/Future Fun/Home planning.md",
