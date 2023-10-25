@@ -6,3 +6,5 @@ Finite State Machines (FSM)
 - stored numbers represent the ***state*** of the machine
 
 **State**: a stored number representing a place in time.
+
+MOOR 
