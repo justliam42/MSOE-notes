@@ -21,3 +21,4 @@ Mealy Machine
 - Will look almost identical to the Moore Machine but:
 - The inputs also feed into the output logic (think line from input to output logic block)
 - Basically output is dependent on everything available, as opposed to just the register
+- 
