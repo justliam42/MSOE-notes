@@ -14,3 +14,5 @@ Moore Machine
 - What is held in memory is called the ***Current State*** Q
 - What is held as the data input is called the ***next state***
 - Finally, the output is the output logic and output k
+![[20231025_081546.jpg]]
+- 
