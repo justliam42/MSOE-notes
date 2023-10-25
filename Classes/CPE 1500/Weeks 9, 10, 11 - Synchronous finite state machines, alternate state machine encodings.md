@@ -10,3 +10,4 @@ Finite State Machines (FSM)
 Moore Machine
 - At the heart of the Moore machine there is a n-bit storage register.
 - In front of the ***State Register*** is a ***Next State Logic*** block which may have inputs
+- The output stored state also feeds back into the next state logic block
