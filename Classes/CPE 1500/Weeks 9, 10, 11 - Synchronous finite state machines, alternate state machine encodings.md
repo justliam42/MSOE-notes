@@ -12,3 +12,5 @@ Moore Machine
 - In front of the ***State Register*** is a ***Next State Logic*** block which may have inputs
 - The output stored state also feeds back into the next state logic block
 - What is held in memory is called the ***Current State*** Q
+- What is held as the data input is called the ***next state***
+- Finally, the output is the output logic and output k
