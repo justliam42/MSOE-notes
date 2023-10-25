@@ -32,6 +32,9 @@ Mealy Machine
 **State Table**
 -  Outputs get both the next-state D and the output
 - Inputs are state
+![[20231025_083714.jpg | 300]]
 **Truth Table**
 - Based on number of input states, calculate how many bits needed
 - Truth table looks like State table but translate to bits or something
+![[20231025_084023.jpg | 300]]
+- 
