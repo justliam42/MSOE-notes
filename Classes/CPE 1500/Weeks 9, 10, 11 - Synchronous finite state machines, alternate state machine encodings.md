@@ -8,4 +8,5 @@ Finite State Machines (FSM)
 **State**: a stored number representing a place in time.
 
 Moore Machine
-- At the heart of the Moore machine there is a storage register.
+- At the heart of the Moore machine there is a n-bit storage register.
+- The ***State Register***
