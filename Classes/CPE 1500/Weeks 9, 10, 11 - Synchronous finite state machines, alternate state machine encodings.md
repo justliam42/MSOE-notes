@@ -9,4 +9,4 @@ Finite State Machines (FSM)
 
 Moore Machine
 - At the heart of the Moore machine there is a n-bit storage register.
-- The ***State Register***
+- The ***State Register*** 
