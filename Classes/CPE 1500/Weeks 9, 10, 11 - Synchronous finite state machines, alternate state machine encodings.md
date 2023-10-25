@@ -24,9 +24,10 @@ Mealy Machine
 
 
 
-We doing bubbles or someting
-- The name of the state name on top
+**State Bubble Diagram**
+- The name of the state name on top (T0, T1, etc)
 - at the bottom is da outputs
 - A departure from this state is represented by a graph arc (representing the clock)
 - Like a flow chart or something
-Next sta
+**State Table**
+- 
