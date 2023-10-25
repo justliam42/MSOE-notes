@@ -18,4 +18,5 @@ Moore Machine
 
 
 Mealy Machine
-- Will look almost identical to the 
+- Will look almost identical to the Moore Machine but:
+- The inputs also feed into the output logic (th)
