@@ -34,4 +34,4 @@ Mealy Machine
 - Inputs are state
 **Truth Table**
 - Based on number of input states, calculate how many bits needed
-- Truth table looks like State table but 
+- Truth table looks like State table but translate to bits or something
