@@ -63,6 +63,6 @@ architecture MOORE of GDOOR is
 			o2 when Q=o1 else
 			o3 when q=o2 else
 			o4 when q=o3 else 
-			-- ... teehee
+			-- ... teehee agag
 	
 ```
