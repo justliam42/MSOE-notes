@@ -38,3 +38,5 @@ Mealy Machine
 - Truth table looks like State table but translate to bits or something
 ![[20231025_084023.jpg | 300]]
 - 
+
+
