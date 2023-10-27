@@ -59,7 +59,7 @@ architecture MOORE of GDOOR is
 	 -- vhdl makes the appropriate amt of bits here
 	begin 
 		--next state logic
-		D <= wai when Q=wai and o='0' else 
-			o1 when Q=wai and o='1'
+		D <= o1 when 0=wai and o='1' else 
+			
 	
 ```
