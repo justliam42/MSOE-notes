@@ -55,5 +55,9 @@ end entity GDOOR;
 
 architecture MOORE of GDOOR is
 	type states is (wai,o1,o2,o3,o4,d1,d2,d3,c1,c2,c3,c4);
-	signal D,Q: S
+	signal D,Q: STATES;
+	 -- vhdl makes the appropriate amt of bits here
+	begin 
+	
+	
 ```
