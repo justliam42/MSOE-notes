@@ -60,6 +60,9 @@ architecture MOORE of GDOOR is
 	begin 
 		--next state logic
 		D <= o1 when 0=wai and o='1' else 
-			
+			o2 when Q=o1 else
+			o3 when q=o2 else
+			o4 when q=o3 else 
+			-- ... teehee
 	
 ```
