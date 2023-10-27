@@ -43,5 +43,10 @@ Mealy Machine
 --10.27.2023--
 	some vhdl for a garage opener
 
-library iee;
-us
+```vhdl
+library ieee;
+use ieee.std.logic.1164.all;
+
+enitity GDOOR is
+poert(O)
+```
