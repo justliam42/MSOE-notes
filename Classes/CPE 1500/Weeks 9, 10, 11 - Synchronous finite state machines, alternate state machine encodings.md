@@ -40,4 +40,8 @@ Mealy Machine
 - 
 
 
---10.
+--10.27.2023--
+	some vhdl for a garage opener
+
+library iee;
+us
