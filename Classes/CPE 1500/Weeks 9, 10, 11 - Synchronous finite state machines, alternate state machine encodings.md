@@ -53,5 +53,7 @@ port(
 	M,D: out std.logic)
 end entity GDOOR;
 
-architecture MOORE of GD
+architecture MOORE of GDOOR is
+	type states is (wait,o1,o2,o3,o4,d1,d2,d3,c1,c2,c3,c4);
+	
 ```
