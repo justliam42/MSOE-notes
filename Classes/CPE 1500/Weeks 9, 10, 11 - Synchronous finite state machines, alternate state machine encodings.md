@@ -48,5 +48,10 @@ library ieee;
 use ieee.std.logic.1164.all;
 
 enitity GDOOR is
-poert(O)
+port(
+	O,C,RST,CLK: in std.logic;
+	M,D: out std.logic)
+end entity GDOOR;
+
+architecture MOORE of GD
 ```
