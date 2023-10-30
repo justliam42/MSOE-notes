@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md"
               }
             }
           },
@@ -218,6 +218,7 @@
   },
   "active": "9891556590700f96",
   "lastOpenFiles": [
+    "TODO (homework).md",
     "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
     "20231025_084023.jpg",
     "20231025_083714.jpg",
@@ -233,7 +234,6 @@
     "Classes/CSC 1110/Exercise 6.md",
     "Extra notes/Future Fun/Smarthome and lights.md",
     "Extra notes/Future Fun/Home planning.md",
-    "TODO (homework).md",
     "pictures/Pasted image 20231020082356.png",
     "pictures/Pasted image 20231018084651.png",
     "pictures/Pasted image 20231018084334.png",
