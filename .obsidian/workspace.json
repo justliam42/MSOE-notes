@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Class Semester plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Class Semester plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Class Semester plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Info.md"
+                "file": "Class Semester plan.md"
               }
             }
           },
@@ -218,6 +218,8 @@
   },
   "active": "9891556590700f96",
   "lastOpenFiles": [
+    "Classes/Schedule.md",
+    "Books/Info.md",
     "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
     "TODO (homework).md",
     "20231025_084023.jpg",
@@ -228,7 +230,6 @@
     "Pasted image 20231024131905.png",
     "pictures/Pasted image 20231024150600.png",
     "pictures/Pasted image 20231024141414.png",
-    "Classes/Schedule.md",
     "Pasted image 20231024130017.png",
     "Classes/CPE 1500/Week 8 - Memory basics.md",
     "Classes/CSC 1110/Exercise 6.md",
@@ -245,7 +246,6 @@
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
     "Extra notes/Cognex.md",
-    "Books/Info.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/CSC 1110/CSC 1110.md",
     "Extra notes/DLI course.md",
