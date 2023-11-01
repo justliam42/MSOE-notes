@@ -1,6 +1,7 @@
 - COM 1001
 	- [ ] Folk Lore or something
 - Math
+	- [ ] 936 # 1, 3, 4, 9, 11, 15, 17, 25(a), (c)
 - CPE 1500
 - CSC 1110
 	 - [ ] exercise 8

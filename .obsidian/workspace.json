@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Semester plan.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Semester plan.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Semester plan.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Semester plan.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -218,6 +218,7 @@
   },
   "active": "9891556590700f96",
   "lastOpenFiles": [
+    "Class Semester plan.md",
     "Pasted image 20231031104241.png",
     "Pasted image 20231031084922.png",
     "Pasted image 20231030144151.png",
@@ -229,7 +230,6 @@
     "pictures/20231025_083714.jpg",
     "pictures/20231025_081546.jpg",
     "Classes/CPE 1500/CPE 1500.md",
-    "Class Semester plan.md",
     "Pasted image 20231024131905.png",
     "pictures/Pasted image 20231024150600.png",
     "pictures/Pasted image 20231024141414.png",
@@ -238,7 +238,6 @@
     "Classes/CSC 1110/Exercise 6.md",
     "Extra notes/Future Fun/Smarthome and lights.md",
     "Extra notes/Future Fun/Home planning.md",
-    "pictures/Pasted image 20231020082356.png",
     "Classes/CSC 1110/notes.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
     "Classes/CPE 1500/Week 7 - Shifters and rotators, comparators, and ALUs.md",
