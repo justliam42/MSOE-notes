@@ -24,3 +24,4 @@ MUS 0600
 ![[Pasted image 20231031084922.png]]
 Com 2001 could be one of three classes (at the same time) but might take up nicks
 ![[Pasted image 20231031104241.png]]
+![[Pasted image 20231102100304.png]]

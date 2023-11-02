@@ -47,9 +47,11 @@
             "id": "9891556590700f96",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pictures/Pasted image 20231031104241.png"
+                "file": "Class Semester plan.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pictures/Pasted image 20231031104241.png",
+                "file": "Class Semester plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pictures/Pasted image 20231031104241.png",
+                "file": "Class Semester plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pictures/Pasted image 20231031104241.png"
+                "file": "Class Semester plan.md"
               }
             }
           },
@@ -214,20 +216,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9891556590700f96",
+  "active": "9d0a63a33f3a9c4a",
   "lastOpenFiles": [
+    "pictures/Pasted image 20231031104241.png",
     "Class Semester plan.md",
+    "pictures/Pasted image 20231102100304.png",
+    "TODO (homework).md",
     "pictures/Pasted image 20230924151456.png",
     "pictures/20230918_081738.jpg",
     "pictures/Pasted image 20231020082356.png",
     "pictures/Pasted image 20231024141414.png",
-    "TODO (homework).md",
     "Classes/CSC 1110/CSC 1110.md",
     "Classes/CSC 1110/Exercise 6.md",
     "Classes/CSC 1110/notes.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/MTH 2130/formulas.md",
-    "pictures/Pasted image 20231031104241.png",
     "pictures/Pasted image 20231031084922.png",
     "pictures/Pasted image 20231030144151.png",
     "Classes/Schedule.md",
@@ -235,7 +238,6 @@
     "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
     "pictures/20231025_084023.jpg",
     "pictures/20231025_083714.jpg",
-    "pictures/20231025_081546.jpg",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 8 - Memory basics.md",
     "Extra notes/Future Fun/Smarthome and lights.md",
