@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSC 1110/CSC 1110.md",
+                "file": "Class Semester plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CSC 1110/CSC 1110.md",
+                "file": "Class Semester plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CSC 1110/CSC 1110.md",
+                "file": "Class Semester plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CSC 1110/CSC 1110.md"
+                "file": "Class Semester plan.md"
               }
             }
           },
@@ -218,16 +218,16 @@
   },
   "active": "9891556590700f96",
   "lastOpenFiles": [
+    "TODO (homework).md",
+    "Classes/CSC 1110/CSC 1110.md",
     "Classes/CSC 1110/Exercise 6.md",
     "Classes/CSC 1110/notes.md",
-    "Classes/CSC 1110/CSC 1110.md",
-    "TODO (homework).md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/MTH 2130/formulas.md",
     "Class Semester plan.md",
-    "Pasted image 20231031104241.png",
-    "Pasted image 20231031084922.png",
-    "Pasted image 20231030144151.png",
+    "pictures/Pasted image 20231031104241.png",
+    "pictures/Pasted image 20231031084922.png",
+    "pictures/Pasted image 20231030144151.png",
     "Classes/Schedule.md",
     "Books/Info.md",
     "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
