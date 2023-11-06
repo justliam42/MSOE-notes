@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Classes/CSC 1110/Exercise 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Classes/CSC 1110/Exercise 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Info.md",
+                "file": "Classes/CSC 1110/Exercise 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Info.md"
+                "file": "Classes/CSC 1110/Exercise 11.md"
               }
             }
           },
@@ -218,6 +218,8 @@
   },
   "active": "9891556590700f96",
   "lastOpenFiles": [
+    "Books/Info.md",
+    "Classes/CSC 1110/Exercise 11.md",
     "TODO (homework).md",
     "Class Semester plan.md",
     "pictures/Pasted image 20231031104241.png",
@@ -234,7 +236,6 @@
     "pictures/Pasted image 20231031084922.png",
     "pictures/Pasted image 20231030144151.png",
     "Classes/Schedule.md",
-    "Books/Info.md",
     "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
     "pictures/20231025_084023.jpg",
     "pictures/20231025_083714.jpg",
