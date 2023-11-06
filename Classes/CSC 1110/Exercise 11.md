@@ -1,4 +1,4 @@
-My javadoc
+## 1: My javadocs
 ```java
 /**
  * Interface for a schedulable object
@@ -26,6 +26,48 @@ public interface Schedulable {
 	 * returns the name of the item
 	 * @return the name of the item
 	 */
+    String getName();
+}
+```
+
+## 2: ChatGPT's javadocs
+```java
+/**
+ * The Schedulable interface represents an entity that can be scheduled for various time slots.
+ * Implementing classes should provide functionality to manage scheduling and check availability.
+ */
+public interface Schedulable {
+
+    /**
+     * Checks if the entity is busy at a specified day and hour.
+     *
+     * @param day  The day of the week (0 for Sunday, 1 for Monday, ..., 6 for Saturday).
+     * @param hour The hour of the day (0 to 23).
+     * @return true if the entity is busy at the specified day and hour, false otherwise.
+     */
+    boolean isBusy(int day, int hour);
+
+    /**
+     * Adds a Schedulable item to the schedule of this entity.
+     *
+     * @param item The Schedulable item to be added to the schedule.
+     * @return true if the item was successfully added, false if it couldn't be added.
+     */
+    boolean add(Schedulable item);
+
+    /**
+     * Removes a Schedulable item from the schedule of this entity.
+     *
+     * @param item The Schedulable item to be removed from the schedule.
+     * @return true if the item was successfully removed, false if it couldn't be removed.
+     */
+    boolean remove(Schedulable item);
+
+    /**
+     * Gets the name of the entity.
+     *
+     * @return The name of the entity as a String.
+     */
     String getName();
 }
 ```
