@@ -119,3 +119,6 @@ note: I'm not entirely sure if considering the methods as private is correct.
 | - getScheduleMatrix(): int[][]                       |
 +------------------+
 ```
+
+## 6: what's missing
+The plaintext diagram has some 
