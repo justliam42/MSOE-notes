@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSC 1110/Exercise 11.md",
+                "file": "Classes/CSC 1110/Exercise 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CSC 1110/Exercise 11.md",
+                "file": "Classes/CSC 1110/Exercise 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CSC 1110/Exercise 11.md",
+                "file": "Classes/CSC 1110/Exercise 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CSC 1110/Exercise 11.md"
+                "file": "Classes/CSC 1110/Exercise 9.md"
               }
             }
           },
@@ -216,13 +216,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d0a63a33f3a9c4a",
+  "active": "9891556590700f96",
   "lastOpenFiles": [
+    "TODO (homework).md",
+    "Classes/CSC 1110/Exercise 9.md",
     "Pasted image 20231106113608.png",
     "Pasted image 20231106113437.png",
-    "Classes/CSC 1110/Exercise 11.md",
     "Books/Info.md",
-    "TODO (homework).md",
     "Class Semester plan.md",
     "pictures/Pasted image 20231031104241.png",
     "pictures/Pasted image 20231102100304.png",
@@ -239,7 +239,6 @@
     "pictures/Pasted image 20231030144151.png",
     "Classes/Schedule.md",
     "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
-    "pictures/20231025_084023.jpg",
     "Classes/CPE 1500/CPE 1500.md",
     "Classes/CPE 1500/Week 8 - Memory basics.md",
     "Extra notes/Future Fun/Smarthome and lights.md",

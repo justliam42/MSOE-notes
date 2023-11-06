@@ -1,9 +1,8 @@
 - COM 1001
 	- [ ] Folk Lore or something
 - Math
-	- [ ] 936 # 11, 15, uh 17, 25(a), (c)
+	- [x] 936 # 11, 15, uh 17, 25(a), (c)
 - CPE 1500
 - CSC 1110
-	 - [ ] exercise 8
-	 - [ ] lab 9
+	 - [ ] turn in ex9 (Excersize 11)
 - other
