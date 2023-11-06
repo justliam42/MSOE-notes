@@ -4,6 +4,7 @@
 	- [x] 936 # 11, 15, uh 17, 25(a), (c)
 	- [ ] learn things
 - CPE 1500
+	- [ ] Lab work? idk
 - CSC 1110
 	 - [ ] turn in ex9
 - other
