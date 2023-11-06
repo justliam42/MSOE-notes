@@ -87,3 +87,35 @@ ChatGPT's Javadocs are much more robust, probably because I was a bit lay with t
 +-------------------+
 ```
 note: I'm not entirely sure if considering the methods as private is correct.
+
+## 5: ChatGPT's extended UML diagram
+```sql
++-------------------+
+|    Schedulable   |
++-------------------+
+| - isBusy(int, int): boolean     |
+| - add(Schedulable): boolean     |
+| - remove(Schedulable): boolean  |
+| - getName(): String             |
++-------------------+
+       ^
+       |
+       |
++------------------+
+|    Calendar      |
++------------------+
+| - items: List<Schedulable>     |
+| - name: String                |
+| - startOfDay: int             |
+| - endOfDay: int               |
++------------------+
+| + Calendar(String, int, int, Schedulable...): Calendar |
+| + Calendar(String, Schedulable...): Calendar          |
+| + isBusy(int, int): boolean                           |
+| + add(Schedulable): boolean                          |
+| + remove(Schedulable): boolean                       |
+| + getName(): String                                   |
+| + toString(): String                                 |
+| - getScheduleMatrix(): int[][]                       |
++------------------+
+```
