@@ -8,3 +8,5 @@
 - CSC 1110
 	 - [ ] turn in ex9
 - other
+	- [ ] do some work on ai hehe
+	- [ ] music hall?
