@@ -71,3 +71,6 @@ public interface Schedulable {
     String getName();
 }
 ```
+
+## 3: Compare javadocs
+ChatGPT's javadocs 
