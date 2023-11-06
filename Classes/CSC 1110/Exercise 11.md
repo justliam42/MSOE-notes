@@ -123,3 +123,6 @@ note: I'm not entirely sure if considering the methods as private is correct.
 ## 6: what's missing
 The plaintext diagram has some issues making the boxes look clean, additionally, in a plain text representation of UML, you need to use textual descriptions and conventions creatively to convey the same information that would be visually represented in a graphical UML diagram.
 
+## 7: Drawing
+I did this in Visio
+![[Pasted image 20231106113437.png]]
