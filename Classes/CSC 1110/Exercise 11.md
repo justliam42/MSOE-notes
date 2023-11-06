@@ -121,4 +121,4 @@ note: I'm not entirely sure if considering the methods as private is correct.
 ```
 
 ## 6: what's missing
-The plaintext diagram has some 
+The plaintext diagram has some issues making the boxes look clean
