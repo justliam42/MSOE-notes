@@ -73,4 +73,4 @@ public interface Schedulable {
 ```
 
 ## 3: Compare javadocs
-ChatGPT's javadocs 
+ChatGPT's javadocs are much more robust, probably because I was a bit lay with them. It also understood exactly what this interface was doing quite quickly. I may have been more concise, but chatGPT's answer provided better 
