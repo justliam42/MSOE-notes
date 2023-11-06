@@ -11,7 +11,9 @@ public interface Schedulable {
 	 */
     boolean isBusy(int day, int hour);
 	/**
-	 8 
+	 * adds an item to the schedule
+	 * @param item the item to add
+	 * @return if the operation was successful
     boolean add(Schedulable item);
     boolean remove(Schedulable item);
     String getName();
