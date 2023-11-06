@@ -76,3 +76,13 @@ public interface Schedulable {
 ChatGPT's Javadocs are much more robust, probably because I was a bit lay with them. It also understood exactly what this interface was doing quite quickly. I may have been more concise, but ChatGPT's answer provided better documentation overall.
 
 ## 4: ChatGPT's UML diagram
+```sql
++-------------------+
+|    Schedulable   |
++-------------------+
+| - isBusy(int, int): boolean     |
+| - add(Schedulable): boolean     |
+| - remove(Schedulable): boolean  |
+| - getName(): String             |
++-------------------+
+```
