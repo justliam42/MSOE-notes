@@ -1,4 +1,4 @@
-## 1: My javadocs
+## 1: My Javadocs
 ```java
 /**
  * Interface for a schedulable object
@@ -30,7 +30,7 @@ public interface Schedulable {
 }
 ```
 
-## 2: ChatGPT's javadocs
+## 2: ChatGPT's Javadocs
 ```java
 /**
  * The Schedulable interface represents an entity that can be scheduled for various time slots.
@@ -72,5 +72,7 @@ public interface Schedulable {
 }
 ```
 
-## 3: Compare javadocs
-ChatGPT's javadocs are much more robust, probably because I was a bit lay with them. It also understood exactly what this interface was doing quite quickly. I may have been more concise, but chatGPT's answer provided better 
+## 3: Compare Javadocs
+ChatGPT's Javadocs are much more robust, probably because I was a bit lay with them. It also understood exactly what this interface was doing quite quickly. I may have been more concise, but ChatGPT's answer provided better documentation overall.
+
+## 4: ChatGPT's UML diagram
