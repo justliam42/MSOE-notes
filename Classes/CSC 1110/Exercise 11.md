@@ -86,3 +86,4 @@ ChatGPT's Javadocs are much more robust, probably because I was a bit lay with t
 | - getName(): String             |
 +-------------------+
 ```
+note: I'm not entirely sure if considering the methods as private is correct.
