@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO (homework).md",
+                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO (homework).md"
+                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md"
               }
             }
           },
@@ -216,11 +216,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9891556590700f96",
+  "active": "a24e759e924b8352",
   "lastOpenFiles": [
+    "TODO (homework).md",
     "Pasted image 20231106114206.png",
     "Classes/CSC 1110/Exercise 9.md",
-    "TODO (homework).md",
     "Pasted image 20231106113608.png",
     "Pasted image 20231106113437.png",
     "Books/Info.md",
@@ -237,7 +237,6 @@
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/MTH 2130/formulas.md",
     "pictures/Pasted image 20231031084922.png",
-    "pictures/Pasted image 20231030144151.png",
     "Classes/Schedule.md",
     "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
     "Classes/CPE 1500/CPE 1500.md",
