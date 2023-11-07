@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
+                "file": "Classes/CSC 1110/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
+                "file": "Classes/CSC 1110/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
+                "file": "Classes/CSC 1110/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md"
+                "file": "Classes/CSC 1110/notes.md"
               }
             }
           },
@@ -218,6 +218,8 @@
   },
   "active": "a24e759e924b8352",
   "lastOpenFiles": [
+    "Pasted image 20231107151051.png",
+    "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "TODO (homework).md",
     "Pasted image 20231106114206.png",
     "Classes/CSC 1110/Exercise 9.md",
@@ -245,7 +247,6 @@
     "Extra notes/Future Fun/Home planning.md",
     "Classes/CPE 1500/Definitions(CPE1500).md",
     "Classes/CPE 1500/Week 7 - Shifters and rotators, comparators, and ALUs.md",
-    "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "Extra notes/GE health.md",
     "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
     "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
