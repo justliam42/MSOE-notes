@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CSC 1110/notes.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CSC 1110/notes.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CSC 1110/notes.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CSC 1110/notes.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -218,6 +218,7 @@
   },
   "active": "a24e759e924b8352",
   "lastOpenFiles": [
+    "Classes/CSC 1110/notes.md",
     "Pasted image 20231107151051.png",
     "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
     "TODO (homework).md",
@@ -235,10 +236,8 @@
     "pictures/Pasted image 20231024141414.png",
     "Classes/CSC 1110/CSC 1110.md",
     "Classes/CSC 1110/Exercise 6.md",
-    "Classes/CSC 1110/notes.md",
     "Classes/MTH 2130/MTH 2130.md",
     "Classes/MTH 2130/formulas.md",
-    "pictures/Pasted image 20231031084922.png",
     "Classes/Schedule.md",
     "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
     "Classes/CPE 1500/CPE 1500.md",

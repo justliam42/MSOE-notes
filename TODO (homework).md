@@ -1,8 +1,7 @@
 - COM 1001
 	- [ ] Folk Lore or something
 - Math
-	- [x] 936 # 11, 15, uh 17, 25(a), (c)
-	- [ ] learn things
+	- [ ] Do the exercises or soemthing
 - CPE 1500
 	- [ ] Lab work? idk
 - CSC 1110
