@@ -3,7 +3,8 @@
 - Math
 	- [ ] Do the exercises or soemthing
 - CPE 1500
-	- [ ] Lab work? idk
+	- [ ] Lab week 11
+	- [ ] Homework week 11
 - CSC 1110
 	 - [ ] turn in ex9
 - other
