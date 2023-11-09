@@ -3,9 +3,10 @@
 - Math
 	- [ ] Do the exercises or soemthing
 - CPE 1500
-	- [ ] Lab week 11
-		- [ ] Make it well commented...
+	- [x] Lab week 11
+		- [x] Make it well commented...
 	- [ ] Homework week 11
+		- [ ] last prblem k maps and such
 - CSC 1110
 	 - [ ] turn in ex9
 - other
