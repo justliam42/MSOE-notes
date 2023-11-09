@@ -9,7 +9,6 @@
 	- [ ] Homework week 11
 		- [ ] last prblem k maps and such
 - CSC 1110
-	 - [ ] turn in ex9
 - other
 	- [ ] do some work on ai hehe
 	- [ ] music hall?
