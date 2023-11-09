@@ -1,5 +1,6 @@
 - COM 1001
 	- [ ] Folk Lore or something
+		- [ ] idek brug
 - Math
 	- [ ] Do the exercises or soemthing
 - CPE 1500
