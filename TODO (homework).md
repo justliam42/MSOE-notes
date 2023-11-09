@@ -11,3 +11,4 @@
 - other
 	- [ ] do some work on ai hehe
 	- [ ] music hall?
+	- [ ] child rower
