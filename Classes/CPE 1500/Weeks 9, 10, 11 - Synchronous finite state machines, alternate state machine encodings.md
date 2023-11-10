@@ -66,3 +66,7 @@ architecture MOORE of GDOOR is
 			-- ... teehee agag
 	
 ```
+
+--11.10.2023--
+### Counters
+- Stand
