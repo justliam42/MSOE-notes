@@ -79,4 +79,5 @@ architecture MOORE of GDOOR is
 	- gets modulo n from a counter
 	- from 0 to n-1 and repeat
 - n-bit gray code
+	- 
 - n-bit one hot
