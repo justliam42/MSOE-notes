@@ -69,8 +69,11 @@ architecture MOORE of GDOOR is
 
 --11.10.2023--
 ### Counters
-- Standard n-bit binary: 0, 1, 2, ... (2<sup>n</sup>-1) and repeats. It takes 2,<sup>n</sup> cl
+- Standard n-bit binary
+	- 0, 1, 2, ... (2<sup>n</sup>-1) and repeats. 
+	 - 2,<sup>n</sup> clock periods
 - Binary coded decimal
+	- 0, 1, ... 9
 - modulo-n
 - n-bit gray code
 - n-bit one hot
