@@ -86,4 +86,6 @@ architecture MOORE of GDOOR is
 	- so each is n 0s and n 1s
 - n-bit one hot
 	- one hot is only one is active at a time
-	- 001 010 100 
+	- 001 010 100 001 010 100 for 3-bit
+	- so 1,2,4, ... 2<sup>n</sup>-1
+	- can be one-cold
