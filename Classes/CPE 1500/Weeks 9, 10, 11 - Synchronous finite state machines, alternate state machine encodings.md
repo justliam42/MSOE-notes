@@ -73,7 +73,9 @@ architecture MOORE of GDOOR is
 	- 0, 1, 2, ... (2<sup>n</sup>-1) and repeats. 
 	 - 2,<sup>n</sup> clock periods
 - Binary coded decimal
-	- 0, 1, ... 9
+	- 0, 1, ... 9 and repeats
+	- 10 clock periods
 - modulo-n
+	- 
 - n-bit gray code
 - n-bit one hot
