@@ -76,6 +76,7 @@ architecture MOORE of GDOOR is
 	- 0, 1, ... 9 and repeats
 	- 10 clock periods
 - modulo-n
-	- 
+	- gets modulo n from a counter
+	- from 0 to n-1 and repeat
 - n-bit gray code
 - n-bit one hot
