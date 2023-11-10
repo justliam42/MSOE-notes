@@ -81,5 +81,8 @@ architecture MOORE of GDOOR is
 - n-bit gray code
 	- one bit changes at a time
 	- start with columns
-	- first column is 01 then mirrored
+	- first column is 01 then mirrored down
+	- second column is 0011 then mirrored down etc.
+	- so each is n 0s and n 1s
 - n-bit one hot
+	- 
