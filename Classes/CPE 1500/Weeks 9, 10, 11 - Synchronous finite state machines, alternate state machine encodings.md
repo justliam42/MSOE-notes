@@ -85,4 +85,5 @@ architecture MOORE of GDOOR is
 	- second column is 0011 then mirrored down etc.
 	- so each is n 0s and n 1s
 - n-bit one hot
-	- 
+	- one hot is only one is active at a time
+	- 001 010 100 
