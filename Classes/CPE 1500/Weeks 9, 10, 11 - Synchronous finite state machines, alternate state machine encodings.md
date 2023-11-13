@@ -90,4 +90,11 @@ architecture MOORE of GDOOR is
 	- so 1,2,4, ... 2<sup>n</sup>-1
 	- can be one-cold
 
-- 
+- 000
+- 001
+- 011
+- 010
+- 110
+- 111
+- 101
+- 100
