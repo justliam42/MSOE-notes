@@ -14,3 +14,7 @@ through your annotated bib topic and prewrite you will understand how an informe
 
 this bibliography si across between scholoarly and rhetorical writing
 
+types of writing is
+	Creative - original from the mind and imagination
+	Literary - in reaction to a work of literture
+	Scholarly - for research based university work and publications
