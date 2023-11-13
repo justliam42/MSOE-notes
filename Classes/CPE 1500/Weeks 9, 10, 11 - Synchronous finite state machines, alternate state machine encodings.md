@@ -92,6 +92,9 @@ architecture MOORE of GDOOR is
 
 --1.13.2023--
 
-Standard counters roll over and start again
-Directionality can be added. Up and down counters exist.
-	- 
+- Standard counters roll over and start again
+- Directionality can be added. Up and down counters exist.
+	- Up Counters
+	- Down Counters
+	- Controllable Up/Down counters are common
+		- Exe:  74191
