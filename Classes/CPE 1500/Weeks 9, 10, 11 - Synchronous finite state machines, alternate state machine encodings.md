@@ -99,7 +99,7 @@ architecture MOORE of GDOOR is
 	- Controllable Up/Down counters are common
 		- Exe:  74191
 - Saturation can be added (so opposite of standard mentioned earlier)
-	- The counter locks in its final directional state
+	- The counter locks in its final directional state - holds its final directional value
 
 State the name of a counter this way:
 
