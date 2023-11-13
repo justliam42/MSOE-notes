@@ -107,4 +107,3 @@ n-bit {standard, saturated} {direction} {type} counter
 
 0 -> 12 12 12 ...
 
-the datb
