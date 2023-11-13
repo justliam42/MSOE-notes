@@ -90,19 +90,8 @@ architecture MOORE of GDOOR is
 	- so 1,2,4, ... 2<sup>n</sup>-1
 	- can be one-cold
 
-- 0000
-- 0001
-- 0011
-- 0010
-- 0110
-- 0111
-- 0101
-- 0100
-- 1100
-- 1101
-- 1111
-- 1110
-- 1010
-- 1011
-- 1001
-- 1000
+--1.13.2023--
+
+Standard counters roll over and start again
+Directionality can be added. Up and down counters exist.
+	- 
