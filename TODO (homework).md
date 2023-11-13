@@ -6,7 +6,7 @@
 	- [ ] study for quiz
 - CPE 1500
 	- [ ] Lab week 12 comments
-	- [ ] fix counter names
+	- [ ] fix counter names using the standard ting
 - CSC 1110
 - other
 	- [ ] do some work on ai hehe
