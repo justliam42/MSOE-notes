@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
+                "file": "Classes/COM 1001/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
+                "file": "Classes/COM 1001/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
+                "file": "Classes/COM 1001/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md"
+                "file": "Classes/COM 1001/Notes.md"
               }
             }
           },
@@ -217,8 +217,9 @@
   },
   "active": "a24e759e924b8352",
   "lastOpenFiles": [
-    "TODO (homework).md",
     "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
+    "Classes/COM 1001/Notes.md",
+    "TODO (homework).md",
     "Classes/CPE 1500/CPE 1500.md",
     "Class Semester plan.md",
     "Classes/Schedule.md",
@@ -252,7 +253,6 @@
     "Extra notes/Cognex.md",
     "Extra notes/DLI course.md",
     "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
-    "Extra notes/Future Fun/Homemade Desk.md",
     "Extra notes/Future Fun",
     "Extra notes",
     "pictures/boolean-algebra-quick-reference.pdf",
