@@ -26,3 +26,7 @@ rhetorical - language used to motivate thoughts actions and beliefs
 mind maps visually outline a subject plot a picture of what you see in your minds eye do not confine yourself to old timey outline 1 2 3 structures create a mind map that most matches what ideas look like to you
 
 evidence: evaluate your sources based on the assignment
+reflecting: point out the parts 100-125 words per part or somthn
+
+ethos and pathos are the building blocks of rhetoric 
+ethos means authority or
