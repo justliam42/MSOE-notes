@@ -89,3 +89,5 @@ architecture MOORE of GDOOR is
 	- 001 010 100 001 010 100 for 3-bit
 	- so 1,2,4, ... 2<sup>n</sup>-1
 	- can be one-cold
+
+- 
