@@ -98,3 +98,4 @@ architecture MOORE of GDOOR is
 	- Down Counters
 	- Controllable Up/Down counters are common
 		- Exe:  74191
+- 
