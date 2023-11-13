@@ -22,3 +22,5 @@ types of writing is
 professional - for use in the corporate world
 practical - everyday use of words
 rhetorical - language used to motivate thoughts actions and beliefs
+
+mind maps visually outline a subject plot a picture of what you see in your minds eye do not confine yourself to old timey outline 1 2 3 structures create a mind map that most matches what ideas look like to you
