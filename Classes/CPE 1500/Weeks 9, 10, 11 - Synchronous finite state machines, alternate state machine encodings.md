@@ -102,4 +102,5 @@ architecture MOORE of GDOOR is
 	- The counter locks in its final directional state
 
 State the name of a counter this way:
+
 n-bit {standard, saturated} {direction} {type} counter
