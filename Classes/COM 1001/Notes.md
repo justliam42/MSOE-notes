@@ -18,3 +18,7 @@ types of writing is
 	Creative - original from the mind and imagination
 	Literary - in reaction to a work of literture
 	Scholarly - for research based university work and publications
+
+professional - for use in the corporate world
+practical - everyday use of words
+rhetorical - language used to motivate thoughts actions and beliefs
