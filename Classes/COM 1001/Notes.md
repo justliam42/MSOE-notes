@@ -29,4 +29,7 @@ evidence: evaluate your sources based on the assignment
 reflecting: point out the parts 100-125 words per part or somthn
 
 ethos and pathos are the building blocks of rhetoric 
-ethos means authority or
+ethos means authority or a show of mastery of a subject
+pathos is feelings or appealing to human emotions and senses
+
+
