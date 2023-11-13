@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
+                "file": "Class Semester plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
+                "file": "Class Semester plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
+                "file": "Class Semester plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md"
+                "file": "Class Semester plan.md"
               }
             }
           },
@@ -217,8 +217,12 @@
   },
   "active": "a24e759e924b8352",
   "lastOpenFiles": [
-    "Classes/CPE 1500/CPE 1500.md",
+    "Classes/Schedule.md",
+    "Classes/MTH 2130/formulas.md",
+    "Classes/MTH 2130/Definitions(MTH2130.md",
+    "Classes/MTH 2130/MTH 2130.md",
     "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
+    "Classes/CPE 1500/CPE 1500.md",
     "TODO (homework).md",
     "Classes/CSC 1110/notes.md",
     "Pasted image 20231107151051.png",
@@ -237,9 +241,6 @@
     "pictures/Pasted image 20231024141414.png",
     "Classes/CSC 1110/CSC 1110.md",
     "Classes/CSC 1110/Exercise 6.md",
-    "Classes/MTH 2130/MTH 2130.md",
-    "Classes/MTH 2130/formulas.md",
-    "Classes/Schedule.md",
     "Classes/CPE 1500/Week 8 - Memory basics.md",
     "Extra notes/Future Fun/Smarthome and lights.md",
     "Extra notes/Future Fun/Home planning.md",
