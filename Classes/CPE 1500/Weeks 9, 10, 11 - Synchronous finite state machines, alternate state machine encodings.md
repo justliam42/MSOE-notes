@@ -104,3 +104,4 @@ architecture MOORE of GDOOR is
 State the name of a counter this way:
 
 n-bit {standard, saturated} {direction} {type} counter
+
