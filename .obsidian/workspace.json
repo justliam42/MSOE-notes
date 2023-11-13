@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Semester plan.md",
+                "file": "TODO (homework).md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Semester plan.md",
+                "file": "TODO (homework).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Semester plan.md",
+                "file": "TODO (homework).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Semester plan.md"
+                "file": "TODO (homework).md"
               }
             }
           },
@@ -217,6 +217,7 @@
   },
   "active": "a24e759e924b8352",
   "lastOpenFiles": [
+    "Class Semester plan.md",
     "Classes/Schedule.md",
     "Classes/MTH 2130/formulas.md",
     "Classes/MTH 2130/Definitions(MTH2130.md",
@@ -232,7 +233,6 @@
     "Pasted image 20231106113608.png",
     "Pasted image 20231106113437.png",
     "Books/Info.md",
-    "Class Semester plan.md",
     "pictures/Pasted image 20231031104241.png",
     "pictures/Pasted image 20231102100304.png",
     "pictures/Pasted image 20230924151456.png",

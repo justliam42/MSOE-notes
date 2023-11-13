@@ -3,13 +3,15 @@
 		- [ ] idek brug
 - Math
 	- [ ] Do the exercises or soemthing
+	- [ ] study for quiz
 - CPE 1500
 	- [x] Lab week 11
 		- [x] Make it well commented...
-	- [ ] Homework week 11
-		- [ ] last prblem k maps and such
+	- [x] Homework week 11
+		- [x] last prblem k maps and such
+	- [ ] Lab week 12 comments
 - CSC 1110
 - other
 	- [ ] do some work on ai hehe
 	- [ ] music hall?
-	- [ ] child rower
+	- [x] child rower
