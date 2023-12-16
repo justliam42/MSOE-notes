@@ -1,5 +1,14 @@
-- [ ] Road trip with a Friend
-	- [ ] Figure out what location to do and such and such
-- [ ] Math
-	- [x] 688,
-	- [ ] page 698, # 3, 4. 6, 8, 9, 24(c), 25, 27
+- COM 1001
+	- [ ] Folk Lore or something
+		- [ ] idek brug
+- Math
+	- [ ] Do the exercises or soemthing
+	- [ ] study for quiz
+- CPE 1500
+	- [ ] Lab week 12 comments
+	- [ ] fix counter names using the standard ting
+- CSC 1110
+- other
+	- [ ] do some work on ai hehe
+	- [ ] music hall?
+	- [x] child rower

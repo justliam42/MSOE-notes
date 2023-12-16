@@ -1,0 +1,12 @@
+- Vector: point with position and magnitude
+	- written as <x, y, z>
+	- magnitude can be called the length or norm and notated as $\|\overrightarrow{v}\|$
+- Initial Point: where the vector originated
+- Terminal Point: where the vector ends
+- Zero Vector: vector with all zeros
+	- <0, 0, 0>
+- Unit Vector: vector with magnitude of 1 (doesn't matter direction)
+	- Standard unit vectors are notated as i, j, k as vectors in x, y, z directions respectively
+- Dot Product: the multiplication of two vectors to become a scalar
+	- also called scalar product
+	- $\overrightarrow{v}\cdot\overrightarrow{w}$

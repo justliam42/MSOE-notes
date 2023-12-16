@@ -1,0 +1,39 @@
+- byte
+	- an 8-bit wide number
+	- the only standardized unit of data (ISO 80000)
+- nibble
+	- commonly used name for a 4-bit number
+- least-significant bit
+	- the "ones" column
+- most-significant bit
+	- the z^(n-1) column of an n-bit wide number
+- precision
+	- the number of values possible in n-bits
+- Literal
+	- an algebraic variable or its complement
+		- A, Ā
+- Combinational circuit
+	- A circuit in which the outputs depend on the inputs (no memory)
+	- Full 3-bit adder is an example
+- Sequential circuit
+	- A circuit in which the output depends on current and/or previous inputs.
+	- RS latch is an example
+- Complement 
+	- the inverse of a literal...
+		- the result is also a literal
+	- A's complement is Ā  
+- Product, Implicant
+	- the result of an AND of literals
+- Minterm (m) (minimizable product terms)
+	- a product involving all the inputs to the function
+	- ĀBC
+- Sum
+	- the result of an OR of literals
+- Maxterm
+	- a sum involving all the inputs to the function
+	- A + B + C
+ - IEEE Standards
+	 - 91: the logic gate symbols
+	 - 1087: VHDL
+	  - 1164 VHDL interoperability (STD_LOGIC)
+	 - 1364: Verilog
