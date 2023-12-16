@@ -1,14 +1,22 @@
 - COM 1001
-	- [ ] Folk Lore or something
-		- [ ] idek brug
+	- [ ] Reflection ting
 - Math
-	- [ ] Do the exercises or soemthing
-	- [ ] study for quiz
 - CPE 1500
-	- [ ] Lab week 12 comments
-	- [ ] fix counter names using the standard ting
+	- [x] Lab week 14 print outs...
+	- [x] Finish homework 15
+	- [ ] lab 15
 - CSC 1110
+	- [ ] read up about streams.
+	- [ ] ...
 - other
 	- [ ] do some work on ai hehe
 	- [ ] music hall?
 	- [x] child rower
+	- [ ] transfer syllabi to long term storage
+- Break things to study/watch
+	- [ ] 3Blue1Brown linear algebra
+	- [ ] JavaFX/Swing
+	- [ ] finish embedded systems game
+	- [ ] data structures (idk means yet)
+	- [ ] brush up on physics (remember you took online)
+	- [ ] Ben Eater

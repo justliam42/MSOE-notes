@@ -107,3 +107,37 @@ n-bit {standard, saturated} {direction} {type} counter
 
 0 -> 12 12 12 ...
 
+--11.15.2023--
+
+EMI can cause bits to flip so we determine wat to do or somthn
+
+for ERROR states, you can either self correct or lock in the error (and effectively shut down the system)
+
+
+--11.17.2023--
+complex programmable logic device (CLPD)
+
+--11.20.2023--
+
+Instruction Processor 
+
+A processor is a machine that interprets and executes an instruction
+- finite state machine interprets a  binary number as a command request and executing that command
+- Von Neumann did things
+	- Extended moore machine with an added program memory
+	- A moore machine is in front of it as an instruction counter
+	- the program counter pulls specific time in memory that ends up outputting
+	- With a program counter, we can fetch commands and stuff
+	- ARM is pretty widely used
+
+--11.21.2023--
+
+### Acceptor machine
+- an acceptor monitors for an input pattern through time
+- if the pattern is seen, it accepts it, and reports true
+- If pattern is 0110:
+	- Acceptor identifies pattern as F(ound)0, F01, F011, F0110 etc
+	- Once the F0110 exists, Y is put to true, and pc starts accepting the packet (:
+- If pattern is not found, the acceptor enters a ERR/REJECT state.
+- In the acceptor state the state diagram gets a double circle
+- 

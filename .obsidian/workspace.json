@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/Week 8 - Memory basics.md",
+                "file": "Classes/Semester 1/CPE 1500/Week 8 - Memory basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CPE 1500/CPE 1500.md",
+                "file": "Classes/Semester 1/CPE 1500/CPE 1500.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/COM 1001/Notes.md",
+                "file": "Classes/Semester 1/CPE 1500/CPE 1500.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41cb9e787f709ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Semester 1/COM 1001/COM 1001.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf50f0be09908ecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Semester 1/CPE 1500/CPE 1500.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af7fc477207f32bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Semester 2/PHY 1110.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/COM 1001/Notes.md",
+                "file": "Classes/Semester 2/PHY 1110.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/COM 1001/Notes.md",
+                "file": "Classes/Semester 2/PHY 1110.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/COM 1001/Notes.md"
+                "file": "Classes/Semester 2/PHY 1110.md"
               }
             }
           },
@@ -211,58 +247,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a24e759e924b8352",
+  "active": "af7fc477207f32bf",
   "lastOpenFiles": [
-    "Classes/CPE 1500/Weeks 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
-    "Classes/COM 1001/Notes.md",
+    "Classes/Semester 1/MTH 2130/MTH 2130.md",
+    "Classes/Semester 2/PHY 1110.md",
+    "Classes/Semester 2/MTH 2340.md",
+    "Classes/Semester 2/IDS 2020.md",
+    "Classes/Semester 2/CSC 1120.md",
+    "Classes/Semester 2/CPE 1510.md",
     "TODO (homework).md",
-    "Classes/CPE 1500/CPE 1500.md",
-    "Class Semester plan.md",
     "Classes/Schedule.md",
-    "Classes/MTH 2130/formulas.md",
-    "Classes/MTH 2130/Definitions(MTH2130.md",
-    "Classes/MTH 2130/MTH 2130.md",
-    "Classes/CSC 1110/notes.md",
-    "pictures/Pasted image 20231107151051.png",
-    "Classes/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
-    "pictures/Pasted image 20231106114206.png",
-    "Classes/CSC 1110/Exercise 9.md",
-    "pictures/Pasted image 20231106113608.png",
-    "Pasted image 20231106113437.png",
-    "Books/Info.md",
-    "pictures/Pasted image 20231031104241.png",
-    "pictures/Pasted image 20231102100304.png",
-    "pictures/Pasted image 20230924151456.png",
+    "Classes/Semester 2/COM 2001.md",
+    "Classes/Semester 1/MTH 2130/Definitions(MTH2130.md",
+    "Classes/Semester 1/COM 1001/COM 1001.md",
+    "Classes/Semester 2",
+    "Classes/Semester 1/MTH 2130/formulas.md",
+    "Study Plan.md",
+    "Classes/Semester 1/CSC 1110/notes.md",
+    "Classes/Semester 1/CSC 1110/Exercise 9.md",
+    "Classes/Semester 1/CSC 1110/Exercise 6.md",
+    "Classes/Semester 1/CSC 1110/CSC 1110.md",
+    "Classes/Semester 1",
+    "pictures/Pasted image 20231209105541.png",
+    "Classes/Semester 1/CPE 1500/Week 8 - Memory basics.md",
+    "Classes/Semester 1/CPE 1500/Week 9, 10, 11 - Synchronous finite state machines, alternate state machine encodings.md",
+    "Classes/Semester 1/CPE 1500/Week 12 - Transistor level CMOS logic gates.md",
+    "Classes/Semester 1/CPE 1500/Week 13 - Noise margins and logic family interfacing.md",
+    "Classes/Semester 1/CPE 1500/Week 14 and 15 - data path design.md",
+    "Classes/Semester 1/CPE 1500/Week 7 - Shifters and rotators, comparators, and ALUs.md",
+    "Classes/Semester 1/CPE 1500/Week 6 - Full adders, ripple-carry adder-subtractor, carry lookahead adders, VHDL for design entry.md",
+    "Classes/Semester 1/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
+    "Classes/Semester 1/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
     "pictures/20230918_081738.jpg",
-    "pictures/Pasted image 20231020082356.png",
-    "pictures/Pasted image 20231024141414.png",
-    "Classes/CSC 1110/CSC 1110.md",
-    "Classes/CSC 1110/Exercise 6.md",
-    "Classes/CPE 1500/Week 8 - Memory basics.md",
-    "Extra notes/Future Fun/Smarthome and lights.md",
-    "Extra notes/Future Fun/Home planning.md",
-    "Classes/CPE 1500/Definitions(CPE1500).md",
-    "Classes/CPE 1500/Week 7 - Shifters and rotators, comparators, and ALUs.md",
-    "Extra notes/GE health.md",
-    "Classes/CPE 1500/Week 3 - Canonical Boolean equations, Boolean algebra, gate reduction ratios, NAND-NAND circuits.md",
-    "Classes/CPE 1500/Week 1 - Number Systems and Data Encoding.md",
-    "Extra notes/Cognex.md",
-    "Extra notes/DLI course.md",
-    "Classes/CPE 1500/Week 5 - Combination building blocks - multiplexer, decoder, encoder.md",
+    "pictures/20230911_080255.jpg",
+    "pictures/20230908_082958.jpg",
+    "pictures/20230901_082556.jpg",
+    "pictures/20230830_082840.jpg",
+    "pictures/20230908_083746.jpg",
+    "pictures/20230915_082607.jpg",
+    "pictures/20230911_084605.jpg",
+    "pictures/20230915_084721.jpg",
+    "pictures/boolean-algebra-quick-reference.pdf",
     "Extra notes/Future Fun",
     "Extra notes",
-    "pictures/boolean-algebra-quick-reference.pdf",
     "Untitled.canvas",
-    "Classes/MTH 2130",
+    "Classes/Semester 1/MTH 2130",
     "HW1.pdf",
     "~$HW1.pdf",
     "Excalidraw",
-    "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf",
-    "Books/Introduction to Programming with Java_2e.pdf",
-    "Books"
+    "Books/John Dean, Ray Dean - Introduction to Programming with Java_ A Problem Solving Approach-McGraw-Hill Education (2020).pdf"
   ]
 }
